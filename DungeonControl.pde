@@ -11,13 +11,19 @@ float tileWidth= 25.6f, maxWidthValue = 75.0f, minWidthValue = 10.0f;
 boolean sliderSelected = false;
 PImage img;
 float curHeight, curWidth;
+float xPos = 0.0f,yPos = 0.0f, zoom = 1.0f;
+float mX, mWidth, mY, mHeight;
+Map map;
+PImage avatar;
 
 void setup() {
   size(1024,768);
   curHeight = height;
   curWidth = width;
+  
   surface.setResizable(true);
   img = loadImage("Cragmaw Hideout.jpg");
+  avatar = loadImage("https://media-waterdeep.cursecdn.com/avatars/thumbnails/10/93/150/150/636339382612972808.png", "png");
   //textField = new GTextField(this, 5, 5, 50, 20);
   //textField.setText(str(tileWidth));
   widthSlider = new GSlider(this, 15,50,100,60,15);
@@ -30,11 +36,17 @@ void setup() {
   heightSlider.setShowValue(true);
   heightSlider.setShowTicks(true);
   heightSlider.setShowLimits(true);
-  mapPanel = new GPanel(this, width*(1-mapWidth)/2, 0, width*mapWidth, height* mapHeight);
-  mapPanel.setDraggable(true);
+  
+  mX = width*(1-mapWidth)/2;
+  mY = 0;
+  mWidth = width*mapWidth + mX;
+  mHeight = height* mapHeight + mY;
+  map = new Map(mX, mY, width*mapWidth, height* mapHeight);
 }
 void draw() {
   background(200);
+  translate(xPos,yPos);
+  scale(zoom);
   if (curWidth != width){
     tileWidth = tileWidth * width/curWidth;
     widthSlider.setValue(tileWidth);
@@ -45,21 +57,38 @@ void draw() {
   }
   curHeight = height;
   curWidth = width;
-  drawGrid(width*(1-mapWidth)/2, 0, width*mapWidth, height* mapHeight);
+  mX = width*(1-mapWidth)/2;
+  mY = 0;
+  mWidth = width*mapWidth;
+  mHeight = height* mapHeight;
+  map.resize(mX,mY,mWidth,mHeight);
+  map.drawMap();
+  resetMatrix();
+  fill(100);
+  rect(0,0, mX, height* mapHeight);
+  rect(mWidth + mX,0, width, height*mapHeight);
+  rect(0,height*mapHeight + mY,width, height);
+  image(avatar, 100, 600, 50, 50);
 }
 
-void drawGrid(float xpos, float ypos, float width, float height) {
-  image(img, xpos, ypos, width, height);
-  strokeWeight(4);
-  stroke(125);
-  fill(200,100);
-  rect(xpos, ypos, width, height);
-  fill(200,50);
-  for (int i=0; i <= width/tileWidth; i++){
-    for (int j=0; j <= height/tileHeight; j++){
-      rect(xpos+i*tileWidth, ypos+j*tileHeight, tileWidth, tileHeight);
-    }
+void keyPressed() {
+  if (key == ' '){
+    xPos = 0;
+    yPos = 0;
+    zoom = 1.0f;
   }
+}
+
+void mouseDragged() {
+  if ((mX <= mouseX) && (mWidth >= mouseX) && (mY <= mouseY) && (mHeight >= mouseY)){
+    xPos = xPos + (mouseX - pmouseX);
+    yPos = yPos + (mouseY - pmouseY);
+   }
+}
+
+void mouseWheel(MouseEvent event) {
+  float e = event.getCount();
+  zoom = constrain(zoom - e * 0.05, 1, 5);
 }
 
 public void handleSliderEvents(GValueControl slider, GEvent event) { 
