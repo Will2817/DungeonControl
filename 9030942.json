@@ -1,0 +1,4216 @@
+{
+  "largeBackdropAvatarUrl": "",
+  "notes": {
+    "otherHoldings": null,
+    "backstory": "Born in a foreign land, Valzire comes from a family of warlocks known to slightly favor good over evil. Tired of the old ways and having to sacrifice for others, Valzire broke apart from his family and struck a bargain with the Great Old one. His aim is simple: to do whatever is in his own best interests. This has caused his family to disown him and since that time, he's traveled the world, usually on his own, making some acquaintances but always moving on when it as advantageous to do so.\n\nValzire's knack for looking out for his own interests has been useful in gaining him quite a bit of wealth, as he's more concerned with his own gain than crossing a line or two or many for his own benefit.  During his travels, he's also picked up quite a bit of music, which has helped him get free lodging, food etc in exchange for performing, allowing him to save his money for more important endeavors.",
+    "otherNotes": null,
+    "personalPossessions": "a love letter",
+    "organizations": null,
+    "enemies": null,
+    "allies": null
+  },
+  "customSpeeds": [],
+  "pactMagic": [
+    {
+      "level": 1,
+      "available": 0,
+      "used": 1
+    },
+    {
+      "level": 2,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 3,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 4,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 5,
+      "available": 0,
+      "used": 0
+    }
+  ],
+  "removedHitPoints": 2,
+  "bonusStats": [
+    {
+      "name": null,
+      "id": 1,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 2,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 3,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 4,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 5,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 6,
+      "value": null
+    }
+  ],
+  "classSpells": [{
+    "entityTypeId": 1446578651,
+    "spells": [
+      {
+        "castAtLevel": null,
+        "componentId": 0,
+        "prepared": false,
+        "atWillLimitedUseLevel": null,
+        "range": {
+          "aoeValue": null,
+          "origin": "Ranged",
+          "rangeValue": 120,
+          "aoeType": null
+        },
+        "baseLevelAtWill": false,
+        "usesSpellSlot": false,
+        "spellCastingAbilityId": null,
+        "componentTypeId": 0,
+        "additionalDescription": null,
+        "restriction": null,
+        "entityTypeId": 435869154,
+        "definition": {
+          "snippet": "",
+          "rangeArea": null,
+          "canCastAtHigherLevel": true,
+          "sourceId": 2,
+          "components": [
+            1,
+            2
+          ],
+          "requiresAttackRoll": true,
+          "requiresSavingThrow": false,
+          "range": {
+            "aoeValue": null,
+            "origin": "Ranged",
+            "rangeValue": 120,
+            "aoeType": null
+          },
+          "description": "<p>A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.<\/p>\r\n<p>The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.<\/p>",
+          "tempHpDice": null,
+          "modifiers": [{
+            "duration": 0,
+            "die": {
+              "diceCount": 1,
+              "diceValue": 10,
+              "fixedValue": null,
+              "diceString": "1d10",
+              "diceMultiplier": null
+            },
+            "friendlyTypeName": "Damage",
+            "count": 1,
+            "restriction": "",
+            "atHigherLevels": {
+              "duration": [],
+              "special": [],
+              "scaleType": "characterlevel",
+              "additionalTargets": [],
+              "creatures": [],
+              "areaOfEffect": [],
+              "higherLevelDefinitions": [],
+              "additionalAttacks": [],
+              "points": []
+            },
+            "subType": "force",
+            "id": "spell_2082_66",
+            "durationUnit": null,
+            "friendlySubtypeName": "Force",
+            "type": "damage",
+            "usePrimaryStat": false
+          }],
+          "duration": {
+            "durationInterval": 0,
+            "durationUnit": null,
+            "durationType": "Instantaneous"
+          },
+          "healing": null,
+          "school": "Evocation",
+          "damageEffect": null,
+          "id": 2082,
+          "castingTimeDescription": "",
+          "level": 0,
+          "ritual": false,
+          "asPartOfWeaponAttack": false,
+          "componentsDescription": "",
+          "isHomebrew": false,
+          "atHigherLevels": {
+            "duration": [],
+            "special": [],
+            "scaleType": "characterlevel",
+            "additionalTargets": [],
+            "creatures": [],
+            "areaOfEffect": [],
+            "higherLevelDefinitions": [
+              {
+                "level": 5,
+                "dice": {
+                  "diceCount": 1,
+                  "diceValue": 10,
+                  "fixedValue": 1,
+                  "diceString": "1d10 + 1",
+                  "diceMultiplier": null
+                },
+                "typeId": 16,
+                "details": "Beams",
+                "value": null
+              },
+              {
+                "level": 11,
+                "dice": {
+                  "diceCount": 1,
+                  "diceValue": 10,
+                  "fixedValue": 2,
+                  "diceString": "1d10 + 2",
+                  "diceMultiplier": null
+                },
+                "typeId": 16,
+                "details": "Beams",
+                "value": null
+              },
+              {
+                "level": 17,
+                "dice": {
+                  "diceCount": 1,
+                  "diceValue": 10,
+                  "fixedValue": 3,
+                  "diceString": "1d10 + 3",
+                  "diceMultiplier": null
+                },
+                "typeId": 16,
+                "details": "Beams",
+                "value": null
+              }
+            ],
+            "additionalAttacks": [
+              {
+                "level": 5,
+                "description": "Beams",
+                "totalCount": 1
+              },
+              {
+                "level": 11,
+                "description": "Beams",
+                "totalCount": 2
+              },
+              {
+                "level": 17,
+                "description": "Beams",
+                "totalCount": 3
+              }
+            ],
+            "points": []
+          },
+          "sourcePageNumber": 237,
+          "concentration": false,
+          "version": null,
+          "saveDcAbilityId": null,
+          "tags": ["Damage"],
+          "attackType": 2,
+          "name": "Eldritch Blast",
+          "activation": {
+            "activationType": 1,
+            "activationTime": 1
+          },
+          "conditions": [],
+          "healingDice": null
+        },
+        "alwaysPrepared": false,
+        "displayAsAttack": null,
+        "id": 136704,
+        "castOnlyAsRitual": false,
+        "activation": {
+          "activationType": 1,
+          "activationTime": 1
+        },
+        "countsAsKnownSpell": true,
+        "ritualCastingType": null
+      },
+      {
+        "castAtLevel": null,
+        "componentId": 0,
+        "prepared": false,
+        "atWillLimitedUseLevel": null,
+        "range": {
+          "aoeValue": null,
+          "origin": "Self",
+          "rangeValue": null,
+          "aoeType": null
+        },
+        "baseLevelAtWill": false,
+        "usesSpellSlot": true,
+        "spellCastingAbilityId": null,
+        "componentTypeId": 0,
+        "additionalDescription": null,
+        "restriction": null,
+        "entityTypeId": 435869154,
+        "definition": {
+          "snippet": "",
+          "rangeArea": null,
+          "canCastAtHigherLevel": true,
+          "sourceId": 2,
+          "components": [
+            1,
+            2,
+            3
+          ],
+          "requiresAttackRoll": false,
+          "requiresSavingThrow": false,
+          "range": {
+            "aoeValue": null,
+            "origin": "Self",
+            "rangeValue": null,
+            "aoeType": null
+          },
+          "description": "<p>A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.<\/p>\r\n<p><strong>At Higher Levels.<\/strong>&nbsp;When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot.<\/p>\r\n<p>&nbsp;<\/p>",
+          "tempHpDice": null,
+          "modifiers": [
+            {
+              "duration": 0,
+              "die": {
+                "diceCount": null,
+                "diceValue": null,
+                "fixedValue": 5,
+                "diceString": null,
+                "diceMultiplier": null
+              },
+              "friendlyTypeName": "Bonus",
+              "count": 1,
+              "restriction": "",
+              "atHigherLevels": {
+                "duration": [],
+                "special": [],
+                "scaleType": "spellscale",
+                "additionalTargets": [],
+                "creatures": [],
+                "areaOfEffect": [],
+                "higherLevelDefinitions": [{
+                  "level": 1,
+                  "dice": null,
+                  "typeId": 15,
+                  "details": "",
+                  "value": 5
+                }],
+                "additionalAttacks": [],
+                "points": [
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 10,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 2,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 15,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 3,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 20,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 4,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 25,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 5,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 30,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 6,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 35,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 7,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 40,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 8,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 45,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 9,
+                    "description": ""
+                  }
+                ]
+              },
+              "subType": "temporary-hit-points",
+              "id": "spell_2310_319",
+              "durationUnit": null,
+              "friendlySubtypeName": "Temporary Hit Points",
+              "type": "bonus",
+              "usePrimaryStat": false
+            },
+            {
+              "duration": 0,
+              "die": {
+                "diceCount": null,
+                "diceValue": null,
+                "fixedValue": 5,
+                "diceString": null,
+                "diceMultiplier": null
+              },
+              "friendlyTypeName": "Damage",
+              "count": 1,
+              "restriction": "A creature takes the cold damage when it hits you with a melee attack while you have the temporary hit points.",
+              "atHigherLevels": {
+                "duration": [],
+                "special": [],
+                "scaleType": "spellscale",
+                "additionalTargets": [],
+                "creatures": [],
+                "areaOfEffect": [],
+                "higherLevelDefinitions": [{
+                  "level": 1,
+                  "dice": null,
+                  "typeId": 15,
+                  "details": "",
+                  "value": 5
+                }],
+                "additionalAttacks": [],
+                "points": [
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 10,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 2,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 15,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 3,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 20,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 4,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 25,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 5,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 30,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 6,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 35,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 7,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 40,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 8,
+                    "description": ""
+                  },
+                  {
+                    "die": {
+                      "diceCount": null,
+                      "diceValue": null,
+                      "fixedValue": 45,
+                      "diceString": null,
+                      "diceMultiplier": null
+                    },
+                    "level": 9,
+                    "description": ""
+                  }
+                ]
+              },
+              "subType": "cold",
+              "id": "spell_2310_320",
+              "durationUnit": null,
+              "friendlySubtypeName": "Cold",
+              "type": "damage",
+              "usePrimaryStat": false
+            }
+          ],
+          "duration": {
+            "durationInterval": 1,
+            "durationUnit": "Hour",
+            "durationType": "Time"
+          },
+          "healing": null,
+          "school": "Abjuration",
+          "damageEffect": null,
+          "id": 2310,
+          "castingTimeDescription": "",
+          "level": 1,
+          "ritual": false,
+          "asPartOfWeaponAttack": false,
+          "componentsDescription": "a cup of water",
+          "isHomebrew": false,
+          "atHigherLevels": {
+            "duration": [],
+            "special": [],
+            "scaleType": "spellscale",
+            "additionalTargets": [],
+            "creatures": [],
+            "areaOfEffect": [],
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "points": []
+          },
+          "sourcePageNumber": 215,
+          "concentration": false,
+          "version": null,
+          "saveDcAbilityId": null,
+          "tags": [
+            "Damage",
+            "Buff",
+            "Warding"
+          ],
+          "attackType": null,
+          "name": "Armor of Agathys",
+          "activation": {
+            "activationType": 1,
+            "activationTime": 1
+          },
+          "conditions": [],
+          "healingDice": null
+        },
+        "alwaysPrepared": false,
+        "displayAsAttack": null,
+        "id": 136066,
+        "castOnlyAsRitual": false,
+        "activation": {
+          "activationType": 1,
+          "activationTime": 1
+        },
+        "countsAsKnownSpell": true,
+        "ritualCastingType": null
+      },
+      {
+        "castAtLevel": null,
+        "componentId": 0,
+        "prepared": false,
+        "atWillLimitedUseLevel": null,
+        "range": {
+          "aoeValue": null,
+          "origin": "Ranged",
+          "rangeValue": 10,
+          "aoeType": null
+        },
+        "baseLevelAtWill": false,
+        "usesSpellSlot": false,
+        "spellCastingAbilityId": null,
+        "componentTypeId": 0,
+        "additionalDescription": null,
+        "restriction": null,
+        "entityTypeId": 435869154,
+        "definition": {
+          "snippet": "",
+          "rangeArea": null,
+          "canCastAtHigherLevel": true,
+          "sourceId": 2,
+          "components": [
+            1,
+            2
+          ],
+          "requiresAttackRoll": false,
+          "requiresSavingThrow": true,
+          "range": {
+            "aoeValue": null,
+            "origin": "Ranged",
+            "rangeValue": 10,
+            "aoeType": null
+          },
+          "description": "<p>You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.<\/p>\r\n<p>This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).<\/p>",
+          "tempHpDice": null,
+          "modifiers": [{
+            "duration": 0,
+            "die": {
+              "diceCount": 1,
+              "diceValue": 12,
+              "fixedValue": null,
+              "diceString": "1d12",
+              "diceMultiplier": null
+            },
+            "friendlyTypeName": "Damage",
+            "count": 1,
+            "restriction": "",
+            "atHigherLevels": {
+              "duration": [],
+              "special": [],
+              "scaleType": "characterlevel",
+              "additionalTargets": [],
+              "creatures": [],
+              "areaOfEffect": [],
+              "higherLevelDefinitions": [
+                {
+                  "level": 5,
+                  "dice": {
+                    "diceCount": 2,
+                    "diceValue": 12,
+                    "fixedValue": 0,
+                    "diceString": "2d12",
+                    "diceMultiplier": null
+                  },
+                  "typeId": 15,
+                  "details": "",
+                  "value": null
+                },
+                {
+                  "level": 11,
+                  "dice": {
+                    "diceCount": 3,
+                    "diceValue": 12,
+                    "fixedValue": 0,
+                    "diceString": "3d12",
+                    "diceMultiplier": null
+                  },
+                  "typeId": 15,
+                  "details": "",
+                  "value": null
+                },
+                {
+                  "level": 17,
+                  "dice": {
+                    "diceCount": 4,
+                    "diceValue": 12,
+                    "fixedValue": 0,
+                    "diceString": "4d12",
+                    "diceMultiplier": null
+                  },
+                  "typeId": 15,
+                  "details": "",
+                  "value": null
+                }
+              ],
+              "additionalAttacks": [],
+              "points": [
+                {
+                  "die": {
+                    "diceCount": 2,
+                    "diceValue": 12,
+                    "fixedValue": 0,
+                    "diceString": "2d12",
+                    "diceMultiplier": null
+                  },
+                  "level": 5,
+                  "description": ""
+                },
+                {
+                  "die": {
+                    "diceCount": 3,
+                    "diceValue": 12,
+                    "fixedValue": 0,
+                    "diceString": "3d12",
+                    "diceMultiplier": null
+                  },
+                  "level": 11,
+                  "description": ""
+                },
+                {
+                  "die": {
+                    "diceCount": 4,
+                    "diceValue": 12,
+                    "fixedValue": 0,
+                    "diceString": "4d12",
+                    "diceMultiplier": null
+                  },
+                  "level": 17,
+                  "description": ""
+                }
+              ]
+            },
+            "subType": "poison",
+            "id": "spell_2208_214",
+            "durationUnit": null,
+            "friendlySubtypeName": "Poison",
+            "type": "damage",
+            "usePrimaryStat": false
+          }],
+          "duration": {
+            "durationInterval": 0,
+            "durationUnit": null,
+            "durationType": "Instantaneous"
+          },
+          "healing": null,
+          "school": "Conjuration",
+          "damageEffect": null,
+          "id": 2208,
+          "castingTimeDescription": "",
+          "level": 0,
+          "ritual": false,
+          "asPartOfWeaponAttack": false,
+          "componentsDescription": "",
+          "isHomebrew": false,
+          "atHigherLevels": {
+            "duration": [],
+            "special": [],
+            "scaleType": "characterlevel",
+            "additionalTargets": [],
+            "creatures": [],
+            "areaOfEffect": [],
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "points": []
+          },
+          "sourcePageNumber": 266,
+          "concentration": false,
+          "version": null,
+          "saveDcAbilityId": 3,
+          "tags": ["Damage"],
+          "attackType": null,
+          "name": "Poison Spray",
+          "activation": {
+            "activationType": 1,
+            "activationTime": 1
+          },
+          "conditions": [],
+          "healingDice": null
+        },
+        "alwaysPrepared": false,
+        "displayAsAttack": null,
+        "id": 138568,
+        "castOnlyAsRitual": false,
+        "activation": {
+          "activationType": 1,
+          "activationTime": 1
+        },
+        "countsAsKnownSpell": true,
+        "ritualCastingType": null
+      },
+      {
+        "castAtLevel": null,
+        "componentId": 0,
+        "prepared": false,
+        "atWillLimitedUseLevel": null,
+        "range": {
+          "aoeValue": null,
+          "origin": "Self",
+          "rangeValue": 0,
+          "aoeType": null
+        },
+        "baseLevelAtWill": false,
+        "usesSpellSlot": true,
+        "spellCastingAbilityId": null,
+        "componentTypeId": 0,
+        "additionalDescription": null,
+        "restriction": null,
+        "entityTypeId": 435869154,
+        "definition": {
+          "snippet": "",
+          "rangeArea": null,
+          "canCastAtHigherLevel": false,
+          "sourceId": 2,
+          "components": [
+            1,
+            2,
+            3
+          ],
+          "requiresAttackRoll": false,
+          "requiresSavingThrow": false,
+          "range": {
+            "aoeValue": null,
+            "origin": "Self",
+            "rangeValue": 0,
+            "aoeType": null
+          },
+          "description": "<p>For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.<\/p>\r\n<p>This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.<\/p>",
+          "tempHpDice": null,
+          "modifiers": [],
+          "duration": {
+            "durationInterval": 1,
+            "durationUnit": "Hour",
+            "durationType": "Time"
+          },
+          "healing": null,
+          "school": "Divination",
+          "damageEffect": null,
+          "id": 2035,
+          "castingTimeDescription": "",
+          "level": 1,
+          "ritual": true,
+          "asPartOfWeaponAttack": false,
+          "componentsDescription": "a pinch of soot and salt",
+          "isHomebrew": false,
+          "atHigherLevels": {
+            "duration": [],
+            "special": [],
+            "scaleType": null,
+            "additionalTargets": [],
+            "creatures": [],
+            "areaOfEffect": [],
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "points": []
+          },
+          "sourcePageNumber": 224,
+          "concentration": false,
+          "version": null,
+          "saveDcAbilityId": null,
+          "tags": ["Social"],
+          "attackType": null,
+          "name": "Comprehend Languages",
+          "activation": {
+            "activationType": 1,
+            "activationTime": 1
+          },
+          "conditions": [],
+          "healingDice": null
+        },
+        "alwaysPrepared": false,
+        "displayAsAttack": null,
+        "id": 136247,
+        "castOnlyAsRitual": false,
+        "activation": {
+          "activationType": 1,
+          "activationTime": 1
+        },
+        "countsAsKnownSpell": true,
+        "ritualCastingType": null
+      }
+    ],
+    "characterClassId": 10249658
+  }],
+  "deathSaves": {
+    "failCount": null,
+    "successCount": null,
+    "isStabilized": false
+  },
+  "customSenses": [],
+  "stats": [
+    {
+      "name": null,
+      "id": 1,
+      "value": 8
+    },
+    {
+      "name": null,
+      "id": 2,
+      "value": 15
+    },
+    {
+      "name": null,
+      "id": 3,
+      "value": 13
+    },
+    {
+      "name": null,
+      "id": 4,
+      "value": 10
+    },
+    {
+      "name": null,
+      "id": 5,
+      "value": 10
+    },
+    {
+      "name": null,
+      "id": 6,
+      "value": 15
+    }
+  ],
+  "thumbnailAvatarId": null,
+  "overrideHitPoints": null,
+  "spellSlots": [
+    {
+      "level": 1,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 2,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 3,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 4,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 5,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 6,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 7,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 8,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 9,
+      "available": 0,
+      "used": 0
+    }
+  ],
+  "options": {
+    "race": [],
+    "class": [],
+    "feat": []
+  },
+  "customItems": [],
+  "id": 9030942,
+  "height": "6 ft",
+  "alignmentId": 6,
+  "backdropAvatarId": null,
+  "thumbnailBackdropAvatarUrl": "",
+  "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/10/93/150/150/636339382612972808.png",
+  "creatures": [],
+  "customActions": [],
+  "weight": 180,
+  "readonlyUrl": "https://dndbeyond.com/characters/9030942",
+  "frameAvatarUrl": "",
+  "themeColor": null,
+  "overrideStats": [
+    {
+      "name": null,
+      "id": 1,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 2,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 3,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 4,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 5,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 6,
+      "value": null
+    }
+  ],
+  "background": {
+    "hasCustomBackground": false,
+    "definition": {
+      "snippet": "",
+      "personalityTraits": [
+        {
+          "description": "I know a story relevant to almost every situation.",
+          "id": 225,
+          "diceRoll": 1
+        },
+        {
+          "description": "Whenever I come to a new place, I collect local rumors and spread gossip.",
+          "id": 226,
+          "diceRoll": 2
+        },
+        {
+          "description": "I\u2019m a hopeless romantic, always searching for that \u201cspecial someone.\u201d",
+          "id": 227,
+          "diceRoll": 3
+        },
+        {
+          "description": "Nobody stays angry at me or around me for long, since I can defuse any amount of tension.",
+          "id": 228,
+          "diceRoll": 4
+        },
+        {
+          "description": "I love a good insult, even one directed at me.",
+          "id": 229,
+          "diceRoll": 5
+        },
+        {
+          "description": "I get bitter if I\u2019m not the center of attention.",
+          "id": 230,
+          "diceRoll": 6
+        },
+        {
+          "description": "I\u2019ll settle for nothing less than perfection.",
+          "id": 231,
+          "diceRoll": 7
+        },
+        {
+          "description": "I change my mood or my mind as quickly as I change key in a song.",
+          "id": 232,
+          "diceRoll": 8
+        }
+      ],
+      "equipmentDescription": "A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a pouch containing 15 gp",
+      "suggestedProficiencies": [
+        "Acrobatics",
+        "Performance"
+      ],
+      "description": "<p>You thrive in front of an audience. You know how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your ar<span>t is your life.<\/span><\/p>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<p><strong><span>Skill Proficiencies: <\/span><\/strong><span><\/span>Acrobati<span>cs, Performance<br><\/span><strong><span>Tool Proficiencies:<\/span><\/strong> Disguise kit, one type of mus<span>ical instrument<br><\/span><strong><span>Equipment:<\/span> <\/strong>A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a pouch c<span>ontaining 15 gp<\/span><\/p>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<h5>Entertainer Routines<\/h5>\r\n<p>A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as a<span>n entertainer.<\/span><\/p>\r\n<div>\r\n<div>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d10<\/th>\r\n<th style=\"text-align:left\">Entertainer Routine<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>Actor<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>Dancer<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>Fire-eater<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>Jester<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>Juggler<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>Instrumentalist<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>7<\/td>\r\n<td>Poet<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>8<\/td>\r\n<td>Singer<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>9<\/td>\r\n<td>Storyteller<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>10<\/td>\r\n<td>Tumbler<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<\/div>\r\n<\/div>\r\n<blockquote>\r\n<p><strong>FEATURE: BY POPULAR DEMAND<\/strong><\/p>\r\n<p>You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble&rsquo;s court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a<span> liking to you.<\/span><\/p>\r\n<\/blockquote>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<h5>Variant Entertainer: Gladiator<\/h5>\r\n<p>A gladiator is as much an entertainer as any minstrel or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor. Using your By Popular Demand feature, you can find a place to perform in any place that features combat for entertainment &mdash; perhaps a gladiatorial arena or secret pit fighting club. You can replace the musical instrument in your equipment package with an inexpensive but unusual weapon, such as a <span>trident or net.<\/span><\/p>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<h5>Suggested Characteristics<\/h5>\r\n<p>Successful entertainers have to be able to capture and hold an audience&rsquo;s attention, so they tend to have flamboyant or forceful personalities. They&rsquo;re inclined toward the romantic and often cling to high-minded ideals about the practice of art and the apprecia<span>tion of beauty.<\/span><\/p>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d8<\/th>\r\n<th style=\"text-align:left\">Personality Trait<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>I know a story relevant to almost every situation.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>Whenever I come to a new place, I collect local rumors and spread gossip.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>I&rsquo;m a hopeless romantic, always searching for that &ldquo;special someone.&rdquo;<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>Nobody stays angry at me or around me for long, since I can defuse any amount of tension.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>I love a good insult, even one directed at me.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>I get bitter if I&rsquo;m not the center of attention.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>7<\/td>\r\n<td>I&rsquo;ll settle for nothing less than perfection.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>8<\/td>\r\n<td>I change my mood or my mind as quickly as I change key in a song.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6<\/th>\r\n<th style=\"text-align:left\">Ideal<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td><span>Beauty.<\/span> When I perform, I make the world better than it was. (Good)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td><span>Tradition.<\/span> The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. (Lawful)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td><span>Creativity.<\/span> The world is in need of new ideas and bold action. (Chaotic)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td><span>Greed.<\/span> I&rsquo;m only in it for the money and fame. (Evil)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td><span>People.<\/span> I like seeing the smiles on people&rsquo;s faces when I perform. That&rsquo;s all that matters. (Neutral)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td><span>Honesty. <\/span>Art should reflect the soul; it should come from within and reveal who we really are. (Any)<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6<\/th>\r\n<th style=\"text-align:left\">Bond<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>My instrument is my most treasured possession, and it reminds me of someone I love.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>Someone stole my precious instrument, and someday I&rsquo;ll get it back.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>I want to be famous, whatever it takes.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>I idolize a hero of the old tales and measure my deeds against that person&rsquo;s.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>I will do anything to prove myself superior to my hated rival.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>I would do anything for the other members of my old troupe.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6<\/th>\r\n<th style=\"text-align:left\">Flaw<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>I&rsquo;ll do anything to win fame and renown.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>I&rsquo;m a sucker for a pretty face.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>A scandal prevents me from ever going home again. That kind of trouble seems to follow me around.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>I once satirized a noble who still wants my head. It was a mistake that I will likely repeat.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>Despite my best efforts, I am unreliable to my friends.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<p>&nbsp;<\/p>",
+      "bonds": [
+        {
+          "description": "My instrument is my most treasured possession, and it reminds me of someone I love.",
+          "id": 239,
+          "diceRoll": 1
+        },
+        {
+          "description": "Someone stole my precious instrument, and someday I\u2019ll get it back.",
+          "id": 240,
+          "diceRoll": 2
+        },
+        {
+          "description": "I want to be famous, whatever it takes.",
+          "id": 241,
+          "diceRoll": 3
+        },
+        {
+          "description": "I idolize a hero of the old tales and measure my deeds against that person\u2019s.",
+          "id": 242,
+          "diceRoll": 4
+        },
+        {
+          "description": "\tI will do anything to prove myself superior to my hated rival.",
+          "id": 243,
+          "diceRoll": 5
+        },
+        {
+          "description": "I would do anything for the other members of my old troupe.",
+          "id": 244,
+          "diceRoll": 6
+        }
+      ],
+      "toolProficienciesDescription": "Disguise kit, one type of musical instrument",
+      "skillProficienciesDescription": "Acrobatics, Performance",
+      "id": 14,
+      "contractsDescription": null,
+      "spellsPostDescription": null,
+      "suggestedLanguages": [],
+      "ideals": [
+        {
+          "description": "Beauty. When I perform, I make the world better than it was. (Good)",
+          "id": 233,
+          "diceRoll": 1
+        },
+        {
+          "description": "Tradition. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. (Lawful)",
+          "id": 234,
+          "diceRoll": 2
+        },
+        {
+          "description": "Creativity. The world is in need of new ideas and bold action. (Chaotic)",
+          "id": 235,
+          "diceRoll": 3
+        },
+        {
+          "description": "Greed. I\u2019m only in it for the money and fame. (Evil)",
+          "id": 236,
+          "diceRoll": 4
+        },
+        {
+          "description": "People. I like seeing the smiles on people\u2019s faces when I perform. That\u2019s all that matters. (Neutral)",
+          "id": 237,
+          "diceRoll": 5
+        },
+        {
+          "description": "Honesty. Art should reflect the soul; it should come from within and reveal who we really are. (Any)",
+          "id": 238,
+          "diceRoll": 6
+        }
+      ],
+      "languagesDescription": "",
+      "featureName": "By Popular Demand",
+      "avatarUrl": null,
+      "featureDescription": "<p>You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble&rsquo;s court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a<span> liking to you.<\/span><\/p>",
+      "spellsPreDescription": null,
+      "shortDescription": "<p>You thrive in front of an audience. You know how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your ar<span>t is your life.<\/span><\/p>",
+      "suggestedCharacteristicsDescription": "<p>Successful entertainers have to be able to capture and hold an audience&rsquo;s attention, so they tend to have flamboyant or forceful personalities. They&rsquo;re inclined toward the romantic and often cling to high-minded ideals about the practice of art and the apprecia<span>tion of beauty.<\/span><\/p>",
+      "largeAvatarUrl": null,
+      "organization": null,
+      "name": "Entertainer",
+      "flaws": [
+        {
+          "description": "I\u2019ll do anything to win fame and renown.",
+          "id": 245,
+          "diceRoll": 1
+        },
+        {
+          "description": "I\u2019m a sucker for a pretty face.",
+          "id": 246,
+          "diceRoll": 2
+        },
+        {
+          "description": "A scandal prevents me from ever going home again. That kind of trouble seems to follow me around.",
+          "id": 247,
+          "diceRoll": 3
+        },
+        {
+          "description": "I once satirized a noble who still wants my head. It was a mistake that I will likely repeat.",
+          "id": 248,
+          "diceRoll": 4
+        },
+        {
+          "description": "I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.",
+          "id": 249,
+          "diceRoll": 5
+        },
+        {
+          "description": "Despite my best efforts, I am unreliable to my friends.",
+          "id": 250,
+          "diceRoll": 6
+        }
+      ],
+      "entityTypeId": 1669830167
+    },
+    "customBackground": {
+      "featuresBackground": null,
+      "characteristicsBackground": null,
+      "name": null,
+      "description": null,
+      "entityTypeId": 1581111423,
+      "id": 9030942,
+      "backgroundType": null
+    }
+  },
+  "customDefenseAdjustments": [],
+  "name": "Valzire",
+  "bonusHitPoints": null,
+  "campaign": {
+    "characters": [
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/10/93/150/150/636339382612972808.png",
+        "characterName": "Valzire",
+        "characterUrl": "/profile/dotLou/characters/9030942",
+        "userId": 101909284,
+        "characterId": 9030942,
+        "privacyType": 3,
+        "username": "dotLou"
+      },
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/325/150/150/636377872983373773.jpeg",
+        "characterName": "Lazarus Humblegazer",
+        "characterUrl": "/profile/Pathmatician/characters/9049460",
+        "userId": 101914113,
+        "characterId": 9049460,
+        "privacyType": 3,
+        "username": "Pathmatician"
+      },
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/221/150/150/636377842071269252.jpeg",
+        "characterName": "Padagh",
+        "characterUrl": "/profile/jbone_silversphere/characters/9059016",
+        "userId": 101911949,
+        "characterId": 9059016,
+        "privacyType": 3,
+        "username": "jbone_silversphere"
+      },
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/213/150/150/636377840974085948.jpeg",
+        "characterName": "Kodrish Akambherylliax",
+        "characterUrl": "/profile/CaptSweatpants/characters/9225877",
+        "userId": 101937340,
+        "characterId": 9225877,
+        "privacyType": 3,
+        "username": "CaptSweatpants"
+      }
+    ],
+    "dmUserId": 101874032,
+    "publicNotes": "",
+    "name": "Lost Mine of Phandelver",
+    "link": "/campaigns/365109",
+    "dmUsername": "draco2817",
+    "description": "<p>In the city of Neverwinter, a dwarf named Gundren Rockseeker asked you to bring a wagonload of provisions to the rough-and-tumble settlement of Phandalin, a couple of days&rsquo; travel southeast of the city. Gundren was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found &ldquo;something big,&rdquo; and that he&rsquo;d pay you ten gold pieces each for escorting his supplies safely to Barthen&rsquo;s Provisions, a trading post in Phandalin. He then set out ahead of you on horse, along with a warrior escort named Sildar Hallwinter, claiming he needed to arrive early to &ldquo;take care of business.&rdquo;<\/p>"
+  },
+  "largeBackdropAvatarId": null,
+  "conditions": [],
+  "choices": {
+    "race": [],
+    "background": [
+      {
+        "componentId": 14,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 1669830167,
+        "optionValue": 3907,
+        "options": [
+          {
+            "description": null,
+            "id": 3900,
+            "label": "Bagpipes"
+          },
+          {
+            "description": null,
+            "id": 3901,
+            "label": "Drum"
+          },
+          {
+            "description": null,
+            "id": 3902,
+            "label": "Dulcimer"
+          },
+          {
+            "description": null,
+            "id": 3903,
+            "label": "Flute"
+          },
+          {
+            "description": null,
+            "id": 3906,
+            "label": "Horn"
+          },
+          {
+            "description": null,
+            "id": 3904,
+            "label": "Lute"
+          },
+          {
+            "description": null,
+            "id": 3905,
+            "label": "Lyre"
+          },
+          {
+            "description": null,
+            "id": 3907,
+            "label": "Pan Flute"
+          },
+          {
+            "description": null,
+            "id": 3908,
+            "label": "Shawm"
+          },
+          {
+            "description": null,
+            "id": 3909,
+            "label": "Viol"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2173",
+        "label": "Choose a Musical Instrument",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 14,
+        "isInfinite": false,
+        "defaultSubtypes": ["Acrobatics"],
+        "componentTypeId": 1669830167,
+        "optionValue": 3784,
+        "options": [
+          {
+            "description": null,
+            "id": 3784,
+            "label": "Acrobatics"
+          },
+          {
+            "description": null,
+            "id": 3792,
+            "label": "Animal Handling"
+          },
+          {
+            "description": null,
+            "id": 3787,
+            "label": "Arcana"
+          },
+          {
+            "description": null,
+            "id": 3783,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 3797,
+            "label": "Deception"
+          },
+          {
+            "description": null,
+            "id": 3788,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 3793,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 3798,
+            "label": "Intimidation"
+          },
+          {
+            "description": null,
+            "id": 3789,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 3794,
+            "label": "Medicine"
+          },
+          {
+            "description": null,
+            "id": 3790,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 3795,
+            "label": "Perception"
+          },
+          {
+            "description": null,
+            "id": 3799,
+            "label": "Performance"
+          },
+          {
+            "description": null,
+            "id": 3800,
+            "label": "Persuasion"
+          },
+          {
+            "description": null,
+            "id": 3791,
+            "label": "Religion"
+          },
+          {
+            "description": null,
+            "id": 3785,
+            "label": "Sleight of Hand"
+          },
+          {
+            "description": null,
+            "id": 3786,
+            "label": "Stealth"
+          },
+          {
+            "description": null,
+            "id": 3796,
+            "label": "Survival"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2170",
+        "label": "Choose a Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 14,
+        "isInfinite": false,
+        "defaultSubtypes": ["Performance"],
+        "componentTypeId": 1669830167,
+        "optionValue": 3799,
+        "options": [
+          {
+            "description": null,
+            "id": 3784,
+            "label": "Acrobatics"
+          },
+          {
+            "description": null,
+            "id": 3792,
+            "label": "Animal Handling"
+          },
+          {
+            "description": null,
+            "id": 3787,
+            "label": "Arcana"
+          },
+          {
+            "description": null,
+            "id": 3783,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 3797,
+            "label": "Deception"
+          },
+          {
+            "description": null,
+            "id": 3788,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 3793,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 3798,
+            "label": "Intimidation"
+          },
+          {
+            "description": null,
+            "id": 3789,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 3794,
+            "label": "Medicine"
+          },
+          {
+            "description": null,
+            "id": 3790,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 3795,
+            "label": "Perception"
+          },
+          {
+            "description": null,
+            "id": 3799,
+            "label": "Performance"
+          },
+          {
+            "description": null,
+            "id": 3800,
+            "label": "Persuasion"
+          },
+          {
+            "description": null,
+            "id": 3791,
+            "label": "Religion"
+          },
+          {
+            "description": null,
+            "id": 3785,
+            "label": "Sleight of Hand"
+          },
+          {
+            "description": null,
+            "id": 3786,
+            "label": "Stealth"
+          },
+          {
+            "description": null,
+            "id": 3796,
+            "label": "Survival"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2171",
+        "label": "Choose a Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 14,
+        "isInfinite": false,
+        "defaultSubtypes": ["Disguise Kit"],
+        "componentTypeId": 1669830167,
+        "optionValue": 3947,
+        "options": [
+          {
+            "description": null,
+            "id": 3930,
+            "label": "Alchemist's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3955,
+            "label": "Bagpipes"
+          },
+          {
+            "description": null,
+            "id": 3931,
+            "label": "Brewer's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3932,
+            "label": "Calligrapher's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3933,
+            "label": "Carpenter's Tools"
+          },
+          {
+            "description": null,
+            "id": 3934,
+            "label": "Cartographer's Tools"
+          },
+          {
+            "description": null,
+            "id": 3935,
+            "label": "Cobbler's Tools"
+          },
+          {
+            "description": null,
+            "id": 3936,
+            "label": "Cook's Utensils"
+          },
+          {
+            "description": null,
+            "id": 3953,
+            "label": "Dice Set"
+          },
+          {
+            "description": null,
+            "id": 3947,
+            "label": "Disguise Kit"
+          },
+          {
+            "description": null,
+            "id": 4377,
+            "label": "Dragonchess Set"
+          },
+          {
+            "description": null,
+            "id": 3956,
+            "label": "Drum"
+          },
+          {
+            "description": null,
+            "id": 3957,
+            "label": "Dulcimer"
+          },
+          {
+            "description": null,
+            "id": 3958,
+            "label": "Flute"
+          },
+          {
+            "description": null,
+            "id": 3948,
+            "label": "Forgery Kit"
+          },
+          {
+            "description": null,
+            "id": 3937,
+            "label": "Glassblower's Tools"
+          },
+          {
+            "description": null,
+            "id": 3949,
+            "label": "Herbalism Kit"
+          },
+          {
+            "description": null,
+            "id": 3961,
+            "label": "Horn"
+          },
+          {
+            "description": null,
+            "id": 3938,
+            "label": "Jeweler's Tools"
+          },
+          {
+            "description": null,
+            "id": 3939,
+            "label": "Leatherworker's Tools"
+          },
+          {
+            "description": null,
+            "id": 3959,
+            "label": "Lute"
+          },
+          {
+            "description": null,
+            "id": 3960,
+            "label": "Lyre"
+          },
+          {
+            "description": null,
+            "id": 3940,
+            "label": "Mason's Tools"
+          },
+          {
+            "description": null,
+            "id": 3950,
+            "label": "Navigator's Tools"
+          },
+          {
+            "description": null,
+            "id": 3941,
+            "label": "Painter's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3962,
+            "label": "Pan Flute"
+          },
+          {
+            "description": null,
+            "id": 3954,
+            "label": "Playing Card Set"
+          },
+          {
+            "description": null,
+            "id": 3951,
+            "label": "Poisoner's Kit"
+          },
+          {
+            "description": null,
+            "id": 3942,
+            "label": "Potter's Tools"
+          },
+          {
+            "description": null,
+            "id": 3963,
+            "label": "Shawm"
+          },
+          {
+            "description": null,
+            "id": 3943,
+            "label": "Smith's Tools"
+          },
+          {
+            "description": null,
+            "id": 3952,
+            "label": "Thieves' Tools"
+          },
+          {
+            "description": null,
+            "id": 4378,
+            "label": "Three-Dragon Ante Set"
+          },
+          {
+            "description": null,
+            "id": 3944,
+            "label": "Tinker's Tools"
+          },
+          {
+            "description": null,
+            "id": 4345,
+            "label": "Vehicles (Land)"
+          },
+          {
+            "description": null,
+            "id": 5080,
+            "label": "Vehicles (Sea/Air)"
+          },
+          {
+            "description": null,
+            "id": 4346,
+            "label": "Vehicles (Water)"
+          },
+          {
+            "description": null,
+            "id": 3964,
+            "label": "Viol"
+          },
+          {
+            "description": null,
+            "id": 3945,
+            "label": "Weaver's Tools"
+          },
+          {
+            "description": null,
+            "id": 3946,
+            "label": "Woodcarver's Tools"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2172",
+        "label": "Choose a Tool",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      }
+    ],
+    "class": [
+      {
+        "componentId": 386,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 49,
+        "options": [],
+        "subType": null,
+        "id": "7-386",
+        "label": null,
+        "isOptional": false,
+        "type": 7,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 469,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 4084,
+        "options": [
+          {
+            "description": null,
+            "id": 4083,
+            "label": "Arcana"
+          },
+          {
+            "description": null,
+            "id": 4084,
+            "label": "Deception"
+          },
+          {
+            "description": null,
+            "id": 4085,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 4086,
+            "label": "Intimidation"
+          },
+          {
+            "description": null,
+            "id": 4087,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 4088,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 4089,
+            "label": "Religion"
+          }
+        ],
+        "subType": 1,
+        "id": "2-1588",
+        "label": "Choose a Warlock Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 469,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 4086,
+        "options": [
+          {
+            "description": null,
+            "id": 4083,
+            "label": "Arcana"
+          },
+          {
+            "description": null,
+            "id": 4084,
+            "label": "Deception"
+          },
+          {
+            "description": null,
+            "id": 4085,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 4086,
+            "label": "Intimidation"
+          },
+          {
+            "description": null,
+            "id": 4087,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 4088,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 4089,
+            "label": "Religion"
+          }
+        ],
+        "subType": 1,
+        "id": "2-1589",
+        "label": "Choose a Warlock Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      }
+    ],
+    "feat": []
+  },
+  "defaultBackdrop": {
+    "largeBackdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/554/636453168938213283.jpeg",
+    "smallBackdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/553/636453168937588266.jpeg",
+    "backdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/552/636453168936963231.jpeg",
+    "thumbnailBackdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/555/636453168938525788.jpeg"
+  },
+  "actions": {
+    "race": [],
+    "class": [],
+    "feat": []
+  },
+  "lifestyleId": 7,
+  "traits": {
+    "personalityTraits": "Whenever I come to a new place, I collect local rumors and spread gossip.\nI change my mood or my mind as quickly as I change key in a song.",
+    "ideals": "Creativity. The world is in need of new ideas and bold action. (Chaotic)",
+    "appearance": null,
+    "flaws": "I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.\nA scandal prevents me from ever going home again.\n",
+    "bonds": "My instrument is my most treasured possession, and it reminds me of someone I love."
+  },
+  "gender": "Male",
+  "characterValues": [],
+  "classes": [{
+    "classFeatures": [
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Additional spells are added to the warlock spell list for you.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 100,
+          "description": "<p>The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell <span>list for you.<\/span><\/p>\r\n<h5>Great Old One Expanded Spells<\/h5>\r\n<table>\r\n<thead>\r\n<tr>\r\n<th>\r\n<p><strong>Spell Level<\/strong><\/p>\r\n<\/th>\r\n<th>\r\n<p><strong>Spells<\/strong><\/p>\r\n<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p>1st<\/p>\r\n<\/td>\r\n<td>\r\n<p style=\"text-align:left\"><span>dissonant whispers<\/span>, <span>Tasha&rsquo;s hideous laughter<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p>2nd<\/p>\r\n<\/td>\r\n<td>\r\n<p style=\"text-align:left\"><span>detect thoughts<\/span>, <span>phantasmal force<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p>3rd<\/p>\r\n<\/td>\r\n<td>\r\n<p style=\"text-align:left\"><span>clairvoyance<\/span>, <span>sending<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p>4th<\/p>\r\n<\/td>\r\n<td>\r\n<p style=\"text-align:left\"><span>dominate beast<\/span>, <span>Evard&rsquo;s black tentacles<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p>5th<\/p>\r\n<\/td>\r\n<td>\r\n<p style=\"text-align:left\"><span>dominate person<\/span>, <span>telekinesis<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+          "sourcePageNumber": 110,
+          "multiClassDescription": "",
+          "name": "Expanded Spell List",
+          "entityTypeId": 12168134,
+          "id": 405,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": true
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 1,
+          "description": "<p><strong><span>Hit Dice:<\/span><\/strong> 1d8 per <span>warlock level<br><\/span><strong><span>Hit Points at 1st Level:<\/span><\/strong> 8 + your Constitu<span>tion modifier<br><\/span><strong><span>Hit Points at Higher Levels:<\/span><\/strong> 1d8 (or 5) + your Constitution modifier per warlock le<span>vel after 1st<\/span><\/p>",
+          "sourcePageNumber": 106,
+          "multiClassDescription": "",
+          "name": "Hit Points",
+          "entityTypeId": 12168134,
+          "id": 541,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can telepathically speak to any creature you can see within 30 ft. of you if it understands at least one language. ",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 200,
+          "description": "<p>Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can telepathically speak to any creature you can see within 30 feet of you. You don&rsquo;t need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least <span>one language.<\/span><\/p>",
+          "sourcePageNumber": 110,
+          "multiClassDescription": "",
+          "name": "Awakened Mind",
+          "entityTypeId": 12168134,
+          "id": 406,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": true
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 2,
+          "description": "<p><strong><span>Armor<\/span><span><span>: <\/span><\/span><\/strong><span>Light armor<br><\/span><strong><span>Weapons: <\/span><\/strong>S<span>imple weapons<br><\/span><strong><span>Tools:<\/span><\/strong> None<br><strong><span>Saving Throws:<\/span><\/strong> Wis<span>dom, Charisma<br><\/span><strong><span>Skills:<\/span><\/strong> Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature,<span> and Religion<\/span><\/p>",
+          "sourcePageNumber": 107,
+          "multiClassDescription": "<p><strong><span>Armor<\/span><span><span>: <\/span><\/span><\/strong><span>Light armor<br><\/span><strong><span>Weapons: <\/span><\/strong>S<span>imple weapons<\/span><\/p>",
+          "name": "Proficiencies",
+          "entityTypeId": 12168134,
+          "id": 469,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You have struck a bargain with an otherworldly being.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 3,
+          "description": "<p>At 1st level, you have struck a bargain with an otherworldly being of your choice: the Fiend, which is detailed at the end of the class description, or one from another source. Your choice grants you features at 1st level and again at 6th, 10th, an<span>d 14th level.<\/span><\/p>",
+          "sourcePageNumber": 107,
+          "multiClassDescription": "",
+          "name": "Otherworldly Patron",
+          "entityTypeId": 12168134,
+          "id": 386,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can cast known warlock spells using CHA as your spellcasting modifier (Spell DC {{savedc:cha}}, Spell Attack {{spellattack:cha}}). You can use an arcane focus as a spellcasting focus.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 4,
+          "description": "<p>Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See <span style=\"color:#9c0\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting\" rel=\"nofollow\">Spells Rules<\/a><\/span> for the general rules of spellcasting and the <span style=\"color:#936\"><a style=\"color:#704cd9\" href=\"https://www.dndbeyond.com/spells?filter-class=7&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content=\" rel=\"nofollow\">Spells Listing<\/a><\/span>&nbsp;for the warlock&nbsp;<span>spell list.<\/span><\/p>\r\n<h5>Cantrips<\/h5>\r\n<p>You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the W<span>arlock table.<\/span><\/p>\r\n<h5>Spell Slots<\/h5>\r\n<p>The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short <span>or long rest.<\/span><\/p>\r\n<p>For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell <span>witch bolt<\/span>, you must spend one of those slots, and you cast it as a 3rd<span>-level spell.<\/span><\/p>\r\n<h5>Spells Known of 1st Level and Higher<\/h5>\r\n<p>At 1st level, you know two 1st-level spells of your choice from the warloc<span>k spell list.<\/span><\/p>\r\n<p>The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what&rsquo;s shown in the table&rsquo;s Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, <span>or 3rd level.<\/span><\/p>\r\n<p>Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have<span> spell slots.<\/span><\/p>\r\n<h5>Spellcasting Ability<\/h5>\r\n<p>Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.<\/p>\r\n<p><strong><span>Spell save DC <\/span><\/strong>= 8 + your proficiency bonus + your Charisma modifier<\/p>\r\n<p><strong><span>Spell attack modifier <\/span><\/strong>= your proficiency bonus + your Charisma modifier<\/p>\r\n<h5>Spellcasting Focus<\/h5>\r\n<p>You can use an arcane focus (see the <span style=\"color:#47d18c\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#ArcaneFocus\" rel=\"nofollow\">Adventuring Gear<\/a><\/span> section) as a spellcasting focus for your wa<span>rlock spells.<\/span><\/p>",
+          "sourcePageNumber": 107,
+          "multiClassDescription": "<p><em>This feature is affected by multiclassing<\/em>. See the <a href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/customization-options#ClassFeatures\" rel=\"nofollow\">Multiclassing<\/a> rules for more information.<\/p>\r\n<p>Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See <span style=\"color:#9c0\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting\" rel=\"nofollow\">Spells Rules<\/a><\/span> for the general rules of spellcasting and the <span style=\"color:#936\"><a style=\"color:#704cd9\" href=\"https://www.dndbeyond.com/spells?filter-class=7&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content=\" rel=\"nofollow\">Spells Listing<\/a><\/span>&nbsp;for the warlock&nbsp;<span>spell list.<\/span><\/p>\r\n<h5>Cantrips<\/h5>\r\n<p>You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the W<span>arlock table.<\/span><\/p>\r\n<h5>Spell Slots<\/h5>\r\n<p>The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short <span>or long rest.<\/span><\/p>\r\n<p>For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell <span>witch bolt<\/span>, you must spend one of those slots, and you cast it as a 3rd<span>-level spell.<\/span><\/p>\r\n<h5>Spells Known of 1st Level and Higher<\/h5>\r\n<p>At 1st level, you know two 1st-level spells of your choice from the warloc<span>k spell list.<\/span><\/p>\r\n<p>The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what&rsquo;s shown in the table&rsquo;s Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, <span>or 3rd level.<\/span><\/p>\r\n<p>Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have<span> spell slots.<\/span><\/p>\r\n<h5>Spellcasting Ability<\/h5>\r\n<p>Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.<\/p>\r\n<p><strong><span>Spell save DC <\/span><\/strong>= 8 + your proficiency bonus + your Charisma modifier<\/p>\r\n<p><strong><span>Spell attack modifier <\/span><\/strong>= your proficiency bonus + your Charisma modifier<\/p>\r\n<h5>Spellcasting Focus<\/h5>\r\n<p>You can use an arcane focus (see the <span style=\"color:#47d18c\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#ArcaneFocus\" rel=\"nofollow\">Adventuring Gear<\/a><\/span> section) as a spellcasting focus for your wa<span>rlock spells.<\/span><\/p>",
+          "name": "Pact Magic",
+          "entityTypeId": 12168134,
+          "id": 387,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You learn fragments of forbidden knowledge that imbue you with an abiding magical ability.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 2,
+          "displayOrder": 5,
+          "description": "<p>In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding mag<span>ical ability.&nbsp;A level prerequisite&nbsp;refers to your level in this class.<\/span><\/p>\r\n<p>At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the W<span>arlock table.<\/span><\/p>\r\n<p>Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn a<span>t that level.<\/span><\/p>\r\n<p><span>If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.<\/span><\/p>",
+          "sourcePageNumber": 107,
+          "multiClassDescription": "",
+          "name": "Eldritch Invocations",
+          "entityTypeId": 12168134,
+          "id": 388,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your otherworldly patron bestows a gift upon you for your loyal service.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 3,
+          "displayOrder": 6,
+          "description": "<p>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of<span> your choice.<\/span><\/p>",
+          "sourcePageNumber": 107,
+          "multiClassDescription": "",
+          "name": "Pact Boon",
+          "entityTypeId": 12168134,
+          "id": 389,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 4,
+          "displayOrder": 7,
+          "description": "<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/p>",
+          "sourcePageNumber": 108,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 323,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Once per short rest, when a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If it misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": 6,
+            "uses": 1
+          }],
+          "requiredLevel": 6,
+          "displayOrder": 300,
+          "description": "<p>At 6th level, you learn to magically ward yourself against attack and to turn an enemy&rsquo;s failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of yo<span>ur next turn.<\/span><\/p>\r\n<p>Once you use this feature, you can&rsquo;t use it again until you finish a short <span>or long rest.<\/span><\/p>",
+          "sourcePageNumber": 110,
+          "multiClassDescription": "",
+          "name": "Entropic Ward",
+          "entityTypeId": 12168134,
+          "id": 407,
+          "activation": {
+            "activationType": 4,
+            "activationTime": 1
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": true
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 8,
+          "displayOrder": 8,
+          "description": "<p>When you reach 8th level, and again at 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/p>",
+          "sourcePageNumber": 108,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 324,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your thoughts can\u2019t be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 10,
+          "displayOrder": 400,
+          "description": "<p>Starting at 10th level, your thoughts can&rsquo;t be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage<span> that you do.<\/span><\/p>",
+          "sourcePageNumber": 110,
+          "multiClassDescription": "",
+          "name": "Thought Shield",
+          "entityTypeId": 12168134,
+          "id": 408,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": true
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your patron bestows upon you one 6th-level warlock spell that you can cast without expending a spell slot once per long rest.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 11,
+          "displayOrder": 9,
+          "description": "<p>At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as <span>this arcanum.<\/span><\/p>\r\n<p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can<span> do so again.<\/span><\/p>\r\n<p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish<span> a long rest.<\/span><\/p>",
+          "sourcePageNumber": 108,
+          "multiClassDescription": "",
+          "name": "Mystic Arcanum (6th level)",
+          "entityTypeId": 12168134,
+          "id": 390,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 12,
+          "displayOrder": 10,
+          "description": "<p>When you reach 12th level, and again at 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/p>",
+          "sourcePageNumber": 108,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 325,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your patron bestows upon you one 7th-level warlock spell that you can cast without expending a spell slot once per long rest.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 13,
+          "displayOrder": 11,
+          "description": "<p>At 13th level, your patron bestows upon you a magical secret called an arcanum. Choose one 7th-level spell from the warlock spell list as <span>this arcanum.<\/span><\/p>\r\n<p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can<span> do so again.<\/span><\/p>\r\n<p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish<span> a long rest.<\/span><\/p>",
+          "sourcePageNumber": 108,
+          "multiClassDescription": "",
+          "name": "Mystic Arcanum (7th level)",
+          "entityTypeId": 12168134,
+          "id": 392,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can use your action to touch an incapacitated humanoid, and it is then charmed by you (and you can telepathically communicate with it on the same plane) until a remove curse spell is cast on it, the charmed condition is removed from it, or you use this feature again.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 14,
+          "displayOrder": 500,
+          "description": "<p>At 14th level, you gain the ability to infect a humanoid&rsquo;s mind with the alien magic of your patron. You can use your action to touch an incapacitated humanoid. That creature is then charmed by you until a <span>remove curse<\/span> spell is cast on it, the charmed condition is removed from it, or you use this f<span>eature again.<\/span><\/p>\r\n<p>You can communicate telepathically with the charmed creature as long as the two of you are on the same plane <span>of existence.<\/span><\/p>",
+          "sourcePageNumber": 110,
+          "multiClassDescription": "",
+          "name": "Create Thrall",
+          "entityTypeId": 12168134,
+          "id": 409,
+          "activation": {
+            "activationType": 1,
+            "activationTime": 1
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": true
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your patron bestows upon you one 8th-level warlock spell that you can cast without expending a spell slot once per long rest.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 15,
+          "displayOrder": 12,
+          "description": "<p>At 15th level, your patron bestows upon you a magical secret called an arcanum. Choose one 8th-level spell from the warlock spell list as <span>this arcanum.<\/span><\/p>\r\n<p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can<span> do so again.<\/span><\/p>\r\n<p>At 17th level, you gain a 9th-level&nbsp;warlock spell of your choice that can be cast in this way. You regain all uses of your Mystic Arcanum when you finish<span> a long rest.<\/span><\/p>",
+          "sourcePageNumber": 108,
+          "multiClassDescription": "",
+          "name": "Mystic Arcanum (8th level)",
+          "entityTypeId": 12168134,
+          "id": 393,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 16,
+          "displayOrder": 13,
+          "description": "<p>When you reach 16th level, and again at 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/p>",
+          "sourcePageNumber": 108,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 326,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your patron bestows upon you one 9th-level warlock spell that you can cast without expending a spell slot once per long rest.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 17,
+          "displayOrder": 14,
+          "description": "<p>At 17th level, your patron bestows upon you a magical secret called an arcanum. Choose one 9th-level spell from the warlock spell list as <span>this arcanum.<\/span><\/p>\r\n<p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can<span> do so again.<\/span><\/p>\r\n<p>You regain all uses of your Mystic Arcanum when you finish<span> a long rest.<\/span><\/p>",
+          "sourcePageNumber": 108,
+          "multiClassDescription": "",
+          "name": "Mystic Arcanum (9th level)",
+          "entityTypeId": 12168134,
+          "id": 394,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 19,
+          "displayOrder": 15,
+          "description": "<p>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/p>",
+          "sourcePageNumber": 108,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 327,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Once per long rest, you can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": 20,
+            "uses": 1
+          }],
+          "requiredLevel": 20,
+          "displayOrder": 16,
+          "description": "<p>At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can<span> do so again.<\/span><\/p>",
+          "sourcePageNumber": 108,
+          "multiClassDescription": "",
+          "name": "Eldritch Master",
+          "entityTypeId": 12168134,
+          "id": 391,
+          "activation": {
+            "activationType": 6,
+            "activationTime": 1
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      }
+    ],
+    "level": 1,
+    "hitDiceUsed": 1,
+    "isStartingClass": true,
+    "entityTypeId": 1446578651,
+    "definition": {
+      "sourceId": 1,
+      "equipmentDescription": "<p>You start with the following equipment, in addition to the equipment granted by your background:<\/p>\r\n<ul>\r\n<li>(<span>a<\/span>) a light crossbow and 20 bolts or (<span>b<\/span>) any simple weapon<\/li>\r\n<li>(<span>a<\/span>) a component pouch or (<span>b<\/span>) an arcane focus<\/li>\r\n<li>(<span>a<\/span>) a scholar&rsquo;s pack or (<span>b<\/span>) a dungeoneer&rsquo;s pack<\/li>\r\n<li>Leather armor, any simple weapon, and two daggers<\/li>\r\n<\/ul>",
+      "hitDice": 8,
+      "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/374/315/315/636272708661414129.png",
+      "spellContainerName": null,
+      "canCastSpells": true,
+      "description": "<p>A wielder of magic that is derived from a bargain with an extraplanar entity<\/p>\r\n<p class=\"characters-statblock\" style=\"font-family:Roboto Condensed;font-size:14px\"><strong>Hit Die:<\/strong> d8<br><strong>Primary Ability:<\/strong>&nbsp;Charisma<br><strong>Saves:<\/strong>&nbsp;Wisdom &amp; Charisma<\/p>",
+      "sourcePageNumber": 105,
+      "knowsAllSpells": false,
+      "moreDetailsUrl": "/classes/warlock",
+      "largeAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/6/375/636272708661726603.png",
+      "spellCastingAbilityId": 6,
+      "classFeatures": [
+        {
+          "requiredLevel": 1,
+          "name": "Hit Points",
+          "prerequisite": null,
+          "displayOrder": 1,
+          "description": "<p><strong><span>Hit Dice:<\/span><\/strong> 1d8 per <span>warlock level<br><\/span><strong><span>Hit Points at 1st Level:<\/span><\/strong> 8 + your Constitu<span>tion modifier<br><\/span><strong><span>Hit Points at Higher Levels:<\/span><\/strong> 1d8 (or 5) + your Constitution modifier per warlock le<span>vel after 1st<\/span><\/p>",
+          "id": 541
+        },
+        {
+          "requiredLevel": 1,
+          "name": "Proficiencies",
+          "prerequisite": null,
+          "displayOrder": 2,
+          "description": "<p><strong><span>Armor<\/span><span><span>: <\/span><\/span><\/strong><span>Light armor<br><\/span><strong><span>Weapons: <\/span><\/strong>S<span>imple weapons<br><\/span><strong><span>Tools:<\/span><\/strong> None<br><strong><span>Saving Throws:<\/span><\/strong> Wis<span>dom, Charisma<br><\/span><strong><span>Skills:<\/span><\/strong> Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature,<span> and Religion<\/span><\/p>",
+          "id": 469
+        },
+        {
+          "requiredLevel": 1,
+          "name": "Otherworldly Patron",
+          "prerequisite": null,
+          "displayOrder": 3,
+          "description": "<p>At 1st level, you have struck a bargain with an otherworldly being of your choice: the Fiend, which is detailed at the end of the class description, or one from another source. Your choice grants you features at 1st level and again at 6th, 10th, an<span>d 14th level.<\/span><\/p>",
+          "id": 386
+        },
+        {
+          "requiredLevel": 1,
+          "name": "Pact Magic",
+          "prerequisite": null,
+          "displayOrder": 4,
+          "description": "<p>Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See <span style=\"color:#9c0\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting\" rel=\"nofollow\">Spells Rules<\/a><\/span> for the general rules of spellcasting and the <span style=\"color:#936\"><a style=\"color:#704cd9\" href=\"https://www.dndbeyond.com/spells?filter-class=7&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content=\" rel=\"nofollow\">Spells Listing<\/a><\/span>&nbsp;for the warlock&nbsp;<span>spell list.<\/span><\/p>\r\n<h5>Cantrips<\/h5>\r\n<p>You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the W<span>arlock table.<\/span><\/p>\r\n<h5>Spell Slots<\/h5>\r\n<p>The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short <span>or long rest.<\/span><\/p>\r\n<p>For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell <span>witch bolt<\/span>, you must spend one of those slots, and you cast it as a 3rd<span>-level spell.<\/span><\/p>\r\n<h5>Spells Known of 1st Level and Higher<\/h5>\r\n<p>At 1st level, you know two 1st-level spells of your choice from the warloc<span>k spell list.<\/span><\/p>\r\n<p>The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what&rsquo;s shown in the table&rsquo;s Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, <span>or 3rd level.<\/span><\/p>\r\n<p>Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have<span> spell slots.<\/span><\/p>\r\n<h5>Spellcasting Ability<\/h5>\r\n<p>Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.<\/p>\r\n<p><strong><span>Spell save DC <\/span><\/strong>= 8 + your proficiency bonus + your Charisma modifier<\/p>\r\n<p><strong><span>Spell attack modifier <\/span><\/strong>= your proficiency bonus + your Charisma modifier<\/p>\r\n<h5>Spellcasting Focus<\/h5>\r\n<p>You can use an arcane focus (see the <span style=\"color:#47d18c\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#ArcaneFocus\" rel=\"nofollow\">Adventuring Gear<\/a><\/span> section) as a spellcasting focus for your wa<span>rlock spells.<\/span><\/p>",
+          "id": 387
+        },
+        {
+          "requiredLevel": 2,
+          "name": "Eldritch Invocations",
+          "prerequisite": null,
+          "displayOrder": 5,
+          "description": "<p>In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding mag<span>ical ability.&nbsp;A level prerequisite&nbsp;refers to your level in this class.<\/span><\/p>\r\n<p>At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the W<span>arlock table.<\/span><\/p>\r\n<p>Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn a<span>t that level.<\/span><\/p>\r\n<p><span>If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.<\/span><\/p>",
+          "id": 388
+        },
+        {
+          "requiredLevel": 3,
+          "name": "Pact Boon",
+          "prerequisite": null,
+          "displayOrder": 6,
+          "description": "<p>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of<span> your choice.<\/span><\/p>",
+          "id": 389
+        },
+        {
+          "requiredLevel": 4,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 7,
+          "description": "<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/p>",
+          "id": 323
+        },
+        {
+          "requiredLevel": 8,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 8,
+          "description": "<p>When you reach 8th level, and again at 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/p>",
+          "id": 324
+        },
+        {
+          "requiredLevel": 11,
+          "name": "Mystic Arcanum (6th level)",
+          "prerequisite": null,
+          "displayOrder": 9,
+          "description": "<p>At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as <span>this arcanum.<\/span><\/p>\r\n<p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can<span> do so again.<\/span><\/p>\r\n<p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish<span> a long rest.<\/span><\/p>",
+          "id": 390
+        },
+        {
+          "requiredLevel": 12,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 10,
+          "description": "<p>When you reach 12th level, and again at 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/p>",
+          "id": 325
+        },
+        {
+          "requiredLevel": 13,
+          "name": "Mystic Arcanum (7th level)",
+          "prerequisite": null,
+          "displayOrder": 11,
+          "description": "<p>At 13th level, your patron bestows upon you a magical secret called an arcanum. Choose one 7th-level spell from the warlock spell list as <span>this arcanum.<\/span><\/p>\r\n<p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can<span> do so again.<\/span><\/p>\r\n<p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish<span> a long rest.<\/span><\/p>",
+          "id": 392
+        },
+        {
+          "requiredLevel": 15,
+          "name": "Mystic Arcanum (8th level)",
+          "prerequisite": null,
+          "displayOrder": 12,
+          "description": "<p>At 15th level, your patron bestows upon you a magical secret called an arcanum. Choose one 8th-level spell from the warlock spell list as <span>this arcanum.<\/span><\/p>\r\n<p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can<span> do so again.<\/span><\/p>\r\n<p>At 17th level, you gain a 9th-level&nbsp;warlock spell of your choice that can be cast in this way. You regain all uses of your Mystic Arcanum when you finish<span> a long rest.<\/span><\/p>",
+          "id": 393
+        },
+        {
+          "requiredLevel": 16,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 13,
+          "description": "<p>When you reach 16th level, and again at 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/p>",
+          "id": 326
+        },
+        {
+          "requiredLevel": 17,
+          "name": "Mystic Arcanum (9th level)",
+          "prerequisite": null,
+          "displayOrder": 14,
+          "description": "<p>At 17th level, your patron bestows upon you a magical secret called an arcanum. Choose one 9th-level spell from the warlock spell list as <span>this arcanum.<\/span><\/p>\r\n<p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can<span> do so again.<\/span><\/p>\r\n<p>You regain all uses of your Mystic Arcanum when you finish<span> a long rest.<\/span><\/p>",
+          "id": 394
+        },
+        {
+          "requiredLevel": 19,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 15,
+          "description": "<p>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/p>",
+          "id": 327
+        },
+        {
+          "requiredLevel": 20,
+          "name": "Eldritch Master",
+          "prerequisite": null,
+          "displayOrder": 16,
+          "description": "<p>At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can<span> do so again.<\/span><\/p>",
+          "id": 391
+        }
+      ],
+      "spellPrepareType": null,
+      "parentClassId": null,
+      "wealthDice": {
+        "diceCount": 4,
+        "diceValue": 4,
+        "fixedValue": null,
+        "diceString": "4d4",
+        "diceMultiplier": 10
+      },
+      "name": "Warlock",
+      "id": 7,
+      "portraitAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/10/12/636336422983071263.jpeg",
+      "sourceIds": [1]
+    },
+    "id": 10249658,
+    "subclassDefinition": {
+      "sourceId": 2,
+      "equipmentDescription": null,
+      "hitDice": 8,
+      "avatarUrl": null,
+      "spellContainerName": null,
+      "canCastSpells": false,
+      "description": "<p>Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your m<span>agic from it.<\/span><\/p>\r\n<p>Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; and other unfatho<span>mable beings.<\/span><\/p>",
+      "sourcePageNumber": 109,
+      "knowsAllSpells": false,
+      "moreDetailsUrl": "/classes/warlock#TheGreatOldOne",
+      "largeAvatarUrl": null,
+      "spellCastingAbilityId": 6,
+      "classFeatures": [
+        {
+          "requiredLevel": 1,
+          "name": "Expanded Spell List",
+          "prerequisite": null,
+          "displayOrder": 1,
+          "description": "<p>The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell <span>list for you.<\/span><\/p>\r\n<h5>Great Old One Expanded Spells<\/h5>\r\n<table>\r\n<thead>\r\n<tr>\r\n<th>\r\n<p><strong>Spell Level<\/strong><\/p>\r\n<\/th>\r\n<th>\r\n<p><strong>Spells<\/strong><\/p>\r\n<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p>1st<\/p>\r\n<\/td>\r\n<td>\r\n<p style=\"text-align:left\"><span>dissonant whispers<\/span>, <span>Tasha&rsquo;s hideous laughter<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p>2nd<\/p>\r\n<\/td>\r\n<td>\r\n<p style=\"text-align:left\"><span>detect thoughts<\/span>, <span>phantasmal force<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p>3rd<\/p>\r\n<\/td>\r\n<td>\r\n<p style=\"text-align:left\"><span>clairvoyance<\/span>, <span>sending<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p>4th<\/p>\r\n<\/td>\r\n<td>\r\n<p style=\"text-align:left\"><span>dominate beast<\/span>, <span>Evard&rsquo;s black tentacles<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p>5th<\/p>\r\n<\/td>\r\n<td>\r\n<p style=\"text-align:left\"><span>dominate person<\/span>, <span>telekinesis<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+          "id": 405
+        },
+        {
+          "requiredLevel": 1,
+          "name": "Awakened Mind",
+          "prerequisite": null,
+          "displayOrder": 2,
+          "description": "<p>Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can telepathically speak to any creature you can see within 30 feet of you. You don&rsquo;t need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least <span>one language.<\/span><\/p>",
+          "id": 406
+        },
+        {
+          "requiredLevel": 6,
+          "name": "Entropic Ward",
+          "prerequisite": null,
+          "displayOrder": 3,
+          "description": "<p>At 6th level, you learn to magically ward yourself against attack and to turn an enemy&rsquo;s failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of yo<span>ur next turn.<\/span><\/p>\r\n<p>Once you use this feature, you can&rsquo;t use it again until you finish a short <span>or long rest.<\/span><\/p>",
+          "id": 407
+        },
+        {
+          "requiredLevel": 10,
+          "name": "Thought Shield",
+          "prerequisite": null,
+          "displayOrder": 4,
+          "description": "<p>Starting at 10th level, your thoughts can&rsquo;t be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage<span> that you do.<\/span><\/p>",
+          "id": 408
+        },
+        {
+          "requiredLevel": 14,
+          "name": "Create Thrall",
+          "prerequisite": null,
+          "displayOrder": 5,
+          "description": "<p>At 14th level, you gain the ability to infect a humanoid&rsquo;s mind with the alien magic of your patron. You can use your action to touch an incapacitated humanoid. That creature is then charmed by you until a <span>remove curse<\/span> spell is cast on it, the charmed condition is removed from it, or you use this f<span>eature again.<\/span><\/p>\r\n<p>You can communicate telepathically with the charmed creature as long as the two of you are on the same plane <span>of existence.<\/span><\/p>",
+          "id": 409
+        }
+      ],
+      "spellPrepareType": null,
+      "parentClassId": 7,
+      "wealthDice": null,
+      "name": "The Great Old One",
+      "id": 49,
+      "portraitAvatarUrl": null,
+      "sourceIds": [2]
+    }
+  }],
+  "skin": "Dark red",
+  "faith": "In himself",
+  "activeSourceCategories": [
+    1,
+    7,
+    8
+  ],
+  "inspiration": false,
+  "inventory": [
+    {
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": false,
+      "limitedUse": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "stealthCheck": 1,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.<\/p>",
+        "type": "Light Armor",
+        "baseItemId": 10,
+        "armorClass": 11,
+        "baseTypeId": 701257905,
+        "id": 10,
+        "canAttune": false,
+        "stackable": false,
+        "cost": 10,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "baseArmorName": "Leather",
+        "weight": 10,
+        "sourcePageNumber": null,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Warding"],
+        "strengthRequirement": null,
+        "bundleSize": 1,
+        "name": "Leather",
+        "entityTypeId": 701257905,
+        "filterType": "Armor",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133583
+    },
+    {
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": null,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "damage": {
+          "diceCount": 1,
+          "diceValue": 4,
+          "fixedValue": null,
+          "diceString": "1d4",
+          "diceMultiplier": null
+        },
+        "longRange": 60,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "range": 20,
+        "description": "<p>Proficiency with a dagger allows you to add your proficiency bonus to the attack roll for any attack you make with it.<\/p>",
+        "type": "Dagger",
+        "baseItemId": 3,
+        "baseTypeId": 1782728300,
+        "id": 3,
+        "canAttune": false,
+        "stackable": false,
+        "cost": 2,
+        "avatarUrl": null,
+        "fixedDamage": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "version": null,
+        "isMonkWeapon": true,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "attackType": 1,
+        "bundleSize": 1,
+        "name": "Dagger",
+        "entityTypeId": 1782728300,
+        "damageType": "Piercing",
+        "filterType": "Weapon",
+        "properties": [
+          {
+            "notes": null,
+            "name": "Finesse",
+            "description": "When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. ",
+            "id": 8
+          },
+          {
+            "notes": null,
+            "name": "Light",
+            "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. ",
+            "id": 9
+          },
+          {
+            "notes": null,
+            "name": "Thrown",
+            "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. ",
+            "id": 10
+          }
+        ],
+        "categoryId": 1,
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133585
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": null,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "damage": {
+          "diceCount": 1,
+          "diceValue": 4,
+          "fixedValue": null,
+          "diceString": "1d4",
+          "diceMultiplier": null
+        },
+        "longRange": 60,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "range": 20,
+        "description": "<p>Proficiency with a dagger allows you to add your proficiency bonus to the attack roll for any attack you make with it.<\/p>",
+        "type": "Dagger",
+        "baseItemId": 3,
+        "baseTypeId": 1782728300,
+        "id": 3,
+        "canAttune": false,
+        "stackable": false,
+        "cost": 2,
+        "avatarUrl": null,
+        "fixedDamage": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "version": null,
+        "isMonkWeapon": true,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "attackType": 1,
+        "bundleSize": 1,
+        "name": "Dagger",
+        "entityTypeId": 1782728300,
+        "damageType": "Piercing",
+        "filterType": "Weapon",
+        "properties": [
+          {
+            "notes": null,
+            "name": "Finesse",
+            "description": "When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. ",
+            "id": 8
+          },
+          {
+            "notes": null,
+            "name": "Light",
+            "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. ",
+            "id": 9
+          },
+          {
+            "notes": null,
+            "name": "Thrown",
+            "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. ",
+            "id": 10
+          }
+        ],
+        "categoryId": 1,
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133586
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": null,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "damage": {
+          "diceCount": 1,
+          "diceValue": 8,
+          "fixedValue": null,
+          "diceString": "1d8",
+          "diceMultiplier": null
+        },
+        "longRange": 320,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "range": 80,
+        "description": "<p>Proficiency with a light crossbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.<\/p>",
+        "type": "Crossbow, Light",
+        "baseItemId": 15,
+        "baseTypeId": 1782728300,
+        "id": 15,
+        "canAttune": false,
+        "stackable": false,
+        "cost": 25,
+        "avatarUrl": null,
+        "fixedDamage": null,
+        "isHomebrew": false,
+        "weight": 5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "version": null,
+        "isMonkWeapon": false,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "attackType": 2,
+        "bundleSize": 1,
+        "name": "Crossbow, Light",
+        "entityTypeId": 1782728300,
+        "damageType": "Piercing",
+        "filterType": "Weapon",
+        "properties": [
+          {
+            "notes": null,
+            "name": "Ammunition",
+            "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. \r\nIf you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see \"Improvised Weapons\" later in the section). A sling must be loaded to deal any damage when used in this way. ",
+            "id": 24
+          },
+          {
+            "notes": null,
+            "name": "Loading",
+            "description": "Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make. ",
+            "id": 25
+          },
+          {
+            "notes": null,
+            "name": "Range",
+            "description": "A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. ",
+            "id": 26
+          },
+          {
+            "notes": null,
+            "name": "Two-Handed",
+            "description": "This weapon requires two hands when you attack with it. ",
+            "id": 27
+          }
+        ],
+        "categoryId": 1,
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133571
+    },
+    {
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": null,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "damage": {
+          "diceCount": 1,
+          "diceValue": 8,
+          "fixedValue": null,
+          "diceString": "1d8",
+          "diceMultiplier": null
+        },
+        "longRange": 30,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "range": 10,
+        "description": "<p>A yklwa (pronounced YICK-ul-wah) is a simple melee weapon that is the traditional weapon of Chultan warriors. A yklwa consists of a 3-foot wooden shaft with a steel or stone blade up to 18 inches long. It costs 1 gp, and it deals 1d8 piercing damage on a hit. Although it has the thrown weapon property, the yklwa is not well balanced for throwing (range 10/30 ft.).<\/p>",
+        "type": "Yklwa",
+        "baseItemId": 41,
+        "baseTypeId": 1782728300,
+        "id": 41,
+        "canAttune": false,
+        "stackable": false,
+        "cost": 1,
+        "avatarUrl": null,
+        "fixedDamage": null,
+        "isHomebrew": false,
+        "weight": 2,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "version": null,
+        "isMonkWeapon": true,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "attackType": 1,
+        "bundleSize": 1,
+        "name": "Yklwa",
+        "entityTypeId": 1782728300,
+        "damageType": "Piercing",
+        "filterType": "Weapon",
+        "properties": [{
+          "notes": null,
+          "name": "Thrown",
+          "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. ",
+          "id": 79
+        }],
+        "categoryId": 1,
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84136624
+    },
+    {
+      "quantity": 20,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "description": "<p>Crossbow bolts are&nbsp;used with&nbsp;a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 3,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 1,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 1.5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": true,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "bundleSize": 20,
+        "name": "Crossbow Bolts",
+        "subType": "Ammunition",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133572
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A backpack is a leather pack carried on the back, typically with straps to secure it. A backpack can hold&nbsp;1 cubic foot/ 30 pounds of gear.<\/p>\r\n<p>You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 20,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Container"],
+        "bundleSize": 1,
+        "name": "Backpack",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133574
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>This set of&nbsp;clothes is fashioned after a particular costume, typically meant for entertaining.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 39,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 4,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Social",
+          "Deception",
+          "Outerwear"
+        ],
+        "bundleSize": 1,
+        "name": "Clothes, Costume",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133588
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 43,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Utility",
+          "Exploration"
+        ],
+        "bundleSize": 1,
+        "name": "Crowbar",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133575
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>This one-handed hammer with an iron head is useful for pounding pitons into a wall.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 47,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 1,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 3,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Utility"],
+        "bundleSize": 1,
+        "name": "Hammer",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133576
+    },
+    {
+      "quantity": 10,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>When a wall doesn&rsquo;t offer handholds and footholds, you can make your own. A piton is a steel spike with an eye through which you can loop a rope.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 67,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.005,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 0.25,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Utility"],
+        "bundleSize": 1,
+        "name": "Piton",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133577
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 71,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 50,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 0.5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": true,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Healing",
+          "Combat",
+          "Consumable"
+        ],
+        "bundleSize": 1,
+        "name": "Potion of Healing",
+        "subType": "Potion",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 86766760
+    },
+    {
+      "quantity": 10,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 75,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 2,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Social",
+          "Utility",
+          "Consumable"
+        ],
+        "bundleSize": 1,
+        "name": "Rations (1 day)",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133580
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>Rope,&nbsp;has 2 hit points and can be burst with a DC 17 Strength check.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 77,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 1,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 10,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Utility",
+          "Exploration"
+        ],
+        "bundleSize": 1,
+        "name": "Rope, Hempen (50 feet)",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133582
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch -- or anything else with abundant, exposed fuel -- takes an action. Lighting any other fire takes 1 minute.<\/p>\r\n<p>&nbsp;<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 90,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Utility",
+          "Exploration"
+        ],
+        "bundleSize": 1,
+        "name": "Tinderbox",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133579
+    },
+    {
+      "quantity": 10,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 91,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.001,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Utility",
+          "Exploration",
+          "Combat"
+        ],
+        "bundleSize": 1,
+        "name": "Torch",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133578
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A waterskin can hold&nbsp;4 pints of liquid.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 92,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Container"],
+        "bundleSize": 1,
+        "name": "Waterskin",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133581
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.&nbsp;A bard can use a musical instrument as a spellcasting focus.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 133,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 12,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 2,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Instrument"],
+        "bundleSize": 1,
+        "name": "Pan Flute",
+        "subType": "Tool",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133587
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, as described in&nbsp;the <span style=\"color:#47d18c\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting#MaterialM\" rel=\"nofollow\">Spellcasting<\/a><\/span> section.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 153,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 4,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Utility"],
+        "bundleSize": 1,
+        "name": "Staff",
+        "subType": "Arcane Focus",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84133573
+    }
+  ],
+  "modifiers": {
+    "item": [],
+    "condition": [],
+    "race": [
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 60,
+        "dice": null,
+        "entityId": 2,
+        "friendlySubtypeName": "Darkvision",
+        "type": "set-base",
+        "duration": null,
+        "friendlyTypeName": "Set Base",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 668550506,
+        "subType": "darkvision",
+        "id": "racialTrait_60_1383",
+        "value": 60,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 61,
+        "dice": null,
+        "entityId": 7,
+        "friendlySubtypeName": "Fire",
+        "type": "resistance",
+        "duration": null,
+        "friendlyTypeName": "Resistance",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 349597128,
+        "subType": "fire",
+        "id": "racialTrait_61_1384",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 104,
+        "dice": null,
+        "entityId": 4,
+        "friendlySubtypeName": "Intelligence Score",
+        "type": "bonus",
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 1472902489,
+        "subType": "intelligence-score",
+        "id": "racialTrait_104_1661",
+        "value": 1,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 104,
+        "dice": null,
+        "entityId": 6,
+        "friendlySubtypeName": "Charisma Score",
+        "type": "bonus",
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 1472902489,
+        "subType": "charisma-score",
+        "id": "racialTrait_104_1662",
+        "value": 2,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 105,
+        "dice": null,
+        "entityId": 1,
+        "friendlySubtypeName": "Common",
+        "type": "language",
+        "duration": null,
+        "friendlyTypeName": "Language",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 906033267,
+        "subType": "common",
+        "id": "racialTrait_105_1663",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 105,
+        "dice": null,
+        "entityId": 13,
+        "friendlySubtypeName": "Infernal",
+        "type": "language",
+        "duration": null,
+        "friendlyTypeName": "Language",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 906033267,
+        "subType": "infernal",
+        "id": "racialTrait_105_1664",
+        "value": null,
+        "requiresAttunement": false
+      }
+    ],
+    "background": [
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 14,
+        "dice": null,
+        "entityId": 3,
+        "friendlySubtypeName": "Acrobatics",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "acrobatics",
+        "id": "background_14_2170",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 14,
+        "dice": null,
+        "entityId": 18,
+        "friendlySubtypeName": "Performance",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "performance",
+        "id": "background_14_2171",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 14,
+        "dice": null,
+        "entityId": 119,
+        "friendlySubtypeName": "Disguise Kit",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 2103445194,
+        "subType": "disguise-kit",
+        "id": "background_14_2172",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 14,
+        "dice": null,
+        "entityId": 133,
+        "friendlySubtypeName": "Pan Flute",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 2103445194,
+        "subType": "pan-flute",
+        "id": "background_14_2173",
+        "value": null,
+        "requiresAttunement": false
+      }
+    ],
+    "class": [
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 469,
+        "dice": null,
+        "entityId": 1,
+        "friendlySubtypeName": "Light Armor",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 174869515,
+        "subType": "light-armor",
+        "id": "classFeature_469_1584",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 469,
+        "dice": null,
+        "entityId": 1,
+        "friendlySubtypeName": "Simple Weapons",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 660121713,
+        "subType": "simple-weapons",
+        "id": "classFeature_469_1585",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 469,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Wisdom Saving Throws",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "wisdom-saving-throws",
+        "id": "classFeature_469_1586",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 469,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Charisma Saving Throws",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "charisma-saving-throws",
+        "id": "classFeature_469_1587",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 469,
+        "dice": null,
+        "entityId": 16,
+        "friendlySubtypeName": "Deception",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "deception",
+        "id": "classFeature_469_1588",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 469,
+        "dice": null,
+        "entityId": 17,
+        "friendlySubtypeName": "Intimidation",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "intimidation",
+        "id": "classFeature_469_1589",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 386,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Subclass",
+        "type": "set",
+        "duration": null,
+        "friendlyTypeName": "Set",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "subclass",
+        "id": "classFeature_386_2035",
+        "value": null,
+        "requiresAttunement": false
+      }
+    ],
+    "feat": []
+  },
+  "eyes": "Silver",
+  "feats": [],
+  "customProficiencies": [],
+  "socialName": null,
+  "hair": "Lengthy, dark blue",
+  "smallBackdropAvatarUrl": "",
+  "avatarId": 10093,
+  "adjustmentXp": null,
+  "spells": {
+    "item": [],
+    "race": [{
+      "castAtLevel": null,
+      "componentId": 62,
+      "limitedUse": null,
+      "prepared": null,
+      "atWillLimitedUseLevel": null,
+      "range": {
+        "aoeValue": null,
+        "origin": "Ranged",
+        "rangeValue": 30,
+        "aoeType": null
+      },
+      "baseLevelAtWill": false,
+      "usesSpellSlot": false,
+      "spellCastingAbilityId": 6,
+      "componentTypeId": 1960452172,
+      "overrideSaveDc": null,
+      "additionalDescription": null,
+      "restriction": "",
+      "entityTypeId": 420821570,
+      "definition": {
+        "snippet": "",
+        "rangeArea": null,
+        "canCastAtHigherLevel": false,
+        "sourceId": 2,
+        "components": [1],
+        "requiresAttackRoll": false,
+        "requiresSavingThrow": false,
+        "range": {
+          "aoeValue": null,
+          "origin": "Ranged",
+          "rangeValue": 30,
+          "aoeType": null
+        },
+        "description": "<p>You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:<\/p>\r\n<ul>\r\n<li>Your voice booms up to three times as loud as normal for 1 minute.<\/li>\r\n<li>You cause flames to flicker, brighten, dim, or change color for 1 minute.<\/li>\r\n<li>You cause harmless tremors in the ground for 1 minute.<\/li>\r\n<li>You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.<\/li>\r\n<li>You instantaneously cause an unlocked door or window to fly open or slam shut.<\/li>\r\n<li>You alter the appearance of your eyes for 1 minute.<\/li>\r\n<\/ul>\r\n<p><br>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.<\/p>",
+        "tempHpDice": null,
+        "modifiers": [],
+        "duration": {
+          "durationInterval": 1,
+          "durationUnit": "Minute",
+          "durationType": "Time"
+        },
+        "healing": null,
+        "school": "Transmutation",
+        "damageEffect": null,
+        "id": 2277,
+        "castingTimeDescription": "",
+        "level": 0,
+        "ritual": false,
+        "asPartOfWeaponAttack": false,
+        "componentsDescription": "",
+        "isHomebrew": false,
+        "atHigherLevels": {
+          "duration": [],
+          "special": [],
+          "scaleType": "characterlevel",
+          "additionalTargets": [],
+          "creatures": [],
+          "areaOfEffect": [],
+          "higherLevelDefinitions": [],
+          "additionalAttacks": [],
+          "points": []
+        },
+        "sourcePageNumber": 282,
+        "concentration": false,
+        "version": null,
+        "saveDcAbilityId": null,
+        "tags": ["Control"],
+        "attackType": null,
+        "name": "Thaumaturgy",
+        "activation": {
+          "activationType": 1,
+          "activationTime": 1
+        },
+        "conditions": [],
+        "healingDice": null
+      },
+      "alwaysPrepared": null,
+      "displayAsAttack": false,
+      "id": 203,
+      "castOnlyAsRitual": false,
+      "activation": {
+        "activationType": 1,
+        "activationTime": 1
+      },
+      "countsAsKnownSpell": false,
+      "ritualCastingType": null
+    }],
+    "class": [],
+    "feat": []
+  },
+  "temporaryHitPoints": 0,
+  "smallBackdropAvatarId": null,
+  "preferences": {
+    "enforceMulticlassRules": true,
+    "showWildShape": false,
+    "progressionType": 1,
+    "hitPointType": 1,
+    "ignoreCoinWeight": true,
+    "abilityScoreDisplayType": 2,
+    "primarySense": 5,
+    "sharingType": 2,
+    "showCompanions": false,
+    "useHomebrewContent": true,
+    "showUnarmedStrike": true,
+    "primaryMovement": 1,
+    "encumbranceType": 2,
+    "enforceFeatRules": true,
+    "privacyType": 3
+  },
+  "currentXp": 0,
+  "race": {
+    "sizeId": 4,
+    "subRaceShortName": null,
+    "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/7/640/315/315/636287076637351751.png",
+    "baseRaceId": 7,
+    "featIds": [],
+    "isHomebrew": false,
+    "fullName": "Tiefling",
+    "description": "<p>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling.<\/p>\r\n<p class=\"characters-statblock\" style=\"font-family:Roboto Condensed\"><strong>Racial Traits<\/strong><br>+2 Charisma, +1 Intelligence, Darkvision, Hellish Resistance, Infernal Legacy<\/p>",
+    "type": 1,
+    "moreDetailsUrl": "/races/tiefling",
+    "largeAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/7/641/636287076637981942.png",
+    "entityRaceId": 7,
+    "baseRaceTypeId": 1743923279,
+    "entityRaceTypeId": 1743923279,
+    "size": "Medium",
+    "groupIds": [5],
+    "weightSpeeds": {
+      "normal": {
+        "climb": 0,
+        "fly": 0,
+        "burrow": 0,
+        "walk": 30,
+        "swim": 0
+      },
+      "heavilyEncumbered": null,
+      "override": null,
+      "pushDragLift": null,
+      "encumbered": null
+    },
+    "portraitAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/9/388/636327461109911160.jpeg",
+    "racialTraits": [
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 1,
+        "name": "Ability Score Increase",
+        "description": "<p>Your Intelligence score increases by 1, and your Charisma score in<span>creases by 2.<\/span><\/p>",
+        "sourcePageNumber": 43,
+        "entityTypeId": 1960452172,
+        "id": 104,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 2,
+        "name": "Age",
+        "description": "<p>Tieflings mature at the same rate as humans but live a few years longer.<\/p>",
+        "sourcePageNumber": 43,
+        "entityTypeId": 1960452172,
+        "id": 154,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 3,
+        "name": "Alignment",
+        "description": "<p>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.<\/p>",
+        "sourcePageNumber": 43,
+        "entityTypeId": 1960452172,
+        "id": 155,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 4,
+        "name": "Size",
+        "description": "<p>Tieflings are about the same size and build as humans. Your size is Medium.<\/p>",
+        "sourcePageNumber": 43,
+        "entityTypeId": 1960452172,
+        "id": 156,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 5,
+        "name": "Speed",
+        "description": "<p>Your base walking speed is 30 feet.<\/p>",
+        "sourcePageNumber": 43,
+        "entityTypeId": 1960452172,
+        "id": 157,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You can see in darkness (shades of gray) up to 60 ft.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 6,
+        "name": "Darkvision",
+        "description": "<p>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.<\/p>",
+        "sourcePageNumber": 43,
+        "entityTypeId": 1960452172,
+        "id": 60,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You have resistance to fire damage.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 7,
+        "name": "Hellish Resistance",
+        "description": "<p>You have resistance to fire damage.<\/p>",
+        "sourcePageNumber": 43,
+        "entityTypeId": 1960452172,
+        "id": 61,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You know the thaumaturgy cantrip. [3rd] You can cast hellish rebuke (2nd) once per long rest. [5th] You can cast darkness once per long rest. CHA is your spellcasting ability.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 8,
+        "name": "Infernal Legacy",
+        "description": "<p>You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.<\/p>",
+        "sourcePageNumber": 43,
+        "entityTypeId": 1960452172,
+        "id": 62,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 9,
+        "name": "Languages",
+        "description": "<p>You can speak, read, and write Common and Infernal.<\/p>",
+        "sourcePageNumber": 43,
+        "entityTypeId": 1960452172,
+        "id": 105,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }}
+    ],
+    "baseName": "Tiefling",
+    "sourceIds": [
+      1,
+      2
+    ]
+  },
+  "spellDefenses": null,
+  "baseHitPoints": 8,
+  "lifestyle": null,
+  "backdropAvatarUrl": "",
+  "themeColorId": null,
+  "frameAvatarId": null,
+  "age": 30,
+  "currencies": {
+    "pp": 0,
+    "gp": 28,
+    "ep": 0,
+    "cp": 0,
+    "sp": 0
+  }
+}

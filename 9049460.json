@@ -1,0 +1,4016 @@
+{
+  "largeBackdropAvatarUrl": "",
+  "notes": {
+    "otherHoldings": null,
+    "backstory": "As cook and caretaker of his monastery, Lazarus was responsible for caring for his fellow monks and refugees. His monastery guarded tomes containing powerful forbidden knowledge. On one fateful day, the monastery was attacked, and to prevent that knowledge from falling into the wrong hands, the tomes were burned. Lazarus escaped the attack, and as far as he knows, he is the last one alive who knows what was contained in those tomes.",
+    "otherNotes": null,
+    "personalPossessions": "A scroll case stuffed full of notes from your studies or prayers",
+    "organizations": "Home monastery",
+    "enemies": null,
+    "allies": null
+  },
+  "customSpeeds": [],
+  "pactMagic": [
+    {
+      "level": 1,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 2,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 3,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 4,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 5,
+      "available": 0,
+      "used": 0
+    }
+  ],
+  "removedHitPoints": 3,
+  "bonusStats": [
+    {
+      "name": null,
+      "id": 1,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 2,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 3,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 4,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 5,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 6,
+      "value": null
+    }
+  ],
+  "classSpells": [{
+    "entityTypeId": 1446578651,
+    "spells": [],
+    "characterClassId": 10253607
+  }],
+  "deathSaves": {
+    "failCount": null,
+    "successCount": null,
+    "isStabilized": false
+  },
+  "customSenses": [],
+  "stats": [
+    {
+      "name": null,
+      "id": 1,
+      "value": 10
+    },
+    {
+      "name": null,
+      "id": 2,
+      "value": 15
+    },
+    {
+      "name": null,
+      "id": 3,
+      "value": 13
+    },
+    {
+      "name": null,
+      "id": 4,
+      "value": 12
+    },
+    {
+      "name": null,
+      "id": 5,
+      "value": 14
+    },
+    {
+      "name": null,
+      "id": 6,
+      "value": 8
+    }
+  ],
+  "thumbnailAvatarId": null,
+  "overrideHitPoints": null,
+  "spellSlots": [
+    {
+      "level": 1,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 2,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 3,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 4,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 5,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 6,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 7,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 8,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 9,
+      "available": 0,
+      "used": 0
+    }
+  ],
+  "options": {
+    "race": [],
+    "class": [],
+    "feat": []
+  },
+  "customItems": [],
+  "id": 9049460,
+  "height": "",
+  "alignmentId": 4,
+  "backdropAvatarId": null,
+  "thumbnailBackdropAvatarUrl": "",
+  "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/325/150/150/636377872983373773.jpeg",
+  "creatures": [],
+  "customActions": [],
+  "weight": null,
+  "readonlyUrl": "https://dndbeyond.com/characters/9049460",
+  "frameAvatarUrl": "",
+  "themeColor": null,
+  "overrideStats": [
+    {
+      "name": null,
+      "id": 1,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 2,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 3,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 4,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 5,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 6,
+      "value": null
+    }
+  ],
+  "background": {
+    "hasCustomBackground": false,
+    "definition": {
+      "snippet": "",
+      "personalityTraits": [
+        {
+          "description": "I\u2019ve been isolated for so long that I rarely speak, preferring gestures and the occasional grunt.",
+          "id": 251,
+          "diceRoll": 1
+        },
+        {
+          "description": "I am utterly serene, even in the face of disaster.",
+          "id": 252,
+          "diceRoll": 2
+        },
+        {
+          "description": "The leader of my community had something wise to say on every topic, and I am eager to share that wisdom.",
+          "id": 253,
+          "diceRoll": 3
+        },
+        {
+          "description": "I feel tremendous empathy for all who suffer.",
+          "id": 254,
+          "diceRoll": 4
+        },
+        {
+          "description": "I\u2019m oblivious to etiquette and social expectations.",
+          "id": 255,
+          "diceRoll": 5
+        },
+        {
+          "description": "I connect everything that happens to me to a grand, cosmic plan.",
+          "id": 256,
+          "diceRoll": 6
+        },
+        {
+          "description": "I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings.",
+          "id": 257,
+          "diceRoll": 7
+        },
+        {
+          "description": "I am working on a grand philosophical theory and love sharing my ideas.",
+          "id": 258,
+          "diceRoll": 8
+        }
+      ],
+      "equipmentDescription": "A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp",
+      "suggestedProficiencies": [
+        "Religion",
+        "Medicine"
+      ],
+      "description": "<p>You lived in seclusion &mdash; either in a sheltered community such as a monastery, or entirely alone &mdash; for a formative part of your life. In your time apart from the clamor of society, you found quiet, solitude, and perhaps some of the answers you we<span>re looking for.<\/span><\/p>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<p><span><strong>Skill Proficiencies:<\/strong> <\/span>Med<span>icine, Religion<br><\/span><strong><span>Tool Proficiencies<\/span><span><span>:<\/span><\/span><\/strong><span> Herbalism kit<br><\/span><strong><span>Languages:<\/span><\/strong> One<span> of your choice<br><\/span><strong><span>Equipment:<\/span><\/strong> A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalis<span>m kit, and 5 gp<\/span><\/p>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<h5>Life of Seclusion<\/h5>\r\n<p>What was the reason for your isolation, and what changed to allow you to end your solitude? You can work with your DM to determine the exact nature of your seclusion, or you can choose or roll on the table below to determine the reason behind <span>your seclusion.<\/span><\/p>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d8<\/th>\r\n<th style=\"text-align:left\">Life of Seclusion<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>I was searching for spiritual enlightenment.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>I was partaking of communal living in accordance with the dictates of a religious order.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>I was exiled for a crime I didn&rsquo;t commit.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>I retreated from society after a life-altering event.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>I needed a quiet place to work on my art, literature, music, or manifesto.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>I needed to commune with nature, far from civilization.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>7<\/td>\r\n<td>I was the caretaker of an ancient ruin or relic.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>8<\/td>\r\n<td>I was a pilgrim in search of a person, place, or relic of spiritual significance.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<blockquote>\r\n<p><br><strong>FEATURE: DISCOVERY&nbsp;<\/strong><\/p>\r\n<p>The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who or consigned you to exile, and hence the reason for your ret<span>urn to society.<\/span><\/p>\r\n<p>Work with your DM to determine the details of your discovery and its impact o<span>n the campaign.<\/span><\/p>\r\n<\/blockquote>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<h5>Other Hermits<\/h5>\r\n<p>This hermit background assumes a contemplative sort of seclusion that allows room for study and prayer. If you want to play a rugged wilderness recluse who lives off the land while shunning the company of other people, look at the <a href=\"https://www.dndbeyond.com/characters/backgrounds/outlander\" rel=\"nofollow\">outlander<\/a> background. On the other hand, if you want to go in a more religious direction, the <a href=\"https://www.dndbeyond.com/characters/backgrounds/acolyte\" rel=\"nofollow\">acolyte<\/a> might be what you&rsquo;re looking for. Or you could even be a <a href=\"https://www.dndbeyond.com/characters/backgrounds/charlatan\" rel=\"nofollow\">charlatan<\/a>, posing as a wise and holy person and letting pious foo<span>ls support you.<\/span><\/p>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<h5>Suggested Characteristics<\/h5>\r\n<p>Some hermits are well suited to a life of seclusion, whereas others chafe against it and long for company. Whether they embrace solitude or long to escape it, the solitary life shapes their attitudes and ideals. A few are driven slightly mad by their years apar<span>t from society.<\/span><\/p>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d8<\/th>\r\n<th style=\"text-align:left\">Personality Trait<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>I&rsquo;ve been isolated for so long that I rarely speak, preferring gestures and the occasional grunt.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>I am utterly serene, even in the face of disaster.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>The leader of my community had something wise to say on every topic, and I am eager to share that wisdom.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>I feel tremendous empathy for all who suffer.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>I&rsquo;m oblivious to etiquette and social expectations.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>I connect everything that happens to me to a grand, cosmic plan.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>7<\/td>\r\n<td>I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>8<\/td>\r\n<td>I am working on a grand philosophical theory and love sharing my ideas.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6<\/th>\r\n<th style=\"text-align:left\">Ideal<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td><span>Greater Good.<\/span> My gifts are meant to be shared with all, not used for my own benefit. (Good)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td><span>Logic. <\/span>Emotions must not cloud our sense of what is right and true, or our logical thinking. (Lawful)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td><span>Free Thinking. <\/span>Inquiry and curiosity are the pillars of progress. (Chaotic)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td><span>Power. <\/span>Solitude and contemplation are paths toward mystical or magical power. (Evil)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td><span>Live and Let Live. <\/span>Meddling in the affairs of others only causes trouble. (Neutral)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td><span>Self-Knowledge. <\/span>If you know yourself, there&rsquo;s nothing left to know. (Any)<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6<\/th>\r\n<th style=\"text-align:left\">Bond<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>Nothing is more important than the other members of my hermitage, order, or association.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>I entered seclusion to hide from the ones who might still be hunting me. I must someday confront them.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>I&rsquo;m still seeking the enlightenment I pursued in my seclusion, and it still eludes me.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>I entered seclusion because I loved someone I could not have.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>Should my discovery come to light, it could bring ruin to the world.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>My isolation gave me great insight into a great evil that only I can destroy.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6<\/th>\r\n<th style=\"text-align:left\">Flaw<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>Now that I&rsquo;ve returned to the world, I enjoy its delights a little too much.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>I harbor dark, bloodthirsty thoughts that my isolation and meditation failed to quell.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>I am dogmatic in my thoughts and philosophy.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>I let my need to win arguments overshadow friendships and harmony.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>I&rsquo;d risk too much to uncover a lost bit of knowledge.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>I like keeping secrets and won&rsquo;t share them with anyone.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<p>&nbsp;<\/p>",
+      "bonds": [
+        {
+          "description": "Nothing is more important than the other members of my hermitage, order, or association.",
+          "id": 265,
+          "diceRoll": 1
+        },
+        {
+          "description": "I entered seclusion to hide from the ones who might still be hunting me. I must someday confront them.",
+          "id": 266,
+          "diceRoll": 2
+        },
+        {
+          "description": "I\u2019m still seeking the enlightenment I pursued in my seclusion, and it still eludes me.",
+          "id": 267,
+          "diceRoll": 3
+        },
+        {
+          "description": "I entered seclusion because I loved someone I could not have.",
+          "id": 268,
+          "diceRoll": 4
+        },
+        {
+          "description": "Should my discovery come to light, it could bring ruin to the world.",
+          "id": 269,
+          "diceRoll": 5
+        },
+        {
+          "description": "My isolation gave me great insight into a great evil that only I can destroy.",
+          "id": 270,
+          "diceRoll": 6
+        }
+      ],
+      "toolProficienciesDescription": "Herbalism kit",
+      "skillProficienciesDescription": "Medicine, Religion",
+      "id": 16,
+      "contractsDescription": null,
+      "spellsPostDescription": null,
+      "suggestedLanguages": [],
+      "ideals": [
+        {
+          "description": "Greater Good. My gifts are meant to be shared with all, not used for my own benefit. (Good)",
+          "id": 259,
+          "diceRoll": 1
+        },
+        {
+          "description": "Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking. (Lawful)",
+          "id": 260,
+          "diceRoll": 2
+        },
+        {
+          "description": "Free Thinking. Inquiry and curiosity are the pillars of progress. (Chaotic)",
+          "id": 261,
+          "diceRoll": 3
+        },
+        {
+          "description": "Power. Solitude and contemplation are paths toward mystical or magical power. (Evil)",
+          "id": 262,
+          "diceRoll": 4
+        },
+        {
+          "description": "Live and Let Live. Meddling in the affairs of others only causes trouble. (Neutral)",
+          "id": 263,
+          "diceRoll": 5
+        },
+        {
+          "description": "Self-Knowledge. If you know yourself, there\u2019s nothing left to know. (Any)",
+          "id": 264,
+          "diceRoll": 6
+        }
+      ],
+      "languagesDescription": "One of your choice",
+      "featureName": "Discovery",
+      "avatarUrl": null,
+      "featureDescription": "<p>The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who or consigned you to exile, and hence the reason for your ret<span>urn to society.<\/span><\/p>\r\n<p>Work with your DM to determine the details of your discovery and its impact o<span>n the campaign.<\/span><\/p>",
+      "spellsPreDescription": null,
+      "shortDescription": "<p>You lived in seclusion &mdash; either in a sheltered community such as a monastery, or entirely alone &mdash; for a formative part of your life. In your time apart from the clamor of society, you found quiet, solitude, and perhaps some of the answers you we<span>re looking for.<\/span><\/p>",
+      "suggestedCharacteristicsDescription": "<p>Some hermits are well suited to a life of seclusion, whereas others chafe against it and long for company. Whether they embrace solitude or long to escape it, the solitary life shapes their attitudes and ideals. A few are driven slightly mad by their years apar<span>t from society.<\/span><\/p>",
+      "largeAvatarUrl": null,
+      "organization": null,
+      "name": "Hermit",
+      "flaws": [
+        {
+          "description": "Now that I\u2019ve returned to the world, I enjoy its delights a little too much.",
+          "id": 271,
+          "diceRoll": 1
+        },
+        {
+          "description": "I harbor dark, bloodthirsty thoughts that my isolation and meditation failed to quell.",
+          "id": 272,
+          "diceRoll": 2
+        },
+        {
+          "description": "I am dogmatic in my thoughts and philosophy.",
+          "id": 273,
+          "diceRoll": 3
+        },
+        {
+          "description": "I let my need to win arguments overshadow friendships and harmony.",
+          "id": 274,
+          "diceRoll": 4
+        },
+        {
+          "description": "I\u2019d risk too much to uncover a lost bit of knowledge.",
+          "id": 275,
+          "diceRoll": 5
+        },
+        {
+          "description": "I like keeping secrets and won\u2019t share them with anyone.",
+          "id": 276,
+          "diceRoll": 6
+        }
+      ],
+      "entityTypeId": 1669830167
+    },
+    "customBackground": {
+      "featuresBackground": null,
+      "characteristicsBackground": null,
+      "name": null,
+      "description": null,
+      "entityTypeId": 1581111423,
+      "id": 9049460,
+      "backgroundType": null
+    }
+  },
+  "customDefenseAdjustments": [],
+  "name": "Lazarus Humblegazer",
+  "bonusHitPoints": null,
+  "campaign": {
+    "characters": [
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/10/93/150/150/636339382612972808.png",
+        "characterName": "Valzire",
+        "characterUrl": "/profile/dotLou/characters/9030942",
+        "userId": 101909284,
+        "characterId": 9030942,
+        "privacyType": 3,
+        "username": "dotLou"
+      },
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/325/150/150/636377872983373773.jpeg",
+        "characterName": "Lazarus Humblegazer",
+        "characterUrl": "/profile/Pathmatician/characters/9049460",
+        "userId": 101914113,
+        "characterId": 9049460,
+        "privacyType": 3,
+        "username": "Pathmatician"
+      },
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/221/150/150/636377842071269252.jpeg",
+        "characterName": "Padagh",
+        "characterUrl": "/profile/jbone_silversphere/characters/9059016",
+        "userId": 101911949,
+        "characterId": 9059016,
+        "privacyType": 3,
+        "username": "jbone_silversphere"
+      },
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/213/150/150/636377840974085948.jpeg",
+        "characterName": "Kodrish Akambherylliax",
+        "characterUrl": "/profile/CaptSweatpants/characters/9225877",
+        "userId": 101937340,
+        "characterId": 9225877,
+        "privacyType": 3,
+        "username": "CaptSweatpants"
+      }
+    ],
+    "dmUserId": 101874032,
+    "publicNotes": "",
+    "name": "Lost Mine of Phandelver",
+    "link": "/campaigns/365109",
+    "dmUsername": "draco2817",
+    "description": "<p>In the city of Neverwinter, a dwarf named Gundren Rockseeker asked you to bring a wagonload of provisions to the rough-and-tumble settlement of Phandalin, a couple of days&rsquo; travel southeast of the city. Gundren was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found &ldquo;something big,&rdquo; and that he&rsquo;d pay you ten gold pieces each for escorting his supplies safely to Barthen&rsquo;s Provisions, a trading post in Phandalin. He then set out ahead of you on horse, along with a warrior escort named Sildar Hallwinter, claiming he needed to arrive early to &ldquo;take care of business.&rdquo;<\/p>"
+  },
+  "largeBackdropAvatarId": null,
+  "conditions": [],
+  "choices": {
+    "race": [
+      {
+        "componentId": 64,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 1960452172,
+        "optionValue": 4063,
+        "options": [
+          {
+            "description": null,
+            "id": 4045,
+            "label": "Abyssal"
+          },
+          {
+            "description": null,
+            "id": 4049,
+            "label": "Celestial"
+          },
+          {
+            "description": null,
+            "id": 4050,
+            "label": "Common"
+          },
+          {
+            "description": null,
+            "id": 4051,
+            "label": "Deep Speech"
+          },
+          {
+            "description": null,
+            "id": 4052,
+            "label": "Draconic"
+          },
+          {
+            "description": null,
+            "id": 4054,
+            "label": "Dwarvish"
+          },
+          {
+            "description": null,
+            "id": 4055,
+            "label": "Elvish"
+          },
+          {
+            "description": null,
+            "id": 4056,
+            "label": "Giant"
+          },
+          {
+            "description": null,
+            "id": 5064,
+            "label": "Gith"
+          },
+          {
+            "description": null,
+            "id": 4061,
+            "label": "Gnomish"
+          },
+          {
+            "description": null,
+            "id": 4062,
+            "label": "Goblin"
+          },
+          {
+            "description": null,
+            "id": 4063,
+            "label": "Halfling"
+          },
+          {
+            "description": null,
+            "id": 4065,
+            "label": "Infernal"
+          },
+          {
+            "description": null,
+            "id": 5110,
+            "label": "Kraul"
+          },
+          {
+            "description": null,
+            "id": 5109,
+            "label": "Loxodon"
+          },
+          {
+            "description": null,
+            "id": 5108,
+            "label": "Minotaur"
+          },
+          {
+            "description": null,
+            "id": 4066,
+            "label": "Orc"
+          },
+          {
+            "description": null,
+            "id": 4068,
+            "label": "Primordial"
+          },
+          {
+            "description": null,
+            "id": 4071,
+            "label": "Sylvan"
+          },
+          {
+            "description": null,
+            "id": 4074,
+            "label": "Undercommon"
+          },
+          {
+            "description": null,
+            "id": 5111,
+            "label": "Vedalken"
+          }
+        ],
+        "subType": 3,
+        "id": "2-1472",
+        "label": "Choose a Language",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 65,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 1960452172,
+        "optionValue": 3788,
+        "options": [
+          {
+            "description": null,
+            "id": 3784,
+            "label": "Acrobatics"
+          },
+          {
+            "description": null,
+            "id": 3792,
+            "label": "Animal Handling"
+          },
+          {
+            "description": null,
+            "id": 3787,
+            "label": "Arcana"
+          },
+          {
+            "description": null,
+            "id": 3783,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 3797,
+            "label": "Deception"
+          },
+          {
+            "description": null,
+            "id": 3788,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 3793,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 3798,
+            "label": "Intimidation"
+          },
+          {
+            "description": null,
+            "id": 3789,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 3794,
+            "label": "Medicine"
+          },
+          {
+            "description": null,
+            "id": 3790,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 3795,
+            "label": "Perception"
+          },
+          {
+            "description": null,
+            "id": 3799,
+            "label": "Performance"
+          },
+          {
+            "description": null,
+            "id": 3800,
+            "label": "Persuasion"
+          },
+          {
+            "description": null,
+            "id": 3791,
+            "label": "Religion"
+          },
+          {
+            "description": null,
+            "id": 3785,
+            "label": "Sleight of Hand"
+          },
+          {
+            "description": null,
+            "id": 3786,
+            "label": "Stealth"
+          },
+          {
+            "description": null,
+            "id": 3796,
+            "label": "Survival"
+          }
+        ],
+        "subType": 1,
+        "id": "2-1473",
+        "label": "Choose a Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 102,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 1960452172,
+        "optionValue": 3521,
+        "options": [
+          {
+            "description": null,
+            "id": 3525,
+            "label": "Charisma Score"
+          },
+          {
+            "description": null,
+            "id": 3522,
+            "label": "Constitution Score"
+          },
+          {
+            "description": null,
+            "id": 3521,
+            "label": "Dexterity Score"
+          },
+          {
+            "description": null,
+            "id": 3523,
+            "label": "Intelligence Score"
+          },
+          {
+            "description": null,
+            "id": 3520,
+            "label": "Strength Score"
+          }
+        ],
+        "subType": 5,
+        "id": "2-1658",
+        "label": "Choose an Ability Score",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 102,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 1960452172,
+        "optionValue": 3524,
+        "options": [
+          {
+            "description": null,
+            "id": 3525,
+            "label": "Charisma Score"
+          },
+          {
+            "description": null,
+            "id": 3522,
+            "label": "Constitution Score"
+          },
+          {
+            "description": null,
+            "id": 3523,
+            "label": "Intelligence Score"
+          },
+          {
+            "description": null,
+            "id": 3520,
+            "label": "Strength Score"
+          },
+          {
+            "description": null,
+            "id": 3524,
+            "label": "Wisdom Score"
+          }
+        ],
+        "subType": 5,
+        "id": "2-1659",
+        "label": "Choose an Ability Score",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 103,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 1960452172,
+        "optionValue": 37,
+        "options": [],
+        "subType": null,
+        "id": "6-103",
+        "label": "Choose a Feat",
+        "isOptional": false,
+        "type": 6,
+        "parentChoiceId": null
+      }
+    ],
+    "background": [
+      {
+        "componentId": 16,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 1669830167,
+        "optionValue": 4054,
+        "options": [
+          {
+            "description": null,
+            "id": 4045,
+            "label": "Abyssal"
+          },
+          {
+            "description": null,
+            "id": 4049,
+            "label": "Celestial"
+          },
+          {
+            "description": null,
+            "id": 4050,
+            "label": "Common"
+          },
+          {
+            "description": null,
+            "id": 4051,
+            "label": "Deep Speech"
+          },
+          {
+            "description": null,
+            "id": 4052,
+            "label": "Draconic"
+          },
+          {
+            "description": null,
+            "id": 4054,
+            "label": "Dwarvish"
+          },
+          {
+            "description": null,
+            "id": 4055,
+            "label": "Elvish"
+          },
+          {
+            "description": null,
+            "id": 4056,
+            "label": "Giant"
+          },
+          {
+            "description": null,
+            "id": 5064,
+            "label": "Gith"
+          },
+          {
+            "description": null,
+            "id": 4061,
+            "label": "Gnomish"
+          },
+          {
+            "description": null,
+            "id": 4062,
+            "label": "Goblin"
+          },
+          {
+            "description": null,
+            "id": 4063,
+            "label": "Halfling"
+          },
+          {
+            "description": null,
+            "id": 4065,
+            "label": "Infernal"
+          },
+          {
+            "description": null,
+            "id": 5110,
+            "label": "Kraul"
+          },
+          {
+            "description": null,
+            "id": 5109,
+            "label": "Loxodon"
+          },
+          {
+            "description": null,
+            "id": 5108,
+            "label": "Minotaur"
+          },
+          {
+            "description": null,
+            "id": 4066,
+            "label": "Orc"
+          },
+          {
+            "description": null,
+            "id": 4068,
+            "label": "Primordial"
+          },
+          {
+            "description": null,
+            "id": 4071,
+            "label": "Sylvan"
+          },
+          {
+            "description": null,
+            "id": 4074,
+            "label": "Undercommon"
+          },
+          {
+            "description": null,
+            "id": 5111,
+            "label": "Vedalken"
+          }
+        ],
+        "subType": 3,
+        "id": "2-2181",
+        "label": "Choose a Language",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 16,
+        "isInfinite": false,
+        "defaultSubtypes": ["Medicine"],
+        "componentTypeId": 1669830167,
+        "optionValue": 3794,
+        "options": [
+          {
+            "description": null,
+            "id": 3784,
+            "label": "Acrobatics"
+          },
+          {
+            "description": null,
+            "id": 3792,
+            "label": "Animal Handling"
+          },
+          {
+            "description": null,
+            "id": 3787,
+            "label": "Arcana"
+          },
+          {
+            "description": null,
+            "id": 3783,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 3797,
+            "label": "Deception"
+          },
+          {
+            "description": null,
+            "id": 3788,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 3793,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 3798,
+            "label": "Intimidation"
+          },
+          {
+            "description": null,
+            "id": 3789,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 3794,
+            "label": "Medicine"
+          },
+          {
+            "description": null,
+            "id": 3790,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 3795,
+            "label": "Perception"
+          },
+          {
+            "description": null,
+            "id": 3799,
+            "label": "Performance"
+          },
+          {
+            "description": null,
+            "id": 3800,
+            "label": "Persuasion"
+          },
+          {
+            "description": null,
+            "id": 3791,
+            "label": "Religion"
+          },
+          {
+            "description": null,
+            "id": 3785,
+            "label": "Sleight of Hand"
+          },
+          {
+            "description": null,
+            "id": 3786,
+            "label": "Stealth"
+          },
+          {
+            "description": null,
+            "id": 3796,
+            "label": "Survival"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2178",
+        "label": "Choose a Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 16,
+        "isInfinite": false,
+        "defaultSubtypes": ["Religion"],
+        "componentTypeId": 1669830167,
+        "optionValue": 3791,
+        "options": [
+          {
+            "description": null,
+            "id": 3784,
+            "label": "Acrobatics"
+          },
+          {
+            "description": null,
+            "id": 3792,
+            "label": "Animal Handling"
+          },
+          {
+            "description": null,
+            "id": 3787,
+            "label": "Arcana"
+          },
+          {
+            "description": null,
+            "id": 3783,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 3797,
+            "label": "Deception"
+          },
+          {
+            "description": null,
+            "id": 3788,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 3793,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 3798,
+            "label": "Intimidation"
+          },
+          {
+            "description": null,
+            "id": 3789,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 3794,
+            "label": "Medicine"
+          },
+          {
+            "description": null,
+            "id": 3790,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 3795,
+            "label": "Perception"
+          },
+          {
+            "description": null,
+            "id": 3799,
+            "label": "Performance"
+          },
+          {
+            "description": null,
+            "id": 3800,
+            "label": "Persuasion"
+          },
+          {
+            "description": null,
+            "id": 3791,
+            "label": "Religion"
+          },
+          {
+            "description": null,
+            "id": 3785,
+            "label": "Sleight of Hand"
+          },
+          {
+            "description": null,
+            "id": 3786,
+            "label": "Stealth"
+          },
+          {
+            "description": null,
+            "id": 3796,
+            "label": "Survival"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2179",
+        "label": "Choose a Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 16,
+        "isInfinite": false,
+        "defaultSubtypes": ["Herbalism Kit"],
+        "componentTypeId": 1669830167,
+        "optionValue": 3949,
+        "options": [
+          {
+            "description": null,
+            "id": 3930,
+            "label": "Alchemist's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3955,
+            "label": "Bagpipes"
+          },
+          {
+            "description": null,
+            "id": 3931,
+            "label": "Brewer's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3932,
+            "label": "Calligrapher's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3933,
+            "label": "Carpenter's Tools"
+          },
+          {
+            "description": null,
+            "id": 3934,
+            "label": "Cartographer's Tools"
+          },
+          {
+            "description": null,
+            "id": 3935,
+            "label": "Cobbler's Tools"
+          },
+          {
+            "description": null,
+            "id": 3936,
+            "label": "Cook's Utensils"
+          },
+          {
+            "description": null,
+            "id": 3953,
+            "label": "Dice Set"
+          },
+          {
+            "description": null,
+            "id": 3947,
+            "label": "Disguise Kit"
+          },
+          {
+            "description": null,
+            "id": 4377,
+            "label": "Dragonchess Set"
+          },
+          {
+            "description": null,
+            "id": 3956,
+            "label": "Drum"
+          },
+          {
+            "description": null,
+            "id": 3957,
+            "label": "Dulcimer"
+          },
+          {
+            "description": null,
+            "id": 3958,
+            "label": "Flute"
+          },
+          {
+            "description": null,
+            "id": 3948,
+            "label": "Forgery Kit"
+          },
+          {
+            "description": null,
+            "id": 3937,
+            "label": "Glassblower's Tools"
+          },
+          {
+            "description": null,
+            "id": 3949,
+            "label": "Herbalism Kit"
+          },
+          {
+            "description": null,
+            "id": 3961,
+            "label": "Horn"
+          },
+          {
+            "description": null,
+            "id": 3938,
+            "label": "Jeweler's Tools"
+          },
+          {
+            "description": null,
+            "id": 3939,
+            "label": "Leatherworker's Tools"
+          },
+          {
+            "description": null,
+            "id": 3959,
+            "label": "Lute"
+          },
+          {
+            "description": null,
+            "id": 3960,
+            "label": "Lyre"
+          },
+          {
+            "description": null,
+            "id": 3940,
+            "label": "Mason's Tools"
+          },
+          {
+            "description": null,
+            "id": 3950,
+            "label": "Navigator's Tools"
+          },
+          {
+            "description": null,
+            "id": 3941,
+            "label": "Painter's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3962,
+            "label": "Pan Flute"
+          },
+          {
+            "description": null,
+            "id": 3954,
+            "label": "Playing Card Set"
+          },
+          {
+            "description": null,
+            "id": 3951,
+            "label": "Poisoner's Kit"
+          },
+          {
+            "description": null,
+            "id": 3942,
+            "label": "Potter's Tools"
+          },
+          {
+            "description": null,
+            "id": 3963,
+            "label": "Shawm"
+          },
+          {
+            "description": null,
+            "id": 3943,
+            "label": "Smith's Tools"
+          },
+          {
+            "description": null,
+            "id": 3952,
+            "label": "Thieves' Tools"
+          },
+          {
+            "description": null,
+            "id": 4378,
+            "label": "Three-Dragon Ante Set"
+          },
+          {
+            "description": null,
+            "id": 3944,
+            "label": "Tinker's Tools"
+          },
+          {
+            "description": null,
+            "id": 4345,
+            "label": "Vehicles (Land)"
+          },
+          {
+            "description": null,
+            "id": 5080,
+            "label": "Vehicles (Sea/Air)"
+          },
+          {
+            "description": null,
+            "id": 4346,
+            "label": "Vehicles (Water)"
+          },
+          {
+            "description": null,
+            "id": 3964,
+            "label": "Viol"
+          },
+          {
+            "description": null,
+            "id": 3945,
+            "label": "Weaver's Tools"
+          },
+          {
+            "description": null,
+            "id": 3946,
+            "label": "Woodcarver's Tools"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2180",
+        "label": "Choose a Tool",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      }
+    ],
+    "class": [
+      {
+        "componentId": 464,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 4235,
+        "options": [
+          {
+            "description": null,
+            "id": 4229,
+            "label": "Alchemist's Supplies"
+          },
+          {
+            "description": null,
+            "id": 4219,
+            "label": "Bagpipes"
+          },
+          {
+            "description": null,
+            "id": 4230,
+            "label": "Brewer's Supplies"
+          },
+          {
+            "description": null,
+            "id": 4231,
+            "label": "Calligrapher's Supplies"
+          },
+          {
+            "description": null,
+            "id": 4232,
+            "label": "Carpenter's Tools"
+          },
+          {
+            "description": null,
+            "id": 4233,
+            "label": "Cartographer's Tools"
+          },
+          {
+            "description": null,
+            "id": 4234,
+            "label": "Cobbler's Tools"
+          },
+          {
+            "description": null,
+            "id": 4235,
+            "label": "Cook's Utensils"
+          },
+          {
+            "description": null,
+            "id": 4220,
+            "label": "Drum"
+          },
+          {
+            "description": null,
+            "id": 4221,
+            "label": "Dulcimer"
+          },
+          {
+            "description": null,
+            "id": 4222,
+            "label": "Flute"
+          },
+          {
+            "description": null,
+            "id": 4236,
+            "label": "Glassblower's Tools"
+          },
+          {
+            "description": null,
+            "id": 4225,
+            "label": "Horn"
+          },
+          {
+            "description": null,
+            "id": 4237,
+            "label": "Jeweler's Tools"
+          },
+          {
+            "description": null,
+            "id": 4238,
+            "label": "Leatherworker's Tools"
+          },
+          {
+            "description": null,
+            "id": 4223,
+            "label": "Lute"
+          },
+          {
+            "description": null,
+            "id": 4224,
+            "label": "Lyre"
+          },
+          {
+            "description": null,
+            "id": 4239,
+            "label": "Mason's Tools"
+          },
+          {
+            "description": null,
+            "id": 4240,
+            "label": "Painter's Supplies"
+          },
+          {
+            "description": null,
+            "id": 4226,
+            "label": "Pan Flute"
+          },
+          {
+            "description": null,
+            "id": 4241,
+            "label": "Potter's Tools"
+          },
+          {
+            "description": null,
+            "id": 4227,
+            "label": "Shawm"
+          },
+          {
+            "description": null,
+            "id": 4242,
+            "label": "Smith's Tools"
+          },
+          {
+            "description": null,
+            "id": 4243,
+            "label": "Tinker's Tools"
+          },
+          {
+            "description": null,
+            "id": 4228,
+            "label": "Viol"
+          },
+          {
+            "description": null,
+            "id": 4244,
+            "label": "Weaver's Tools"
+          },
+          {
+            "description": null,
+            "id": 4245,
+            "label": "Woodcarver's Tools"
+          }
+        ],
+        "subType": 1,
+        "id": "2-1535",
+        "label": "Choose a Musical Instrument or Artisan's Tools",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 464,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 4117,
+        "options": [
+          {
+            "description": null,
+            "id": 4117,
+            "label": "Acrobatics"
+          },
+          {
+            "description": null,
+            "id": 4118,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 4119,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 4120,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 4121,
+            "label": "Religion"
+          },
+          {
+            "description": null,
+            "id": 4122,
+            "label": "Stealth"
+          }
+        ],
+        "subType": 1,
+        "id": "2-1538",
+        "label": "Choose a Monk Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 464,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 4120,
+        "options": [
+          {
+            "description": null,
+            "id": 4117,
+            "label": "Acrobatics"
+          },
+          {
+            "description": null,
+            "id": 4118,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 4119,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 4120,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 4121,
+            "label": "Religion"
+          },
+          {
+            "description": null,
+            "id": 4122,
+            "label": "Stealth"
+          }
+        ],
+        "subType": 1,
+        "id": "2-1539",
+        "label": "Choose a Monk Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      }
+    ],
+    "feat": [{
+      "componentId": 37,
+      "isInfinite": false,
+      "defaultSubtypes": [],
+      "componentTypeId": 1088085227,
+      "optionValue": 4163,
+      "options": [
+        {
+          "description": null,
+          "id": 4162,
+          "label": "Intelligence Score"
+        },
+        {
+          "description": null,
+          "id": 4163,
+          "label": "Wisdom Score"
+        }
+      ],
+      "subType": 5,
+      "id": "2-2061",
+      "label": "Choose Intelligence or Wisdom",
+      "isOptional": false,
+      "type": 2,
+      "parentChoiceId": null
+    }]
+  },
+  "defaultBackdrop": {
+    "largeBackdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/524/636453154645377290.jpeg",
+    "smallBackdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/523/636453154644752281.jpeg",
+    "backdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/522/636453154644283609.jpeg",
+    "thumbnailBackdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/525/636453154645689772.jpeg"
+  },
+  "actions": {
+    "race": [],
+    "class": [{
+      "snippet": "When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action.",
+      "attackCustomData": {
+        "damageBonus": null,
+        "notes": null,
+        "cost": null,
+        "weight": null,
+        "isProficient": null,
+        "toHit": null,
+        "isAdamantine": null,
+        "isSilver": null,
+        "isOffhand": null,
+        "saveDc": null,
+        "name": null,
+        "toHitBonus": null,
+        "displayAsAttack": null,
+        "saveDcBonus": null
+      },
+      "saveFailDescription": "",
+      "componentId": 227,
+      "saveSuccessDescription": "",
+      "limitedUse": null,
+      "attackSubtype": 3,
+      "dice": null,
+      "description": "<p>Bonus action, when you use the Attack action with an unarmed strike or a monk weapon.<\/p>",
+      "range": {
+        "longRange": null,
+        "aoeSize": null,
+        "range": null,
+        "aoeType": null,
+        "hasAoeSpecialDescription": false
+      },
+      "onMissDescription": "",
+      "saveStatId": null,
+      "componentTypeId": 12168134,
+      "id": 55399,
+      "value": 1,
+      "attackTypeRange": 1,
+      "damageTypeId": 1,
+      "spellRangeType": null,
+      "isProficient": true,
+      "isMartialArts": true,
+      "actionType": 1,
+      "name": "Unarmed Strike",
+      "fixedSaveDc": null,
+      "entityTypeId": 222216831,
+      "displayAsAttack": true,
+      "abilityModifierStatId": null,
+      "activation": {
+        "activationType": 3,
+        "activationTime": null
+      }
+    }],
+    "feat": []
+  },
+  "lifestyleId": 5,
+  "traits": {
+    "personalityTraits": "I connect everything that happens to me to a grand, cosmic plan.",
+    "ideals": "Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking. (Lawful)",
+    "appearance": null,
+    "flaws": "Now that I\u2019ve returned to the world, I enjoy its delights a little too much.",
+    "bonds": "I entered seclusion to hide from the ones who might still be hunting me. I must someday confront them."
+  },
+  "gender": "Male",
+  "characterValues": [],
+  "classes": [{
+    "classFeatures": [
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 1,
+          "description": "<p><strong><span>Hit Dice:<\/span><\/strong> 1d8 p<span>er monk level<br><\/span><strong><span>Hit Points at 1st Level:<\/span><\/strong> 8 + your Constitu<span>tion modifier<br><\/span><strong><span>Hit Points at Higher Levels:<\/span><\/strong> 1d8 (or 5) + your Constitution modifier per monk le<span>vel after 1st<\/span><\/p>",
+          "sourcePageNumber": 77,
+          "multiClassDescription": "",
+          "name": "Hit Points",
+          "entityTypeId": 12168134,
+          "id": 536,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 2,
+          "description": "<p><strong><span>Armor: <\/span><\/strong>None<br><strong><span>Weapons: <\/span><\/strong>Simple weapons<span>, shortswords<br><\/span><strong><span>Tools: <\/span><\/strong>Choose one type of artisan&rsquo;s tools or one music<span>al instrument<br><\/span><strong><span>Saving Throws: <\/span><\/strong>Streng<span>th, Dexterity<br><\/span><strong><span>Skills:<\/span><\/strong> Choose two from Acrobatics, Athletics, History, Insight, Religion<span>, and Stealth<\/span><\/p>",
+          "sourcePageNumber": 77,
+          "multiClassDescription": "<p><strong><span>Weapons: <\/span><\/strong>Simple weapons<span>, shortswords<\/span><\/p>",
+          "name": "Proficiencies",
+          "entityTypeId": 12168134,
+          "id": 464,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "While not wearing armor and not using a shield, your AC equals 10 + DEX modifier + WIS modifier.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 3,
+          "description": "<p>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wis<span>dom modifier.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "<p><em>This feature could be affected by multiclassing<\/em>. See the <a href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/customization-options#ClassFeatures\" rel=\"nofollow\">Multiclassing<\/a> rules for more information.<\/p>\r\n<p>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wis<span>dom modifier.<\/span><\/p>",
+          "name": "Unarmored Defense",
+          "entityTypeId": 12168134,
+          "id": 226,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": {
+          "level": 1,
+          "dice": {
+            "diceCount": 1,
+            "diceValue": 4,
+            "fixedValue": null,
+            "diceString": "1d4",
+            "diceMultiplier": null
+          },
+          "fixedValue": null,
+          "description": "d4",
+          "id": 1
+        },
+        "definition": {
+          "snippet": "While you are unarmed or wielding only monk weapons and you aren\u2019t wearing armor or wielding a shield, you can use DEX instead of STR for the attack and damage rolls, you can roll your Martial Arts damage die in place of the normal damage, and when you use the Attack action on your turn, you can make one unarmed strike as a bonus action.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 1,
+          "displayOrder": 4,
+          "description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don&rsquo;t have the two-handed or he<span>avy property.<\/span><\/p>\r\n<p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren&rsquo;t wearing armor or wielding a shield:<\/p>\r\n<ul>\r\n<li>You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.<\/li>\r\n<li>You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.<\/li>\r\n<li>When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven&rsquo;t already taken a bonus action this turn.<\/li>\r\n<\/ul>\r\n<p>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in the <a href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#Weapons\" rel=\"nofollow\">Weapons<\/a> section.<\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Martial Arts",
+          "entityTypeId": 12168134,
+          "id": 227,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can spend Ki Points to fuel ki features. You have {{classlevel}} points per short rest and your Ki save DC is {{savedc:wis}}.\r\n\r\nFlurry of Blows - After you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.\r\n\r\nPatient Defense - You can spend 1 ki point to take the Dodge action as a bonus action on your turn.\r\n\r\nStep of the Wind - You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [
+            {
+              "level": 2,
+              "uses": 2
+            },
+            {
+              "level": 3,
+              "uses": 3
+            },
+            {
+              "level": 4,
+              "uses": 4
+            },
+            {
+              "level": 5,
+              "uses": 5
+            },
+            {
+              "level": 6,
+              "uses": 6
+            },
+            {
+              "level": 7,
+              "uses": 7
+            },
+            {
+              "level": 8,
+              "uses": 8
+            },
+            {
+              "level": 9,
+              "uses": 9
+            },
+            {
+              "level": 10,
+              "uses": 10
+            },
+            {
+              "level": 11,
+              "uses": 11
+            },
+            {
+              "level": 12,
+              "uses": 12
+            },
+            {
+              "level": 13,
+              "uses": 13
+            },
+            {
+              "level": 14,
+              "uses": 14
+            },
+            {
+              "level": 15,
+              "uses": 15
+            },
+            {
+              "level": 16,
+              "uses": 16
+            },
+            {
+              "level": 17,
+              "uses": 17
+            },
+            {
+              "level": 18,
+              "uses": 18
+            },
+            {
+              "level": 19,
+              "uses": 19
+            },
+            {
+              "level": 20,
+              "uses": 20
+            },
+            {
+              "level": null,
+              "uses": 1
+            },
+            {
+              "level": null,
+              "uses": 1
+            },
+            {
+              "level": null,
+              "uses": 1
+            }
+          ],
+          "requiredLevel": 2,
+          "displayOrder": 5,
+          "description": "<p>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of th<span>e Monk table.<\/span><\/p>\r\n<p>You can spend these points to fuel various ki features. You start knowing three such features: <strong>Flurry of Blows<\/strong>, <strong>Patient Defense<\/strong>, and <strong>Step of the Wind<\/strong>. You learn more ki features as you gain levels i<span>n this class.<\/span><\/p>\r\n<p>When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain yo<span>ur ki points.<\/span><\/p>\r\n<p>Some of your ki features require your target to make a saving throw to resist the feature&rsquo;s effects. The saving throw DC is calculated as follows:<\/p>\r\n<p><strong><span>Ki save DC <\/span><\/strong>= 8 + your proficiency bonus + your Wisdom modifier<\/p>\r\n<h5>Flurry of Blows<\/h5>\r\n<p>Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a <span>bonus action.<\/span><\/p>\r\n<h5>Patient Defense<\/h5>\r\n<p>You can spend 1 ki point to take the Dodge action as a bonus action <span>on your turn.<\/span><\/p>\r\n<h5>Step of the Wind<\/h5>\r\n<p>You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled <span>for the turn.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Ki",
+          "entityTypeId": 12168134,
+          "id": 228,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your speed increases by 10 feet while you are not wearing armor or wielding a shield.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 2,
+          "displayOrder": 6,
+          "description": "<p>Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in th<span>e Monk table.<\/span><\/p>\r\n<p>At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling dur<span>ing the move.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Unarmored Movement",
+          "entityTypeId": 12168134,
+          "id": 229,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 3,
+          "displayOrder": 7,
+          "description": "<p>When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, detailed at the end of the class description or one from another source. Your tradition grants you features at 3rd level and again at 6th, 11th, an<span>d 17th level.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Monastic Tradition",
+          "entityTypeId": 12168134,
+          "id": 230,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + {{modifier:dex#unsigned}} + {{classlevel}}. If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon) with range 20/60.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [
+            {
+              "level": null,
+              "uses": 1
+            },
+            {
+              "level": null,
+              "uses": 1
+            }
+          ],
+          "requiredLevel": 3,
+          "displayOrder": 8,
+          "description": "<p>Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + you<span>r monk level.<\/span><\/p>\r\n<p>If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet<span>.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Deflect Missiles",
+          "entityTypeId": 12168134,
+          "id": 231,
+          "activation": {
+            "activationType": 4,
+            "activationTime": 1
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 4,
+          "displayOrder": 9,
+          "description": "<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 232,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can use your reaction when you fall to reduce any falling damage you take by {{classlevel*5}}.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 4,
+          "displayOrder": 10,
+          "description": "<p>Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times you<span>r monk level.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Slow Fall",
+          "entityTypeId": 12168134,
+          "id": 233,
+          "activation": {
+            "activationType": 4,
+            "activationTime": 1
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can attack twice, instead of once, whenever you take the Attack action on your turn.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 5,
+          "displayOrder": 11,
+          "description": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action <span>on your turn.<\/span><\/p>",
+          "sourcePageNumber": 79,
+          "multiClassDescription": "<p><em>This feature could be affected by multiclassing<\/em>. See the <a href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/customization-options#ClassFeatures\" rel=\"nofollow\">Multiclassing<\/a> rules for more information.<\/p>\r\n<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action <span>on your turn.<\/span><\/p>",
+          "name": "Extra Attack",
+          "entityTypeId": 12168134,
+          "id": 234,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "When you hit with a melee weapon attack, you can spend 1 ki point to make the target stunned until the end of your next turn if it fails a CON saving throw (DC {{savedc:wis}}).",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 5,
+          "displayOrder": 12,
+          "description": "<p>Starting at 5th level, you can interfere with the flow of ki in an opponent&rsquo;s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of yo<span>ur next turn.<\/span><\/p>",
+          "sourcePageNumber": 79,
+          "multiClassDescription": "",
+          "name": "Stunning Strike",
+          "entityTypeId": 12168134,
+          "id": 235,
+          "activation": {
+            "activationType": 8,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your unarmed strikes count as magical for the purpose of overcoming resistance and immunity.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 6,
+          "displayOrder": 13,
+          "description": "<p>Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attack<span>s and damage.<\/span><\/p>",
+          "sourcePageNumber": 79,
+          "multiClassDescription": "",
+          "name": "Ki-Empowered Strikes",
+          "entityTypeId": 12168134,
+          "id": 236,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your speed increases by 15 feet while you are not wearing armor or wielding a shield.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 6,
+          "displayOrder": 14,
+          "description": "<p>At 6th&nbsp;level, your Unarmored Speed speed bonus increases to 15&nbsp;feet while you are not wearing armor or wielding a shield.<\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Unarmored Movement",
+          "entityTypeId": 12168134,
+          "id": 455,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "When you are subjected to an effect that allows you to make a DEX saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 7,
+          "displayOrder": 15,
+          "description": "<p>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon&rsquo;s lightning breath or a <span>fireball<\/span> spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage<span> if you fail.<\/span><\/p>",
+          "sourcePageNumber": 79,
+          "multiClassDescription": "",
+          "name": "Evasion",
+          "entityTypeId": 12168134,
+          "id": 237,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can use an action to end one effect on yourself that is causing you to be charmed or frightened.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 7,
+          "displayOrder": 16,
+          "description": "<p>Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed o<span>r frightened.<\/span><\/p>",
+          "sourcePageNumber": 79,
+          "multiClassDescription": "",
+          "name": "Stillness of Mind",
+          "entityTypeId": 12168134,
+          "id": 238,
+          "activation": {
+            "activationType": 1,
+            "activationTime": 1
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 8,
+          "displayOrder": 17,
+          "description": "<p>When you reach 8th level, and again at 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 246,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can move along vertical surfaces and across liquids on your turn without falling during the move.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 9,
+          "displayOrder": 18,
+          "description": "<p>At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling dur<span>ing your move.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Unarmored Movement Improvement",
+          "entityTypeId": 12168134,
+          "id": 245,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You are immune to disease and poison.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 10,
+          "displayOrder": 19,
+          "description": "<p>At 10th level, your mastery of the ki flowing through you makes you immune to diseas<span>e and poison.<\/span><\/p>",
+          "sourcePageNumber": null,
+          "multiClassDescription": "",
+          "name": "Purity of Body",
+          "entityTypeId": 12168134,
+          "id": 239,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your speed increases by 20 feet while you are not wearing armor or wielding a shield.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 10,
+          "displayOrder": 20,
+          "description": "<p>At 10th&nbsp;level, your Unarmored Speed speed bonus increases to 20&nbsp;feet while you are not wearing armor or wielding a shield.<\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Unarmored Movement",
+          "entityTypeId": 12168134,
+          "id": 456,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 12,
+          "displayOrder": 21,
+          "description": "<p>When you reach 12th level, and again at 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 247,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You understand all spoken languages and any creature that can understand a language can understand what you say.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 13,
+          "displayOrder": 22,
+          "description": "<p>Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand <span>what you say.<\/span><\/p>",
+          "sourcePageNumber": 79,
+          "multiClassDescription": "",
+          "name": "Tongue of the Sun and Moon",
+          "entityTypeId": 12168134,
+          "id": 240,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You are proficient in all saving throws and whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 14,
+          "displayOrder": 23,
+          "description": "<p>Beginning at 14th level, your mastery of ki grants you proficiency in all s<span>aving throws.<\/span><\/p>\r\n<p>Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the s<span>econd result.<\/span><\/p>",
+          "sourcePageNumber": 79,
+          "multiClassDescription": "",
+          "name": "Diamond Soul",
+          "entityTypeId": 12168134,
+          "id": 241,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your speed increases by 25 feet while you are not wearing armor or wielding a shield.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 14,
+          "displayOrder": 24,
+          "description": "<p>At 14th&nbsp;level, your Unarmored Speed speed bonus increases to 25 feet while you are not wearing armor or wielding a shield.<\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Unarmored Movement",
+          "entityTypeId": 12168134,
+          "id": 457,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You no longer need food or water, and can't be aged magically or suffer effects of old age (though you can still die of it).",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 15,
+          "displayOrder": 25,
+          "description": "<p>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can&rsquo;t be aged magically. You can still die of old age, however. In addition, you no longer need f<span>ood or water.<\/span><\/p>",
+          "sourcePageNumber": 79,
+          "multiClassDescription": "",
+          "name": "Timeless Body",
+          "entityTypeId": 12168134,
+          "id": 242,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 16,
+          "displayOrder": 26,
+          "description": "<p>When you reach 16th level, and again at 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 248,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can spend 4 ki points to become invisible and gain resistance to all damage but force damage for 1 minute as an action. You can spend 8 ki points to cast the astral projection spell (for yourself only), without needing material components.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 18,
+          "displayOrder": 27,
+          "description": "<p>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but <span>force damage.<\/span><\/p>\r\n<p>Additionally, you can spend 8 ki points to cast the <span>astral projection<\/span> spell, without needing material components. When you do so, you can&rsquo;t take any other creatu<span>res with you.<\/span><\/p>",
+          "sourcePageNumber": 79,
+          "multiClassDescription": "",
+          "name": "Empty Body",
+          "entityTypeId": 12168134,
+          "id": 243,
+          "activation": {
+            "activationType": 1,
+            "activationTime": 1
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Your speed increases by 30 feet while you are not wearing armor or wielding a shield.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 18,
+          "displayOrder": 28,
+          "description": "<p>At 18th&nbsp;level, your Unarmored Speed speed bonus increases to 30&nbsp;feet while you are not wearing armor or wielding a shield.<\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Unarmored Movement",
+          "entityTypeId": 12168134,
+          "id": 458,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 19,
+          "displayOrder": 29,
+          "description": "<p>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "sourcePageNumber": 78,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 249,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "When you roll for initiative and have no ki points remaining, you regain 4 ki points.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 20,
+          "displayOrder": 30,
+          "description": "<p>At 20th level, when you roll for initiative and have no ki points remaining, you regain<span> 4 ki points.<\/span><\/p>",
+          "sourcePageNumber": 79,
+          "multiClassDescription": "",
+          "name": "Perfect Self",
+          "entityTypeId": 12168134,
+          "id": 244,
+          "activation": {
+            "activationType": 8,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      }
+    ],
+    "level": 1,
+    "hitDiceUsed": 1,
+    "isStartingClass": true,
+    "entityTypeId": 1446578651,
+    "definition": {
+      "sourceId": 1,
+      "equipmentDescription": "<p>You start with the following equipment, in addition to the equipment granted by your background:<\/p>\r\n<ul>\r\n<li>(<span>a<\/span>) a shortsword or (<span>b<\/span>) any simple weapon<\/li>\r\n<li>(<span>a<\/span>) a dungeoneer&rsquo;s pack or (<span>b<\/span>) an explorer&rsquo;s pack<\/li>\r\n<li>10 darts<\/li>\r\n<\/ul>",
+      "hitDice": 8,
+      "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/488/315/315/636274646181088338.png",
+      "spellContainerName": null,
+      "canCastSpells": false,
+      "description": "<p>A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection<\/p>\r\n<p class=\"characters-statblock\" style=\"font-family:Roboto Condensed;font-size:14px\"><strong>Hit Die:<\/strong> d8<br><strong>Primary Ability:<\/strong> Dexterity &amp; Wisdom<br><strong>Saves:<\/strong> Strength &amp; Dexterity<\/p>",
+      "sourcePageNumber": 76,
+      "knowsAllSpells": null,
+      "moreDetailsUrl": "/characters/classes/monk",
+      "largeAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/6/489/636274646181411106.png",
+      "spellCastingAbilityId": null,
+      "classFeatures": [
+        {
+          "requiredLevel": 1,
+          "name": "Hit Points",
+          "prerequisite": null,
+          "displayOrder": 1,
+          "description": "<p><strong><span>Hit Dice:<\/span><\/strong> 1d8 p<span>er monk level<br><\/span><strong><span>Hit Points at 1st Level:<\/span><\/strong> 8 + your Constitu<span>tion modifier<br><\/span><strong><span>Hit Points at Higher Levels:<\/span><\/strong> 1d8 (or 5) + your Constitution modifier per monk le<span>vel after 1st<\/span><\/p>",
+          "id": 536
+        },
+        {
+          "requiredLevel": 1,
+          "name": "Proficiencies",
+          "prerequisite": null,
+          "displayOrder": 2,
+          "description": "<p><strong><span>Armor: <\/span><\/strong>None<br><strong><span>Weapons: <\/span><\/strong>Simple weapons<span>, shortswords<br><\/span><strong><span>Tools: <\/span><\/strong>Choose one type of artisan&rsquo;s tools or one music<span>al instrument<br><\/span><strong><span>Saving Throws: <\/span><\/strong>Streng<span>th, Dexterity<br><\/span><strong><span>Skills:<\/span><\/strong> Choose two from Acrobatics, Athletics, History, Insight, Religion<span>, and Stealth<\/span><\/p>",
+          "id": 464
+        },
+        {
+          "requiredLevel": 1,
+          "name": "Unarmored Defense",
+          "prerequisite": null,
+          "displayOrder": 3,
+          "description": "<p>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wis<span>dom modifier.<\/span><\/p>",
+          "id": 226
+        },
+        {
+          "requiredLevel": 1,
+          "name": "Martial Arts",
+          "prerequisite": null,
+          "displayOrder": 4,
+          "description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don&rsquo;t have the two-handed or he<span>avy property.<\/span><\/p>\r\n<p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren&rsquo;t wearing armor or wielding a shield:<\/p>\r\n<ul>\r\n<li>You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.<\/li>\r\n<li>You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.<\/li>\r\n<li>When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven&rsquo;t already taken a bonus action this turn.<\/li>\r\n<\/ul>\r\n<p>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in the <a href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#Weapons\" rel=\"nofollow\">Weapons<\/a> section.<\/p>",
+          "id": 227
+        },
+        {
+          "requiredLevel": 2,
+          "name": "Ki",
+          "prerequisite": null,
+          "displayOrder": 5,
+          "description": "<p>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of th<span>e Monk table.<\/span><\/p>\r\n<p>You can spend these points to fuel various ki features. You start knowing three such features: <strong>Flurry of Blows<\/strong>, <strong>Patient Defense<\/strong>, and <strong>Step of the Wind<\/strong>. You learn more ki features as you gain levels i<span>n this class.<\/span><\/p>\r\n<p>When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain yo<span>ur ki points.<\/span><\/p>\r\n<p>Some of your ki features require your target to make a saving throw to resist the feature&rsquo;s effects. The saving throw DC is calculated as follows:<\/p>\r\n<p><strong><span>Ki save DC <\/span><\/strong>= 8 + your proficiency bonus + your Wisdom modifier<\/p>\r\n<h5>Flurry of Blows<\/h5>\r\n<p>Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a <span>bonus action.<\/span><\/p>\r\n<h5>Patient Defense<\/h5>\r\n<p>You can spend 1 ki point to take the Dodge action as a bonus action <span>on your turn.<\/span><\/p>\r\n<h5>Step of the Wind<\/h5>\r\n<p>You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled <span>for the turn.<\/span><\/p>",
+          "id": 228
+        },
+        {
+          "requiredLevel": 2,
+          "name": "Unarmored Movement",
+          "prerequisite": null,
+          "displayOrder": 6,
+          "description": "<p>Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in th<span>e Monk table.<\/span><\/p>\r\n<p>At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling dur<span>ing the move.<\/span><\/p>",
+          "id": 229
+        },
+        {
+          "requiredLevel": 3,
+          "name": "Monastic Tradition",
+          "prerequisite": null,
+          "displayOrder": 7,
+          "description": "<p>When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, detailed at the end of the class description or one from another source. Your tradition grants you features at 3rd level and again at 6th, 11th, an<span>d 17th level.<\/span><\/p>",
+          "id": 230
+        },
+        {
+          "requiredLevel": 3,
+          "name": "Deflect Missiles",
+          "prerequisite": null,
+          "displayOrder": 8,
+          "description": "<p>Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + you<span>r monk level.<\/span><\/p>\r\n<p>If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet<span>.<\/span><\/p>",
+          "id": 231
+        },
+        {
+          "requiredLevel": 4,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 9,
+          "description": "<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "id": 232
+        },
+        {
+          "requiredLevel": 4,
+          "name": "Slow Fall",
+          "prerequisite": null,
+          "displayOrder": 10,
+          "description": "<p>Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times you<span>r monk level.<\/span><\/p>",
+          "id": 233
+        },
+        {
+          "requiredLevel": 5,
+          "name": "Extra Attack",
+          "prerequisite": null,
+          "displayOrder": 11,
+          "description": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action <span>on your turn.<\/span><\/p>",
+          "id": 234
+        },
+        {
+          "requiredLevel": 5,
+          "name": "Stunning Strike",
+          "prerequisite": null,
+          "displayOrder": 12,
+          "description": "<p>Starting at 5th level, you can interfere with the flow of ki in an opponent&rsquo;s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of yo<span>ur next turn.<\/span><\/p>",
+          "id": 235
+        },
+        {
+          "requiredLevel": 6,
+          "name": "Ki-Empowered Strikes",
+          "prerequisite": null,
+          "displayOrder": 13,
+          "description": "<p>Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attack<span>s and damage.<\/span><\/p>",
+          "id": 236
+        },
+        {
+          "requiredLevel": 6,
+          "name": "Unarmored Movement",
+          "prerequisite": null,
+          "displayOrder": 14,
+          "description": "<p>At 6th&nbsp;level, your Unarmored Speed speed bonus increases to 15&nbsp;feet while you are not wearing armor or wielding a shield.<\/p>",
+          "id": 455
+        },
+        {
+          "requiredLevel": 7,
+          "name": "Evasion",
+          "prerequisite": null,
+          "displayOrder": 15,
+          "description": "<p>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon&rsquo;s lightning breath or a <span>fireball<\/span> spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage<span> if you fail.<\/span><\/p>",
+          "id": 237
+        },
+        {
+          "requiredLevel": 7,
+          "name": "Stillness of Mind",
+          "prerequisite": null,
+          "displayOrder": 16,
+          "description": "<p>Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed o<span>r frightened.<\/span><\/p>",
+          "id": 238
+        },
+        {
+          "requiredLevel": 8,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 17,
+          "description": "<p>When you reach 8th level, and again at 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "id": 246
+        },
+        {
+          "requiredLevel": 9,
+          "name": "Unarmored Movement Improvement",
+          "prerequisite": null,
+          "displayOrder": 18,
+          "description": "<p>At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling dur<span>ing your move.<\/span><\/p>",
+          "id": 245
+        },
+        {
+          "requiredLevel": 10,
+          "name": "Purity of Body",
+          "prerequisite": null,
+          "displayOrder": 19,
+          "description": "<p>At 10th level, your mastery of the ki flowing through you makes you immune to diseas<span>e and poison.<\/span><\/p>",
+          "id": 239
+        },
+        {
+          "requiredLevel": 10,
+          "name": "Unarmored Movement",
+          "prerequisite": null,
+          "displayOrder": 20,
+          "description": "<p>At 10th&nbsp;level, your Unarmored Speed speed bonus increases to 20&nbsp;feet while you are not wearing armor or wielding a shield.<\/p>",
+          "id": 456
+        },
+        {
+          "requiredLevel": 12,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 21,
+          "description": "<p>When you reach 12th level, and again at 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "id": 247
+        },
+        {
+          "requiredLevel": 13,
+          "name": "Tongue of the Sun and Moon",
+          "prerequisite": null,
+          "displayOrder": 22,
+          "description": "<p>Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand <span>what you say.<\/span><\/p>",
+          "id": 240
+        },
+        {
+          "requiredLevel": 14,
+          "name": "Diamond Soul",
+          "prerequisite": null,
+          "displayOrder": 23,
+          "description": "<p>Beginning at 14th level, your mastery of ki grants you proficiency in all s<span>aving throws.<\/span><\/p>\r\n<p>Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the s<span>econd result.<\/span><\/p>",
+          "id": 241
+        },
+        {
+          "requiredLevel": 14,
+          "name": "Unarmored Movement",
+          "prerequisite": null,
+          "displayOrder": 24,
+          "description": "<p>At 14th&nbsp;level, your Unarmored Speed speed bonus increases to 25 feet while you are not wearing armor or wielding a shield.<\/p>",
+          "id": 457
+        },
+        {
+          "requiredLevel": 15,
+          "name": "Timeless Body",
+          "prerequisite": null,
+          "displayOrder": 25,
+          "description": "<p>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can&rsquo;t be aged magically. You can still die of old age, however. In addition, you no longer need f<span>ood or water.<\/span><\/p>",
+          "id": 242
+        },
+        {
+          "requiredLevel": 16,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 26,
+          "description": "<p>When you reach 16th level, and again at 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "id": 248
+        },
+        {
+          "requiredLevel": 18,
+          "name": "Empty Body",
+          "prerequisite": null,
+          "displayOrder": 27,
+          "description": "<p>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but <span>force damage.<\/span><\/p>\r\n<p>Additionally, you can spend 8 ki points to cast the <span>astral projection<\/span> spell, without needing material components. When you do so, you can&rsquo;t take any other creatu<span>res with you.<\/span><\/p>",
+          "id": 243
+        },
+        {
+          "requiredLevel": 18,
+          "name": "Unarmored Movement",
+          "prerequisite": null,
+          "displayOrder": 28,
+          "description": "<p>At 18th&nbsp;level, your Unarmored Speed speed bonus increases to 30&nbsp;feet while you are not wearing armor or wielding a shield.<\/p>",
+          "id": 458
+        },
+        {
+          "requiredLevel": 19,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 29,
+          "description": "<p>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "id": 249
+        },
+        {
+          "requiredLevel": 20,
+          "name": "Perfect Self",
+          "prerequisite": null,
+          "displayOrder": 30,
+          "description": "<p>At 20th level, when you roll for initiative and have no ki points remaining, you regain<span> 4 ki points.<\/span><\/p>",
+          "id": 244
+        }
+      ],
+      "spellPrepareType": null,
+      "parentClassId": null,
+      "wealthDice": {
+        "diceCount": 5,
+        "diceValue": 4,
+        "fixedValue": null,
+        "diceString": "5d4",
+        "diceMultiplier": null
+      },
+      "name": "Monk",
+      "id": 11,
+      "portraitAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/10/5/636336417372349522.jpeg",
+      "sourceIds": [1]
+    },
+    "id": 10253607,
+    "subclassDefinition": null
+  }],
+  "skin": "",
+  "faith": "",
+  "activeSourceCategories": [
+    1,
+    7,
+    8
+  ],
+  "inspiration": false,
+  "inventory": [
+    {
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": null,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "damage": {
+          "diceCount": 1,
+          "diceValue": 6,
+          "fixedValue": null,
+          "diceString": "1d6",
+          "diceMultiplier": null
+        },
+        "longRange": 5,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "range": 5,
+        "description": "",
+        "type": "Quarterstaff",
+        "baseItemId": 12,
+        "baseTypeId": 1782728300,
+        "id": 12,
+        "canAttune": false,
+        "stackable": false,
+        "cost": 0.2,
+        "avatarUrl": null,
+        "fixedDamage": null,
+        "isHomebrew": false,
+        "weight": 4,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "version": null,
+        "isMonkWeapon": true,
+        "largeAvatarUrl": null,
+        "tags": [],
+        "attackType": 1,
+        "bundleSize": 1,
+        "name": "Quarterstaff",
+        "entityTypeId": 1782728300,
+        "damageType": "Bludgeoning",
+        "filterType": "Weapon",
+        "properties": [{
+          "notes": "1d8",
+          "name": "Versatile",
+          "description": "This weapon can be used with one or two hands. A damage value in parentheses appears with the property--the damage when the weapon is used with two hands to make a melee attack.\r\n\r\n",
+          "id": 20
+        }],
+        "categoryId": 1,
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153312
+    },
+    {
+      "quantity": 10,
+      "equipped": true,
+      "isAttuned": null,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "damage": {
+          "diceCount": 1,
+          "diceValue": 4,
+          "fixedValue": null,
+          "diceString": "1d4",
+          "diceMultiplier": null
+        },
+        "longRange": 60,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "range": 20,
+        "description": "<p>Proficiency with a dart allows you to add your proficiency bonus to the attack roll for any attack you make with it.<\/p>",
+        "type": "Dart",
+        "baseItemId": 16,
+        "baseTypeId": 1782728300,
+        "id": 16,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.005,
+        "avatarUrl": null,
+        "fixedDamage": null,
+        "isHomebrew": false,
+        "weight": 0.25,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "version": null,
+        "isMonkWeapon": false,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "attackType": 2,
+        "bundleSize": 1,
+        "name": "Dart",
+        "entityTypeId": 1782728300,
+        "damageType": "Piercing",
+        "filterType": "Weapon",
+        "properties": [
+          {
+            "notes": null,
+            "name": "Finesse",
+            "description": "When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. ",
+            "id": 28
+          },
+          {
+            "notes": null,
+            "name": "Thrown",
+            "description": "If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. ",
+            "id": 29
+          }
+        ],
+        "categoryId": 1,
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153321
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A backpack is a leather pack carried on the back, typically with straps to secure it. A backpack can hold&nbsp;1 cubic foot/ 30 pounds of gear.<\/p>\r\n<p>You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 20,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Container"],
+        "bundleSize": 1,
+        "name": "Backpack",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153313
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>You never know where you&rsquo;re going to sleep, and a bedroll helps you get better sleep in a hayloft or on the cold ground. A bedroll consists of bedding and a blanket thin enough to be rolled up and tied. In an emergency, it can double as a stretcher.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 24,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 1,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 7,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Utility"],
+        "bundleSize": 1,
+        "name": "Bedroll",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153314
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A thick, quilted, blanket made to keep you warm in cold weather.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 26,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 3,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Utility"],
+        "bundleSize": 1,
+        "name": "Blanket",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153322
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>This set of clothes could consist of a loose shirt and baggy breeches, or a loose shirt and skirt or overdress. Cloth wrappings are used for shoes.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 38,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 3,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Social",
+          "Outerwear"
+        ],
+        "bundleSize": 1,
+        "name": "Clothes, Common",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153323
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 61,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Social",
+          "Utility"
+        ],
+        "bundleSize": 1,
+        "name": "Mess Kit",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153315
+    },
+    {
+      "quantity": 10,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 75,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 2,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Social",
+          "Utility",
+          "Consumable"
+        ],
+        "bundleSize": 1,
+        "name": "Rations (1 day)",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153318
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>Rope,&nbsp;has 2 hit points and can be burst with a DC 17 Strength check.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 77,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 1,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 10,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Utility",
+          "Exploration"
+        ],
+        "bundleSize": 1,
+        "name": "Rope, Hempen (50 feet)",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153320
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch -- or anything else with abundant, exposed fuel -- takes an action. Lighting any other fire takes 1 minute.<\/p>\r\n<p>&nbsp;<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 90,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Utility",
+          "Exploration"
+        ],
+        "bundleSize": 1,
+        "name": "Tinderbox",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153316
+    },
+    {
+      "quantity": 10,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 91,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.001,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Utility",
+          "Exploration",
+          "Combat"
+        ],
+        "bundleSize": 1,
+        "name": "Torch",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153317
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A waterskin can hold&nbsp;4 pints of liquid.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 92,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Container"],
+        "bundleSize": 1,
+        "name": "Waterskin",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153319
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and any <strong>potion of healing<\/strong>.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 123,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 3,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Healing",
+          "Utility"
+        ],
+        "bundleSize": 1,
+        "name": "Herbalism Kit",
+        "subType": "Tool",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 85153324
+    }
+  ],
+  "modifiers": {
+    "item": [],
+    "condition": [],
+    "race": [
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 64,
+        "dice": null,
+        "entityId": 1,
+        "friendlySubtypeName": "Common",
+        "type": "language",
+        "duration": null,
+        "friendlyTypeName": "Language",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 906033267,
+        "subType": "common",
+        "id": "racialTrait_64_1471",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 64,
+        "dice": null,
+        "entityId": 7,
+        "friendlySubtypeName": "Halfling",
+        "type": "language",
+        "duration": null,
+        "friendlyTypeName": "Language",
+        "componentTypeId": 1960452172,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 906033267,
+        "subType": "halfling",
+        "id": "racialTrait_64_1472",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 65,
+        "dice": null,
+        "entityId": 7,
+        "friendlySubtypeName": "History",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1960452172,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "history",
+        "id": "racialTrait_65_1473",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 102,
+        "dice": null,
+        "entityId": 2,
+        "friendlySubtypeName": "Dexterity Score",
+        "type": "bonus",
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "componentTypeId": 1960452172,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1472902489,
+        "subType": "dexterity-score",
+        "id": "racialTrait_102_1658",
+        "value": 1,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 102,
+        "dice": null,
+        "entityId": 5,
+        "friendlySubtypeName": "Wisdom Score",
+        "type": "bonus",
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "componentTypeId": 1960452172,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1472902489,
+        "subType": "wisdom-score",
+        "id": "racialTrait_102_1659",
+        "value": 1,
+        "requiresAttunement": false
+      }
+    ],
+    "background": [
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 16,
+        "dice": null,
+        "entityId": 13,
+        "friendlySubtypeName": "Medicine",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "medicine",
+        "id": "background_16_2178",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 16,
+        "dice": null,
+        "entityId": 10,
+        "friendlySubtypeName": "Religion",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "religion",
+        "id": "background_16_2179",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 16,
+        "dice": null,
+        "entityId": 123,
+        "friendlySubtypeName": "Herbalism Kit",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 2103445194,
+        "subType": "herbalism-kit",
+        "id": "background_16_2180",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 16,
+        "dice": null,
+        "entityId": 2,
+        "friendlySubtypeName": "Dwarvish",
+        "type": "language",
+        "duration": null,
+        "friendlyTypeName": "Language",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 906033267,
+        "subType": "dwarvish",
+        "id": "background_16_2181",
+        "value": null,
+        "requiresAttunement": false
+      }
+    ],
+    "class": [
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 464,
+        "dice": null,
+        "entityId": 1,
+        "friendlySubtypeName": "Simple Weapons",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 660121713,
+        "subType": "simple-weapons",
+        "id": "classFeature_464_1533",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 464,
+        "dice": null,
+        "entityId": 30,
+        "friendlySubtypeName": "Shortsword",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 1782728300,
+        "subType": "shortsword",
+        "id": "classFeature_464_1534",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 464,
+        "dice": null,
+        "entityId": 108,
+        "friendlySubtypeName": "Cook's Utensils",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": false,
+        "restriction": "Choose one type of artisan\u2019s tools or one musical instrument",
+        "entityTypeId": 2103445194,
+        "subType": "cooks-utensils",
+        "id": "classFeature_464_1535",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 464,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Strength Saving Throws",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "strength-saving-throws",
+        "id": "classFeature_464_1536",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 464,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Dexterity Saving Throws",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "dexterity-saving-throws",
+        "id": "classFeature_464_1537",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 464,
+        "dice": null,
+        "entityId": 3,
+        "friendlySubtypeName": "Acrobatics",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "acrobatics",
+        "id": "classFeature_464_1538",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 464,
+        "dice": null,
+        "entityId": 12,
+        "friendlySubtypeName": "Insight",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "insight",
+        "id": "classFeature_464_1539",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": 5,
+        "bonusTypes": [],
+        "componentId": 226,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Unarmored Armor Class",
+        "type": "set",
+        "duration": null,
+        "friendlyTypeName": "Set",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "unarmored-armor-class",
+        "id": "classFeature_226_2207",
+        "value": null,
+        "requiresAttunement": false
+      }
+    ],
+    "feat": [
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 37,
+        "dice": null,
+        "entityId": 5,
+        "friendlySubtypeName": "Wisdom Score",
+        "type": "bonus",
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "componentTypeId": 1088085227,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1472902489,
+        "subType": "wisdom-score",
+        "id": "feat_37_2061",
+        "value": 1,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 37,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Passive Perception",
+        "type": "bonus",
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "componentTypeId": 1088085227,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "passive-perception",
+        "id": "feat_37_2062",
+        "value": 5,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 37,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Passive Investigation",
+        "type": "bonus",
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "componentTypeId": 1088085227,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "passive-investigation",
+        "id": "feat_37_2063",
+        "value": 5,
+        "requiresAttunement": false
+      }
+    ]
+  },
+  "eyes": "Emerald green human eyes.",
+  "feats": [{
+    "componentId": 103,
+    "componentTypeId": 1960452172,
+    "definition": {
+      "snippet": "Increase your INT or WIS score by 1. If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips. You have a +5 bonus to your passive Perception and passive Investigation scores.",
+      "sourceId": 2,
+      "prerequisites": [],
+      "features": null,
+      "creatureRules": [],
+      "name": "Observant",
+      "description": "<p>Quick to notice details of your environment, you gain the following benefits:<\/p>\r\n<ul>\r\n<li>Increase your Intelligence or Wisdom score by 1, to a maximum of 20.<\/li>\r\n<li>If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.<\/li>\r\n<li>You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.<\/li>\r\n<\/ul>",
+      "sourcePageNumber": 168,
+      "entityTypeId": 1088085227,
+      "id": 37,
+      "activation": {
+        "activationType": null,
+        "activationTime": null
+      }
+    }
+  }],
+  "customProficiencies": [],
+  "socialName": null,
+  "hair": "",
+  "smallBackdropAvatarUrl": "",
+  "avatarId": 17325,
+  "adjustmentXp": null,
+  "spells": {
+    "item": [],
+    "race": [],
+    "class": [],
+    "feat": []
+  },
+  "temporaryHitPoints": 0,
+  "smallBackdropAvatarId": null,
+  "preferences": {
+    "enforceMulticlassRules": true,
+    "showWildShape": false,
+    "progressionType": 1,
+    "hitPointType": 1,
+    "ignoreCoinWeight": true,
+    "abilityScoreDisplayType": 2,
+    "primarySense": 5,
+    "sharingType": 2,
+    "showCompanions": false,
+    "useHomebrewContent": true,
+    "showUnarmedStrike": true,
+    "primaryMovement": 1,
+    "encumbranceType": 2,
+    "enforceFeatRules": true,
+    "privacyType": 3
+  },
+  "currentXp": 0,
+  "race": {
+    "sizeId": 4,
+    "subRaceShortName": "Variant",
+    "avatarUrl": null,
+    "baseRaceId": 1,
+    "featIds": [],
+    "isHomebrew": false,
+    "fullName": "Variant Human",
+    "description": "<p>Humans are the most adaptable and ambitious people among the common races.&nbsp;Whatever drives them, humans are the innovators, the achievers, and the pioneers o<span>f the worlds.<\/span><\/p>\r\n<p class=\"characters-statblock\" style=\"font-family:Roboto Condensed\"><strong>Racial Traits<\/strong><br>+1 to All Ability Scores, Extra Language<\/p><p>If your campaign uses the optional feat rules from the <em>Player&rsquo;s Handbook<\/em>, your Dungeon Master might allow these variant traits, all of which replace the human&rsquo;s Ability Score Increase trait.<\/p>",
+    "type": 3,
+    "moreDetailsUrl": "/characters/races/human#VariantHuman",
+    "largeAvatarUrl": null,
+    "entityRaceId": 9,
+    "baseRaceTypeId": 1743923279,
+    "entityRaceTypeId": 1228963568,
+    "size": "Medium",
+    "groupIds": [1],
+    "weightSpeeds": {
+      "normal": {
+        "climb": 0,
+        "fly": 0,
+        "burrow": 0,
+        "walk": 30,
+        "swim": 0
+      },
+      "heavilyEncumbered": null,
+      "override": null,
+      "pushDragLift": null,
+      "encumbered": null
+    },
+    "portraitAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/9/387/636327460929201730.jpeg",
+    "racialTraits": [
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 2,
+        "name": "Age",
+        "description": "<p>Humans reach adulthood in their late teens and live less than a century.<\/p>",
+        "sourcePageNumber": 31,
+        "entityTypeId": 1960452172,
+        "id": 150,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 3,
+        "name": "Alignment",
+        "description": "<p>&nbsp;Humans tend toward no particular alignment. The best and the worst are found among them.<\/p>",
+        "sourcePageNumber": 31,
+        "entityTypeId": 1960452172,
+        "id": 151,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 4,
+        "name": "Size",
+        "description": "<p>Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.<\/p>",
+        "sourcePageNumber": 31,
+        "entityTypeId": 1960452172,
+        "id": 152,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 5,
+        "name": "Speed",
+        "description": "<p>Your base walking speed is 30 feet.<\/p>",
+        "sourcePageNumber": 31,
+        "entityTypeId": 1960452172,
+        "id": 153,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You can speak, read, and write Common and one extra language.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 6,
+        "name": "Languages",
+        "description": "<p>You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.<\/p>",
+        "sourcePageNumber": 31,
+        "entityTypeId": 1960452172,
+        "id": 64,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "Two different ability scores of your choice increase by 1.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 100,
+        "name": "Ability Score Increase",
+        "description": "<p>Two different ability scores of your choice increase by 1.<\/p>",
+        "sourcePageNumber": 31,
+        "entityTypeId": 1960452172,
+        "id": 102,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You gain proficiency in one skill of your choice.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 200,
+        "name": "Skills",
+        "description": "<p>You gain proficiency in one skill of your choice.<\/p>",
+        "sourcePageNumber": 31,
+        "entityTypeId": 1960452172,
+        "id": 65,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You gain one feat of your choice.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 300,
+        "name": "Feat",
+        "description": "<p>You gain one feat of your choice.<\/p>",
+        "sourcePageNumber": 31,
+        "entityTypeId": 1960452172,
+        "id": 103,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }}
+    ],
+    "baseName": "Human",
+    "sourceIds": [
+      1,
+      2
+    ]
+  },
+  "spellDefenses": null,
+  "baseHitPoints": 8,
+  "lifestyle": null,
+  "backdropAvatarUrl": "",
+  "themeColorId": null,
+  "frameAvatarId": null,
+  "age": 37,
+  "currencies": {
+    "pp": 0,
+    "gp": 18,
+    "ep": 0,
+    "cp": 0,
+    "sp": 0
+  }
+}

@@ -1,0 +1,3866 @@
+{
+  "largeBackdropAvatarUrl": "",
+  "notes": {
+    "otherHoldings": null,
+    "backstory": null,
+    "otherNotes": null,
+    "personalPossessions": null,
+    "organizations": null,
+    "enemies": null,
+    "allies": null
+  },
+  "customSpeeds": [],
+  "pactMagic": [
+    {
+      "level": 1,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 2,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 3,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 4,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 5,
+      "available": 0,
+      "used": 0
+    }
+  ],
+  "removedHitPoints": 6,
+  "bonusStats": [
+    {
+      "name": null,
+      "id": 1,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 2,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 3,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 4,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 5,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 6,
+      "value": null
+    }
+  ],
+  "classSpells": [{
+    "entityTypeId": 1446578651,
+    "spells": [],
+    "characterClassId": 10266150
+  }],
+  "deathSaves": {
+    "failCount": null,
+    "successCount": null,
+    "isStabilized": false
+  },
+  "customSenses": [],
+  "stats": [
+    {
+      "name": null,
+      "id": 1,
+      "value": 10
+    },
+    {
+      "name": null,
+      "id": 2,
+      "value": 15
+    },
+    {
+      "name": null,
+      "id": 3,
+      "value": 14
+    },
+    {
+      "name": null,
+      "id": 4,
+      "value": 12
+    },
+    {
+      "name": null,
+      "id": 5,
+      "value": 13
+    },
+    {
+      "name": null,
+      "id": 6,
+      "value": 8
+    }
+  ],
+  "thumbnailAvatarId": null,
+  "overrideHitPoints": null,
+  "spellSlots": [
+    {
+      "level": 1,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 2,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 3,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 4,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 5,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 6,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 7,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 8,
+      "available": 0,
+      "used": 0
+    },
+    {
+      "level": 9,
+      "available": 0,
+      "used": 0
+    }
+  ],
+  "options": {
+    "race": [],
+    "class": [
+      {
+        "componentId": 294,
+        "componentTypeId": 12168134,
+        "definition": {
+          "snippet": "Giants tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians).",
+          "sourceId": 2,
+          "creatureRules": [],
+          "name": "Giants",
+          "description": "<p><strong>Giants<\/strong> tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.<\/p>",
+          "sourcePageNumber": null,
+          "entityTypeId": 258900837,
+          "id": 57,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          }
+        }
+      },
+      {
+        "componentId": 295,
+        "componentTypeId": 12168134,
+        "definition": {
+          "snippet": null,
+          "sourceId": 2,
+          "creatureRules": [],
+          "name": "Forest",
+          "description": "",
+          "sourcePageNumber": null,
+          "entityTypeId": 258900837,
+          "id": 172,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          }
+        }
+      }
+    ],
+    "feat": []
+  },
+  "customItems": [],
+  "id": 9059016,
+  "height": null,
+  "alignmentId": 2,
+  "backdropAvatarId": null,
+  "thumbnailBackdropAvatarUrl": "",
+  "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/221/150/150/636377842071269252.jpeg",
+  "creatures": [],
+  "customActions": [],
+  "weight": null,
+  "readonlyUrl": "https://dndbeyond.com/characters/9059016",
+  "frameAvatarUrl": "",
+  "themeColor": null,
+  "overrideStats": [
+    {
+      "name": null,
+      "id": 1,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 2,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 3,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 4,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 5,
+      "value": null
+    },
+    {
+      "name": null,
+      "id": 6,
+      "value": null
+    }
+  ],
+  "background": {
+    "hasCustomBackground": false,
+    "definition": {
+      "snippet": "",
+      "personalityTraits": [
+        {
+          "description": "I judge people by their actions, not their words.",
+          "id": 95,
+          "diceRoll": 1
+        },
+        {
+          "description": "If someone is in trouble, I\u2019m always ready to lend help.",
+          "id": 96,
+          "diceRoll": 2
+        },
+        {
+          "description": "When I set my mind to something, I follow through no matter what gets in my way.",
+          "id": 97,
+          "diceRoll": 3
+        },
+        {
+          "description": "I have a strong sense of fair play and always try to find the most equitable solution to arguments.",
+          "id": 98,
+          "diceRoll": 4
+        },
+        {
+          "description": "I\u2019m confident in my own abilities and do what I can to instill confidence in others.",
+          "id": 99,
+          "diceRoll": 5
+        },
+        {
+          "description": "Thinking is for other people. I prefer action.",
+          "id": 100,
+          "diceRoll": 6
+        },
+        {
+          "description": "I misuse long words in an attempt to sound smarter.",
+          "id": 101,
+          "diceRoll": 7
+        },
+        {
+          "description": "I get bored easily. When am I going to get on with my destiny?",
+          "id": 102,
+          "diceRoll": 8
+        }
+      ],
+      "equipmentDescription": "A set of artisan&rsquo;s tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a pouch containing 10 gp",
+      "suggestedProficiencies": [
+        "Animal Handling",
+        "Survival"
+      ],
+      "description": "<p>You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.<\/p>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<dl>\r\n<dt><strong>Skill Proficiencies:<\/strong>&nbsp;Animal Handling, Survival<\/dt>\r\n<dt><strong>Tool Proficiencies:<\/strong> One type of artisan&rsquo;s tools, vehicles (land)<\/dt>\r\n<dt><strong>Equipment:<\/strong> A set of artisan&rsquo;s tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a pouch containing 10 gp<\/dt>\r\n<\/dl>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<h5 id=\"defining-event\">Defining Event<\/h5>\r\n<p>You previously pursued a simple profession among the peasantry, perhaps as a farmer, miner, servant, shepherd, woodcutter, or gravedigger. But something happened that set you on a different path and marked you for greater things. Choose or randomly determine a defining event that marked you as a hero of the people.<\/p>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d10<\/th>\r\n<th style=\"text-align:left\">Defining Event<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>I stood up to a tyrant&rsquo;s agents.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>I saved people during a natural disaster.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>I stood alone against a terrible monster.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>I stole from a corrupt merchant to help the poor.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>I led a militia to fight off an invading army.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>I broke into a tyrant&rsquo;s castle and stole weapons to arm the people.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>7<\/td>\r\n<td>I trained the peasantry to use farm implements as weapons against a tyrant&rsquo;s soldiers.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>8<\/td>\r\n<td>A lord rescinded an unpopular decree after I led a symbolic act of protest against it.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>9<\/td>\r\n<td>A celestial, fey, or similar creature gave me a blessing or revealed my secret origin.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>10<\/td>\r\n<td>Recruited into a lord&rsquo;s army, I rose to leadership and was commended for my heroism.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<blockquote>\r\n<p><strong>FEATURE: RUSTIC HOSPITALITY<\/strong><\/p>\r\n<p>Since you come from the ranks of the common folk, you fit in among them with ease. You can find a place to hide, rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. They will shield you from the law or anyone else searching for you, though they will not risk their lives for you.<\/p>\r\n<\/blockquote>\r\n<div class=\"line character margintop20 marginbottom20\">&nbsp;<\/div>\r\n<h5>Suggested Characteristics<\/h5>\r\n<p>A folk hero is one of the common people, for better or for worse. Most folk heroes look on their humble origins as a virtue, not a shortcoming, and their home communities remain very important to them.<\/p>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d8<\/th>\r\n<th style=\"text-align:left\">Personality Trait<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>I judge people by their actions, not their words.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>If someone is in trouble, I&rsquo;m always ready to lend help.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>When I set my mind to something, I follow through no matter what gets in my way.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>I have a strong sense of fair play and always try to find the most equitable solution to arguments.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>I&rsquo;m confident in my own abilities and do what I can to instill confidence in others.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>Thinking is for other people. I prefer action.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>7<\/td>\r\n<td>I misuse long words in an attempt to sound smarter.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>8<\/td>\r\n<td>I get bored easily. When am I going to get on with my destiny?<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6<\/th>\r\n<th style=\"text-align:left\">Ideal<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td><strong>Respect.<\/strong> People deserve to be treated with dignity and respect. (Good)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td><strong>Fairness.<\/strong> No one should get preferential treatment before the law, and no one is above the law. (Lawful)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td><strong>Freedom.<\/strong> Tyrants must not be allowed to oppress the people. (Chaotic)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td><strong>Might.<\/strong> If I become strong, I can take what I want&mdash;what I deserve. (Evil)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td><strong>Sincerity.<\/strong> There&rsquo;s no good in pretending to be something I&rsquo;m not. (Neutral)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td><strong>Destiny.<\/strong> Nothing and no one can steer me away from my higher calling. (Any)<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6<\/th>\r\n<th style=\"text-align:left\">Bond<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>I have a family, but I have no idea where they are. One day, I hope to see them again.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>I worked the land, I love the land, and I will protect the land.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>A proud noble once gave me a horrible beating, and I will take my revenge on any bully I encounter.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>My tools are symbols of my past life, and I carry them so that I will never forget my roots.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>I protect those who cannot protect themselves.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>I wish my childhood sweetheart had come with me to pursue my destiny.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6<\/th>\r\n<th style=\"text-align:left\">Flaw<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td>1<\/td>\r\n<td>The tyrant who rules my land will stop at nothing to see me killed.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2<\/td>\r\n<td>I&rsquo;m convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>3<\/td>\r\n<td>The people who knew me when I was young know my shameful secret, so I can never go home again.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>4<\/td>\r\n<td>I have a weakness for the vices of the city, especially hard drink.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>5<\/td>\r\n<td>Secretly, I believe that things would be better if I were a tyrant lording over the land.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>6<\/td>\r\n<td>I have trouble trusting in my allies.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+      "bonds": [
+        {
+          "description": "I have a family, but I have no idea where they are. One day, I hope to see them again.",
+          "id": 109,
+          "diceRoll": 1
+        },
+        {
+          "description": "I worked the land, I love the land, and I will protect the land.",
+          "id": 110,
+          "diceRoll": 2
+        },
+        {
+          "description": "A proud noble once gave me a horrible beating, and I will take my revenge on any bully I encounter.",
+          "id": 111,
+          "diceRoll": 3
+        },
+        {
+          "description": "My tools are symbols of my past life, and I carry them so that I will never forget my roots.",
+          "id": 112,
+          "diceRoll": 4
+        },
+        {
+          "description": "I protect those who cannot protect themselves.",
+          "id": 113,
+          "diceRoll": 5
+        },
+        {
+          "description": "I wish my childhood sweetheart had come with me to pursue my destiny.",
+          "id": 114,
+          "diceRoll": 6
+        }
+      ],
+      "toolProficienciesDescription": "One type of artisan&rsquo;s tools, vehicles (land)",
+      "skillProficienciesDescription": "Animal Handling, Survival",
+      "id": 9,
+      "contractsDescription": null,
+      "spellsPostDescription": null,
+      "suggestedLanguages": [],
+      "ideals": [
+        {
+          "description": "Respect. People deserve to be treated with dignity and respect. (Good)",
+          "id": 103,
+          "diceRoll": 1
+        },
+        {
+          "description": "Fairness. No one should get preferential treatment before the law, and no one is above the law. (Lawful)",
+          "id": 104,
+          "diceRoll": 2
+        },
+        {
+          "description": "Freedom. Tyrants must not be allowed to oppress the people. (Chaotic)",
+          "id": 105,
+          "diceRoll": 3
+        },
+        {
+          "description": "Might. If I become strong, I can take what I want\u2014what I deserve. (Evil)",
+          "id": 106,
+          "diceRoll": 4
+        },
+        {
+          "description": "Sincerity. There\u2019s no good in pretending to be something I\u2019m not. (Neutral)",
+          "id": 107,
+          "diceRoll": 5
+        },
+        {
+          "description": "Destiny. Nothing and no one can steer me away from my higher calling. (Any)",
+          "id": 108,
+          "diceRoll": 6
+        }
+      ],
+      "languagesDescription": "",
+      "featureName": "Rustic Hospitality",
+      "avatarUrl": null,
+      "featureDescription": "<p>Since you come from the ranks of the common folk, you fit in among them with ease. You can find a place to hide, rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. They will shield you from the law or anyone else searching for you, though they will not risk their lives for you.<\/p>",
+      "spellsPreDescription": null,
+      "shortDescription": "<p>You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.<\/p>",
+      "suggestedCharacteristicsDescription": "<p>A folk hero is one of the common people, for better or for worse. Most folk heroes look on their humble origins as a virtue, not a shortcoming, and their home communities remain very important to them.<\/p>",
+      "largeAvatarUrl": null,
+      "organization": null,
+      "name": "Folk Hero",
+      "flaws": [
+        {
+          "description": "The tyrant who rules my land will stop at nothing to see me killed.",
+          "id": 115,
+          "diceRoll": 1
+        },
+        {
+          "description": "I\u2019m convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.",
+          "id": 116,
+          "diceRoll": 2
+        },
+        {
+          "description": "The people who knew me when I was young know my shameful secret, so I can never go home again.",
+          "id": 117,
+          "diceRoll": 3
+        },
+        {
+          "description": "I have a weakness for the vices of the city, especially hard drink.",
+          "id": 118,
+          "diceRoll": 4
+        },
+        {
+          "description": "Secretly, I believe that things would be better if I were a tyrant lording over the land.",
+          "id": 119,
+          "diceRoll": 5
+        },
+        {
+          "description": "I have trouble trusting in my allies.",
+          "id": 120,
+          "diceRoll": 6
+        }
+      ],
+      "entityTypeId": 1669830167
+    },
+    "customBackground": {
+      "featuresBackground": null,
+      "characteristicsBackground": null,
+      "name": null,
+      "description": null,
+      "entityTypeId": 1581111423,
+      "id": 9059016,
+      "backgroundType": null
+    }
+  },
+  "customDefenseAdjustments": [],
+  "name": "Padagh",
+  "bonusHitPoints": null,
+  "campaign": {
+    "characters": [
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/10/93/150/150/636339382612972808.png",
+        "characterName": "Valzire",
+        "characterUrl": "/profile/dotLou/characters/9030942",
+        "userId": 101909284,
+        "characterId": 9030942,
+        "privacyType": 3,
+        "username": "dotLou"
+      },
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/325/150/150/636377872983373773.jpeg",
+        "characterName": "Lazarus Humblegazer",
+        "characterUrl": "/profile/Pathmatician/characters/9049460",
+        "userId": 101914113,
+        "characterId": 9049460,
+        "privacyType": 3,
+        "username": "Pathmatician"
+      },
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/221/150/150/636377842071269252.jpeg",
+        "characterName": "Padagh",
+        "characterUrl": "/profile/jbone_silversphere/characters/9059016",
+        "userId": 101911949,
+        "characterId": 9059016,
+        "privacyType": 3,
+        "username": "jbone_silversphere"
+      },
+      {
+        "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/213/150/150/636377840974085948.jpeg",
+        "characterName": "Kodrish Akambherylliax",
+        "characterUrl": "/profile/CaptSweatpants/characters/9225877",
+        "userId": 101937340,
+        "characterId": 9225877,
+        "privacyType": 3,
+        "username": "CaptSweatpants"
+      }
+    ],
+    "dmUserId": 101874032,
+    "publicNotes": "",
+    "name": "Lost Mine of Phandelver",
+    "link": "/campaigns/365109",
+    "dmUsername": "draco2817",
+    "description": "<p>In the city of Neverwinter, a dwarf named Gundren Rockseeker asked you to bring a wagonload of provisions to the rough-and-tumble settlement of Phandalin, a couple of days&rsquo; travel southeast of the city. Gundren was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found &ldquo;something big,&rdquo; and that he&rsquo;d pay you ten gold pieces each for escorting his supplies safely to Barthen&rsquo;s Provisions, a trading post in Phandalin. He then set out ahead of you on horse, along with a warrior escort named Sildar Hallwinter, claiming he needed to arrive early to &ldquo;take care of business.&rdquo;<\/p>"
+  },
+  "largeBackdropAvatarId": null,
+  "conditions": [],
+  "choices": {
+    "race": [],
+    "background": [
+      {
+        "componentId": 9,
+        "isInfinite": false,
+        "defaultSubtypes": ["Animal Handling"],
+        "componentTypeId": 1669830167,
+        "optionValue": 3792,
+        "options": [
+          {
+            "description": null,
+            "id": 3784,
+            "label": "Acrobatics"
+          },
+          {
+            "description": null,
+            "id": 3792,
+            "label": "Animal Handling"
+          },
+          {
+            "description": null,
+            "id": 3787,
+            "label": "Arcana"
+          },
+          {
+            "description": null,
+            "id": 3783,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 3797,
+            "label": "Deception"
+          },
+          {
+            "description": null,
+            "id": 3788,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 3793,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 3798,
+            "label": "Intimidation"
+          },
+          {
+            "description": null,
+            "id": 3789,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 3794,
+            "label": "Medicine"
+          },
+          {
+            "description": null,
+            "id": 3790,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 3795,
+            "label": "Perception"
+          },
+          {
+            "description": null,
+            "id": 3799,
+            "label": "Performance"
+          },
+          {
+            "description": null,
+            "id": 3800,
+            "label": "Persuasion"
+          },
+          {
+            "description": null,
+            "id": 3791,
+            "label": "Religion"
+          },
+          {
+            "description": null,
+            "id": 3785,
+            "label": "Sleight of Hand"
+          },
+          {
+            "description": null,
+            "id": 3786,
+            "label": "Stealth"
+          },
+          {
+            "description": null,
+            "id": 3796,
+            "label": "Survival"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2102",
+        "label": "Choose a Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 9,
+        "isInfinite": false,
+        "defaultSubtypes": ["Survival"],
+        "componentTypeId": 1669830167,
+        "optionValue": 3796,
+        "options": [
+          {
+            "description": null,
+            "id": 3784,
+            "label": "Acrobatics"
+          },
+          {
+            "description": null,
+            "id": 3792,
+            "label": "Animal Handling"
+          },
+          {
+            "description": null,
+            "id": 3787,
+            "label": "Arcana"
+          },
+          {
+            "description": null,
+            "id": 3783,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 3797,
+            "label": "Deception"
+          },
+          {
+            "description": null,
+            "id": 3788,
+            "label": "History"
+          },
+          {
+            "description": null,
+            "id": 3793,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 3798,
+            "label": "Intimidation"
+          },
+          {
+            "description": null,
+            "id": 3789,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 3794,
+            "label": "Medicine"
+          },
+          {
+            "description": null,
+            "id": 3790,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 3795,
+            "label": "Perception"
+          },
+          {
+            "description": null,
+            "id": 3799,
+            "label": "Performance"
+          },
+          {
+            "description": null,
+            "id": 3800,
+            "label": "Persuasion"
+          },
+          {
+            "description": null,
+            "id": 3791,
+            "label": "Religion"
+          },
+          {
+            "description": null,
+            "id": 3785,
+            "label": "Sleight of Hand"
+          },
+          {
+            "description": null,
+            "id": 3786,
+            "label": "Stealth"
+          },
+          {
+            "description": null,
+            "id": 3796,
+            "label": "Survival"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2103",
+        "label": "Choose a Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 9,
+        "isInfinite": false,
+        "defaultSubtypes": ["Vehicles (Land)"],
+        "componentTypeId": 1669830167,
+        "optionValue": 4345,
+        "options": [
+          {
+            "description": null,
+            "id": 3930,
+            "label": "Alchemist's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3955,
+            "label": "Bagpipes"
+          },
+          {
+            "description": null,
+            "id": 3931,
+            "label": "Brewer's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3932,
+            "label": "Calligrapher's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3933,
+            "label": "Carpenter's Tools"
+          },
+          {
+            "description": null,
+            "id": 3934,
+            "label": "Cartographer's Tools"
+          },
+          {
+            "description": null,
+            "id": 3935,
+            "label": "Cobbler's Tools"
+          },
+          {
+            "description": null,
+            "id": 3936,
+            "label": "Cook's Utensils"
+          },
+          {
+            "description": null,
+            "id": 3953,
+            "label": "Dice Set"
+          },
+          {
+            "description": null,
+            "id": 3947,
+            "label": "Disguise Kit"
+          },
+          {
+            "description": null,
+            "id": 4377,
+            "label": "Dragonchess Set"
+          },
+          {
+            "description": null,
+            "id": 3956,
+            "label": "Drum"
+          },
+          {
+            "description": null,
+            "id": 3957,
+            "label": "Dulcimer"
+          },
+          {
+            "description": null,
+            "id": 3958,
+            "label": "Flute"
+          },
+          {
+            "description": null,
+            "id": 3948,
+            "label": "Forgery Kit"
+          },
+          {
+            "description": null,
+            "id": 3937,
+            "label": "Glassblower's Tools"
+          },
+          {
+            "description": null,
+            "id": 3949,
+            "label": "Herbalism Kit"
+          },
+          {
+            "description": null,
+            "id": 3961,
+            "label": "Horn"
+          },
+          {
+            "description": null,
+            "id": 3938,
+            "label": "Jeweler's Tools"
+          },
+          {
+            "description": null,
+            "id": 3939,
+            "label": "Leatherworker's Tools"
+          },
+          {
+            "description": null,
+            "id": 3959,
+            "label": "Lute"
+          },
+          {
+            "description": null,
+            "id": 3960,
+            "label": "Lyre"
+          },
+          {
+            "description": null,
+            "id": 3940,
+            "label": "Mason's Tools"
+          },
+          {
+            "description": null,
+            "id": 3950,
+            "label": "Navigator's Tools"
+          },
+          {
+            "description": null,
+            "id": 3941,
+            "label": "Painter's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3962,
+            "label": "Pan Flute"
+          },
+          {
+            "description": null,
+            "id": 3954,
+            "label": "Playing Card Set"
+          },
+          {
+            "description": null,
+            "id": 3951,
+            "label": "Poisoner's Kit"
+          },
+          {
+            "description": null,
+            "id": 3942,
+            "label": "Potter's Tools"
+          },
+          {
+            "description": null,
+            "id": 3963,
+            "label": "Shawm"
+          },
+          {
+            "description": null,
+            "id": 3943,
+            "label": "Smith's Tools"
+          },
+          {
+            "description": null,
+            "id": 3952,
+            "label": "Thieves' Tools"
+          },
+          {
+            "description": null,
+            "id": 4378,
+            "label": "Three-Dragon Ante Set"
+          },
+          {
+            "description": null,
+            "id": 3944,
+            "label": "Tinker's Tools"
+          },
+          {
+            "description": null,
+            "id": 4345,
+            "label": "Vehicles (Land)"
+          },
+          {
+            "description": null,
+            "id": 5080,
+            "label": "Vehicles (Sea/Air)"
+          },
+          {
+            "description": null,
+            "id": 4346,
+            "label": "Vehicles (Water)"
+          },
+          {
+            "description": null,
+            "id": 3964,
+            "label": "Viol"
+          },
+          {
+            "description": null,
+            "id": 3945,
+            "label": "Weaver's Tools"
+          },
+          {
+            "description": null,
+            "id": 3946,
+            "label": "Woodcarver's Tools"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2152",
+        "label": "Choose a Tool",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 9,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 1669830167,
+        "optionValue": 3838,
+        "options": [
+          {
+            "description": null,
+            "id": 3837,
+            "label": "Alchemist's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3838,
+            "label": "Brewer's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3839,
+            "label": "Calligrapher's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3840,
+            "label": "Carpenter's Tools"
+          },
+          {
+            "description": null,
+            "id": 3841,
+            "label": "Cartographer's Tools"
+          },
+          {
+            "description": null,
+            "id": 3842,
+            "label": "Cobbler's Tools"
+          },
+          {
+            "description": null,
+            "id": 3855,
+            "label": "Cook's Utensils"
+          },
+          {
+            "description": null,
+            "id": 3843,
+            "label": "Glassblower's Tools"
+          },
+          {
+            "description": null,
+            "id": 3844,
+            "label": "Jeweler's Tools"
+          },
+          {
+            "description": null,
+            "id": 3845,
+            "label": "Leatherworker's Tools"
+          },
+          {
+            "description": null,
+            "id": 3846,
+            "label": "Mason's Tools"
+          },
+          {
+            "description": null,
+            "id": 3847,
+            "label": "Painter's Supplies"
+          },
+          {
+            "description": null,
+            "id": 3848,
+            "label": "Potter's Tools"
+          },
+          {
+            "description": null,
+            "id": 3849,
+            "label": "Smith's Tools"
+          },
+          {
+            "description": null,
+            "id": 3850,
+            "label": "Tinker's Tools"
+          },
+          {
+            "description": null,
+            "id": 3851,
+            "label": "Weaver's Tools"
+          },
+          {
+            "description": null,
+            "id": 3852,
+            "label": "Woodcarver's Tools"
+          }
+        ],
+        "subType": 1,
+        "id": "2-2104",
+        "label": "Choose an Artisan's Tool",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      }
+    ],
+    "class": [
+      {
+        "componentId": 294,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 57,
+        "options": [
+          {
+            "description": "<p><strong>Aberrations<\/strong> are utterly alien beings. Many of them have innate magical abilities drawn from the creature's alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, and slaadi.<\/p>",
+            "id": 49,
+            "label": "Aberrations"
+          },
+          {
+            "description": "<p><strong>Beasts<\/strong> are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.<\/p>",
+            "id": 50,
+            "label": "Beasts"
+          },
+          {
+            "description": "<p><strong>Celestials<\/strong> are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity.&nbsp;Celestials include angels, couatls, and pegasi.<\/p>",
+            "id": 51,
+            "label": "Celestials"
+          },
+          {
+            "description": "<p><strong>Constructs<\/strong> are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures native to the outer plane of Mechanus, such as modrons, are constructs shaped from the raw material of the plane by the will of more powerful creatures.<\/p>",
+            "id": 52,
+            "label": "Constructs"
+          },
+          {
+            "description": "<p><strong>Dragons<\/strong> are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate magic. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less magical, such as wyverns and pseudodragons.<\/p>",
+            "id": 53,
+            "label": "Dragons"
+          },
+          {
+            "description": "<p><strong>Elementals<\/strong> are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers, invisible stalkers, and water weirds.<\/p>",
+            "id": 54,
+            "label": "Elementals"
+          },
+          {
+            "description": "<p><strong>Fey<\/strong> are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.<\/p>",
+            "id": 55,
+            "label": "Fey"
+          },
+          {
+            "description": "<p><strong>Fiends<\/strong> are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.<\/p>",
+            "id": 56,
+            "label": "Fiends"
+          },
+          {
+            "description": "<p><strong>Giants<\/strong> tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.<\/p>",
+            "id": 57,
+            "label": "Giants"
+          },
+          {
+            "description": "<p><strong>Humanoids<\/strong> are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.<\/p>",
+            "id": 62,
+            "label": "Humanoids"
+          },
+          {
+            "description": "<p><strong>Monstrosities<\/strong> are monsters in the strictest sense -- frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs). They defy categorization, and in some sense serve as a catch-all category for creatures that don't fit into any other type.<\/p>",
+            "id": 58,
+            "label": "Monstrosities"
+          },
+          {
+            "description": "<p><strong>Oozes<\/strong> are gelatinous creatures that rarely have a fixed shape. They are mostly subterranean, dwelling in caves and dungeons and feeding on refuse, carrion, or creatures unlucky enough to get in their way. Black puddings and gelatinous cubes are among the most recognizable oozes.<\/p>",
+            "id": 59,
+            "label": "Oozes"
+          },
+          {
+            "description": "<p><strong>Plants<\/strong> in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the shambling mound and the treant. Fungal creatures such as the gas spore and the myconid also fall into this category.<\/p>",
+            "id": 60,
+            "label": "Plants"
+          },
+          {
+            "description": "<p><strong>Undead<\/strong> are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.<\/p>",
+            "id": 61,
+            "label": "Undead"
+          }
+        ],
+        "subType": null,
+        "id": "3-0-18442614",
+        "label": null,
+        "isOptional": false,
+        "type": 3,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 295,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 172,
+        "options": [
+          {
+            "description": "",
+            "id": 169,
+            "label": "Arctic"
+          },
+          {
+            "description": "",
+            "id": 170,
+            "label": "Coast"
+          },
+          {
+            "description": "",
+            "id": 171,
+            "label": "Desert"
+          },
+          {
+            "description": "",
+            "id": 172,
+            "label": "Forest"
+          },
+          {
+            "description": "",
+            "id": 173,
+            "label": "Grassland"
+          },
+          {
+            "description": "",
+            "id": 174,
+            "label": "Mountain"
+          },
+          {
+            "description": "",
+            "id": 175,
+            "label": "Swamp"
+          },
+          {
+            "description": "",
+            "id": 176,
+            "label": "Underdark"
+          }
+        ],
+        "subType": null,
+        "id": "3-29-18442621",
+        "label": "Choose a Level 1 Option",
+        "isOptional": false,
+        "type": 3,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 466,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 4135,
+        "options": [
+          {
+            "description": null,
+            "id": 4129,
+            "label": "Animal Handling"
+          },
+          {
+            "description": null,
+            "id": 4130,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 4131,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 4132,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 4133,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 4134,
+            "label": "Perception"
+          },
+          {
+            "description": null,
+            "id": 4135,
+            "label": "Stealth"
+          },
+          {
+            "description": null,
+            "id": 4136,
+            "label": "Survival"
+          }
+        ],
+        "subType": 1,
+        "id": "2-1556",
+        "label": "Choose a Ranger Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 466,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 4133,
+        "options": [
+          {
+            "description": null,
+            "id": 4129,
+            "label": "Animal Handling"
+          },
+          {
+            "description": null,
+            "id": 4130,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 4131,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 4132,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 4133,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 4134,
+            "label": "Perception"
+          },
+          {
+            "description": null,
+            "id": 4135,
+            "label": "Stealth"
+          },
+          {
+            "description": null,
+            "id": 4136,
+            "label": "Survival"
+          }
+        ],
+        "subType": 1,
+        "id": "2-1557",
+        "label": "Choose a Ranger Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 466,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 4132,
+        "options": [
+          {
+            "description": null,
+            "id": 4129,
+            "label": "Animal Handling"
+          },
+          {
+            "description": null,
+            "id": 4130,
+            "label": "Athletics"
+          },
+          {
+            "description": null,
+            "id": 4131,
+            "label": "Insight"
+          },
+          {
+            "description": null,
+            "id": 4132,
+            "label": "Investigation"
+          },
+          {
+            "description": null,
+            "id": 4133,
+            "label": "Nature"
+          },
+          {
+            "description": null,
+            "id": 4134,
+            "label": "Perception"
+          },
+          {
+            "description": null,
+            "id": 4135,
+            "label": "Stealth"
+          },
+          {
+            "description": null,
+            "id": 4136,
+            "label": "Survival"
+          }
+        ],
+        "subType": 1,
+        "id": "2-1558",
+        "label": "Choose a Ranger Skill",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      },
+      {
+        "componentId": 294,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "componentTypeId": 12168134,
+        "optionValue": 4056,
+        "options": [
+          {
+            "description": null,
+            "id": 4045,
+            "label": "Abyssal"
+          },
+          {
+            "description": null,
+            "id": 4049,
+            "label": "Celestial"
+          },
+          {
+            "description": null,
+            "id": 4050,
+            "label": "Common"
+          },
+          {
+            "description": null,
+            "id": 4051,
+            "label": "Deep Speech"
+          },
+          {
+            "description": null,
+            "id": 4052,
+            "label": "Draconic"
+          },
+          {
+            "description": null,
+            "id": 4054,
+            "label": "Dwarvish"
+          },
+          {
+            "description": null,
+            "id": 4055,
+            "label": "Elvish"
+          },
+          {
+            "description": null,
+            "id": 4056,
+            "label": "Giant"
+          },
+          {
+            "description": null,
+            "id": 5064,
+            "label": "Gith"
+          },
+          {
+            "description": null,
+            "id": 4061,
+            "label": "Gnomish"
+          },
+          {
+            "description": null,
+            "id": 4062,
+            "label": "Goblin"
+          },
+          {
+            "description": null,
+            "id": 4063,
+            "label": "Halfling"
+          },
+          {
+            "description": null,
+            "id": 4065,
+            "label": "Infernal"
+          },
+          {
+            "description": null,
+            "id": 5110,
+            "label": "Kraul"
+          },
+          {
+            "description": null,
+            "id": 5109,
+            "label": "Loxodon"
+          },
+          {
+            "description": null,
+            "id": 5108,
+            "label": "Minotaur"
+          },
+          {
+            "description": null,
+            "id": 4066,
+            "label": "Orc"
+          },
+          {
+            "description": null,
+            "id": 4068,
+            "label": "Primordial"
+          },
+          {
+            "description": null,
+            "id": 4071,
+            "label": "Sylvan"
+          },
+          {
+            "description": null,
+            "id": 4074,
+            "label": "Undercommon"
+          },
+          {
+            "description": null,
+            "id": 5111,
+            "label": "Vedalken"
+          }
+        ],
+        "subType": 3,
+        "id": "2-2325",
+        "label": "Choose a Language",
+        "isOptional": false,
+        "type": 2,
+        "parentChoiceId": null
+      }
+    ],
+    "feat": []
+  },
+  "defaultBackdrop": {
+    "largeBackdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/534/636453156971765566.jpeg",
+    "smallBackdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/533/636453156971140546.jpeg",
+    "backdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/532/636453156970671727.jpeg",
+    "thumbnailBackdropAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/61/535/636453156972234347.jpeg"
+  },
+  "actions": {
+    "race": [],
+    "class": [],
+    "feat": []
+  },
+  "lifestyleId": 6,
+  "traits": {
+    "personalityTraits": "I\u2019m confident in my own abilities and do what I can to instill confidence in others.",
+    "ideals": "Respect. People deserve to be treated with dignity and respect. (Good)",
+    "appearance": null,
+    "flaws": "I\u2019m convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.",
+    "bonds": "A proud noble once gave me a horrible beating, and I will take my revenge on any bully I encounter."
+  },
+  "gender": null,
+  "characterValues": [],
+  "classes": [{
+    "classFeatures": [
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 1,
+          "description": "<p><strong><span>Hit Dice: <\/span><\/strong>1d10 per<span> ranger level<br><\/span><strong><span>Hit Points at 1st Level: <\/span><\/strong>10 + your Constitu<span>tion modifier<br><\/span><strong><span>Hit Points at Higher Levels:<\/span><\/strong> 1d10 (or 6) + your Constitution modifier per ranger le<span>vel after 1st<\/span><\/p>",
+          "sourcePageNumber": 90,
+          "multiClassDescription": "",
+          "name": "Hit Points",
+          "entityTypeId": 12168134,
+          "id": 538,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 2,
+          "description": "<p><strong><span>Armor: <\/span><\/strong>Light armor, medium a<span>rmor, shields<br><\/span><strong><span>Weapons: <\/span><\/strong>Simple weapons, ma<span>rtial weapons<br><\/span><strong><span>Tools: <\/span><\/strong>None<br><strong><span>Saving Throws: <\/span><\/strong>Streng<span>th, Dexterity<br><\/span><strong><span>Skills: <\/span><\/strong>Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth,<span> and Survival<\/span><\/p>",
+          "sourcePageNumber": 90,
+          "multiClassDescription": "<p><strong><span>Armor: <\/span><\/strong>Light armor, medium a<span>rmor, shields<br><\/span><strong><span>Weapons: <\/span><\/strong>Simple weapons, ma<span>rtial weapons<\/span><span><br><\/span><strong><span>Skills: <\/span><\/strong>Choose one&nbsp;from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth,<span> and Survival<\/span><\/p>",
+          "name": "Proficiencies",
+          "entityTypeId": 12168134,
+          "id": 466,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You have advantage on Survival checks to track your favored enemies, as well as on INT checks to recall information about them. You also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 3,
+          "description": "<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain t<span>ype of enemy.<\/span><\/p>\r\n<p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as fav<span>ored enemies.<\/span><\/p>\r\n<p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall informatio<span>n about them.<\/span><\/p>\r\n<p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they spea<span>k one at all.<\/span><\/p>\r\n<p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on you<span>r adventures.<\/span><\/p>",
+          "sourcePageNumber": 91,
+          "multiClassDescription": "",
+          "name": "Favored Enemy",
+          "entityTypeId": 12168134,
+          "id": 294,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You have a favored terrain type. Your proficiency bonus is doubled for proficient skills when you make an INT or WIS check related to it. While traveling for an hour or more in your chosen terrain, difficult terrain doesn\u2019t slow your group\u2019s travel, your group can\u2019t become lost except by magical means, you remain alert to danger even when you are engaged in another activity, you can move stealthily at a normal pace (while alone), you find twice as much food while foraging, and while tracking creatures, you learn the exact number, sizes, and how long ago they passed through the area.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 1,
+          "displayOrder": 4,
+          "description": "<p>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&rsquo;re p<span>roficient in.<\/span><\/p>\r\n<p>While traveling for an hour or more in your favored terrain, you gain the following benefits:<\/p>\r\n<ul>\r\n<li>Difficult terrain doesn&rsquo;t slow your group&rsquo;s travel.<\/li>\r\n<li>Your group can&rsquo;t become lost except by magical means.<\/li>\r\n<li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.<\/li>\r\n<li>If you are traveling alone, you can move stealthily at a normal pace.<\/li>\r\n<li>When you forage, you find twice as much food as you normally would.<\/li>\r\n<li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.<\/li>\r\n<\/ul>\r\n<p>You choose additional favored terrain types at 6th an<span>d 10th level.<\/span><\/p>",
+          "sourcePageNumber": 91,
+          "multiClassDescription": "",
+          "name": "Natural Explorer",
+          "entityTypeId": 12168134,
+          "id": 295,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You adopt a particular style of fighting as your specialty.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 2,
+          "displayOrder": 5,
+          "description": "<p>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the follow<span>ing options.&nbsp;<\/span><\/p>\r\n<p>You can&rsquo;t take a Fighting Style option more than once, even if you later get to <span>choose again.<\/span><\/p>",
+          "sourcePageNumber": 91,
+          "multiClassDescription": "",
+          "name": "Fighting Style",
+          "entityTypeId": 12168134,
+          "id": 296,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can cast known ranger spells using WIS as your spellcasting modifier (Spell DC {{savedc:wis}}, Spell Attack {{spellattack:wis}}).",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 2,
+          "displayOrder": 6,
+          "description": "<p>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See <span style=\"color:#9c0\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting\" rel=\"nofollow\">Spells Rules<\/a><\/span> for the general rules of spellcasting and the <span style=\"color:#936\"><a style=\"color:#704cd9\" href=\"https://www.dndbeyond.com/spells?filter-class=5&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content=\" rel=\"nofollow\">Spells Listing<\/a><\/span>&nbsp;for the range<span>r spell list.<\/span><\/p>\r\n<h5>Spell Slots<\/h5>\r\n<p>The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell&rsquo;s level or higher. You regain all expended spell slots when you finish<span> a long rest.<\/span><\/p>\r\n<p>For example, if you know the 1st-level spell <span>animal friendship<\/span> and have a 1st-level and a 2nd-level spell slot available, you can cast <span>animal friendship<\/span> using<span> either slot.<\/span><\/p>\r\n<h5>Spells Known of 1st Level and Higher<\/h5>\r\n<p>You know two 1st-level spells of your choice from the range<span>r spell list.<\/span><\/p>\r\n<p>The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st <span>or 2nd level.<\/span><\/p>\r\n<p>Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have<span> spell slots.<\/span><\/p>\r\n<h5>Spellcasting Ability<\/h5>\r\n<p>Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.<\/p>\r\n<p><strong><span>Spell save DC <\/span><\/strong>= 8 + your proficiency bonus + your Wisdom modifier<\/p>\r\n<p><strong><span>Spell attack modifier <\/span><\/strong>= your proficiency bonus + your Wisdom modifier<\/p>",
+          "sourcePageNumber": 91,
+          "multiClassDescription": "<p><em>This feature is affected by multiclassing<\/em>. See the <a href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/customization-options#ClassFeatures\" rel=\"nofollow\">Multiclassing<\/a> rules for more information.<\/p>\r\n<p>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See <span style=\"color:#9c0\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting\" rel=\"nofollow\">Spells Rules<\/a><\/span> for the general rules of spellcasting and the <span style=\"color:#936\"><a style=\"color:#704cd9\" href=\"https://www.dndbeyond.com/spells?filter-class=5&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content=\" rel=\"nofollow\">Spells Listing<\/a><\/span>&nbsp;for the range<span>r spell list.<\/span><\/p>\r\n<h5>Spell Slots<\/h5>\r\n<p>The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell&rsquo;s level or higher. You regain all expended spell slots when you finish<span> a long rest.<\/span><\/p>\r\n<p>For example, if you know the 1st-level spell <span>animal friendship<\/span> and have a 1st-level and a 2nd-level spell slot available, you can cast <span>animal friendship<\/span> using<span> either slot.<\/span><\/p>\r\n<h5>Spells Known of 1st Level and Higher<\/h5>\r\n<p>You know two 1st-level spells of your choice from the range<span>r spell list.<\/span><\/p>\r\n<p>The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st <span>or 2nd level.<\/span><\/p>\r\n<p>Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have<span> spell slots.<\/span><\/p>\r\n<h5>Spellcasting Ability<\/h5>\r\n<p>Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.<\/p>\r\n<p><strong><span>Spell save DC <\/span><\/strong>= 8 + your proficiency bonus + your Wisdom modifier<\/p>\r\n<p><strong><span>Spell attack modifier <\/span><\/strong>= your proficiency bonus + your Wisdom modifier<\/p>",
+          "name": "Spellcasting",
+          "entityTypeId": 12168134,
+          "id": 297,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 3,
+          "displayOrder": 7,
+          "description": "<p>At 3rd level, you choose an archetype that you strive to emulate: the Hunter that is detailed at the end of the class description or one from another source. Your choice grants you features at 3rd level and again at 7th, 11th, an<span>d 15th level.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Ranger Archetype",
+          "entityTypeId": 12168134,
+          "id": 298,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "As an action, you can expend one ranger spell slot (1 minute per level of spell slot) to sense whether any aberrations, celestials, dragons, elementals, fey, fiends, or undead are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain). This feature doesn\u2019t reveal the creatures\u2019 location or number.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 3,
+          "displayOrder": 8,
+          "description": "<p>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn&rsquo;t reveal the creatures&rsquo; locati<span>on or number.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Primeval Awareness",
+          "entityTypeId": 12168134,
+          "id": 299,
+          "activation": {
+            "activationType": 1,
+            "activationTime": 1
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 4,
+          "displayOrder": 9,
+          "description": "<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 300,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can attack twice whenever you take the Attack action on your turn.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 5,
+          "displayOrder": 10,
+          "description": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action <span>on your turn.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "<p><em>This feature could be affected by multiclassing<\/em>. See the <a href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/customization-options#ClassFeatures\" rel=\"nofollow\">Multiclassing<\/a> rules for more information.<\/p>\r\n<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action <span>on your turn.<\/span><\/p>",
+          "name": "Extra Attack",
+          "entityTypeId": 12168134,
+          "id": 301,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You have advantage on Survival checks to track your favored enemies, as well as on INT checks to recall information about them. You also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 6,
+          "displayOrder": 11,
+          "description": "<p>At 6th&nbsp;level, you have significant experience studying, tracking, hunting, and even talking to a certain t<span>ype of enemy.<\/span><\/p>\r\n<p>Choose an additional type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as fav<span>ored enemies.<\/span><\/p>\r\n<p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall informatio<span>n about them.<\/span><\/p>\r\n<p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they spea<span>k one at all.<\/span><\/p>\r\n<p>You choose one additional favored enemy, as well as an associated language, at 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on you<span>r adventures.<\/span><\/p>",
+          "sourcePageNumber": 91,
+          "multiClassDescription": "",
+          "name": "Favored Enemy",
+          "entityTypeId": 12168134,
+          "id": 307,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Moving through nonmagical difficult terrain costs you no extra movement and you can also pass through nonmagical plants without being slowed by them and without taking damage from them. You have advantage on saving throws against plants that are magically created or manipulated to impede movement.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 8,
+          "displayOrder": 12,
+          "description": "<p>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a si<span>milar hazard.<\/span><\/p>\r\n<p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the <span>en<\/span><span><span>tangle<\/span><\/span><span> spell.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Land\u2019s Stride",
+          "entityTypeId": 12168134,
+          "id": 302,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 8,
+          "displayOrder": 13,
+          "description": "<p>When you reach 8th level, and again at 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 309,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can spend 1 minute creating camouflage for yourself from naturally occurring materials. Once you are camouflaged, you can try to hide by pressing yourself up against a solid surface to gain a +10 bonus to Stealth checks as long as you remain there without moving or taking actions.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 10,
+          "displayOrder": 14,
+          "description": "<p>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create you<span>r camouflage.<\/span><\/p>\r\n<p>Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain <span>this benefit.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Hide in Plain Sight",
+          "entityTypeId": 12168134,
+          "id": 303,
+          "activation": {
+            "activationType": 6,
+            "activationTime": 1
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 12,
+          "displayOrder": 15,
+          "description": "<p>When you reach 12th level, and again at 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 310,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You can use the Hide action as a bonus action on your turn. Also, you can\u2019t be tracked by nonmagical means, unless you choose to leave a trail.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 14,
+          "displayOrder": 16,
+          "description": "<p>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can&rsquo;t be tracked by nonmagical means, unless you choose to l<span>eave a trail.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Vanish",
+          "entityTypeId": 12168134,
+          "id": 304,
+          "activation": {
+            "activationType": 3,
+            "activationTime": 1
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "You have advantage on Survival checks to track your favored enemies, as well as on INT checks to recall information about them. You also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 14,
+          "displayOrder": 17,
+          "description": "<p>At 14th&nbsp;level, you have significant experience studying, tracking, hunting, and even talking to a certain t<span>ype of enemy.<\/span><\/p>\r\n<p>Choose an additional type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as fav<span>ored enemies.<\/span><\/p>\r\n<p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall informatio<span>n about them.<\/span><\/p>\r\n<p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they spea<span>k one at all.<\/span><\/p>",
+          "sourcePageNumber": 91,
+          "multiClassDescription": "",
+          "name": "Favored Enemy",
+          "entityTypeId": 12168134,
+          "id": 308,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 16,
+          "displayOrder": 18,
+          "description": "<p>When you reach 16th level, and again at 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 311,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "When you attack a creature you can\u2019t see, you don't have disadvantage on your attack rolls against it. As long as you are conscious and can hear, you are also aware of the location of any invisible creature within 30 ft. that isn\u2019t hidden.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 18,
+          "displayOrder": 19,
+          "description": "<p>At 18th level, you gain preternatural senses that help you fight creatures you can&rsquo;t see. When you attack a creature you can&rsquo;t see, your inability to see it doesn&rsquo;t impose disadvantage on your attack roll<span>s against it.<\/span><\/p>\r\n<p>You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn&rsquo;t hidden from you and you aren&rsquo;t blinded<span> or deafened.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Feral Senses",
+          "entityTypeId": 12168134,
+          "id": 305,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": null,
+          "hideInSheet": true,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [],
+          "requiredLevel": 19,
+          "displayOrder": 20,
+          "description": "<p>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Ability Score Improvement",
+          "entityTypeId": 12168134,
+          "id": 312,
+          "activation": {
+            "activationType": null,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      },
+      {
+        "levelScale": null,
+        "definition": {
+          "snippet": "Once on each of your turns, you can add {{modifier:wis}} to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature after the roll but before knowing its effects.",
+          "hideInSheet": false,
+          "sourceId": 2,
+          "creatureRules": [],
+          "limitedUse": [{
+            "level": null,
+            "uses": 1
+          }],
+          "requiredLevel": 20,
+          "displayOrder": 21,
+          "description": "<p>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll<span> are applied.<\/span><\/p>",
+          "sourcePageNumber": 92,
+          "multiClassDescription": "",
+          "name": "Foe Slayer",
+          "entityTypeId": 12168134,
+          "id": 306,
+          "activation": {
+            "activationType": 8,
+            "activationTime": null
+          },
+          "hideInBuilder": false,
+          "isSubClassFeature": false
+        }
+      }
+    ],
+    "level": 1,
+    "hitDiceUsed": 1,
+    "isStartingClass": true,
+    "entityTypeId": 1446578651,
+    "definition": {
+      "sourceId": 1,
+      "equipmentDescription": "<p>You start with the following equipment, in addition to the equipment granted by your background:<\/p>\r\n<ul>\r\n<li>(<span>a<\/span>) scale mail or (<span>b<\/span>) leather armor<\/li>\r\n<li>(<span>a<\/span>) two shortswords or (<span>b<\/span>) two simple melee weapons<\/li>\r\n<li>(<span>a<\/span>) a dungeoneer&rsquo;s pack or (<span>b<\/span>) an explorer&rsquo;s pack<\/li>\r\n<li>A longbow and a quiver of 20 arrows<\/li>\r\n<\/ul>",
+      "hitDice": 10,
+      "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/366/315/315/636272702825813090.png",
+      "spellContainerName": null,
+      "canCastSpells": true,
+      "description": "<p>A warrior who combats threats on the edges of civilization<\/p>\r\n<p class=\"characters-statblock\" style=\"font-family:Roboto Condensed;font-size:14px\"><strong>Hit Die:<\/strong> d10<br><strong>Primary Ability:<\/strong>&nbsp;Dexterity &amp; Wisdom<br><strong>Saves:<\/strong>&nbsp;Strength &amp;&nbsp;Dexterity<\/p>",
+      "sourcePageNumber": 89,
+      "knowsAllSpells": false,
+      "moreDetailsUrl": "/classes/ranger",
+      "largeAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/6/367/636272702826438096.png",
+      "spellCastingAbilityId": 5,
+      "classFeatures": [
+        {
+          "requiredLevel": 1,
+          "name": "Hit Points",
+          "prerequisite": null,
+          "displayOrder": 1,
+          "description": "<p><strong><span>Hit Dice: <\/span><\/strong>1d10 per<span> ranger level<br><\/span><strong><span>Hit Points at 1st Level: <\/span><\/strong>10 + your Constitu<span>tion modifier<br><\/span><strong><span>Hit Points at Higher Levels:<\/span><\/strong> 1d10 (or 6) + your Constitution modifier per ranger le<span>vel after 1st<\/span><\/p>",
+          "id": 538
+        },
+        {
+          "requiredLevel": 1,
+          "name": "Proficiencies",
+          "prerequisite": null,
+          "displayOrder": 2,
+          "description": "<p><strong><span>Armor: <\/span><\/strong>Light armor, medium a<span>rmor, shields<br><\/span><strong><span>Weapons: <\/span><\/strong>Simple weapons, ma<span>rtial weapons<br><\/span><strong><span>Tools: <\/span><\/strong>None<br><strong><span>Saving Throws: <\/span><\/strong>Streng<span>th, Dexterity<br><\/span><strong><span>Skills: <\/span><\/strong>Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth,<span> and Survival<\/span><\/p>",
+          "id": 466
+        },
+        {
+          "requiredLevel": 1,
+          "name": "Favored Enemy",
+          "prerequisite": null,
+          "displayOrder": 3,
+          "description": "<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain t<span>ype of enemy.<\/span><\/p>\r\n<p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as fav<span>ored enemies.<\/span><\/p>\r\n<p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall informatio<span>n about them.<\/span><\/p>\r\n<p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they spea<span>k one at all.<\/span><\/p>\r\n<p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on you<span>r adventures.<\/span><\/p>",
+          "id": 294
+        },
+        {
+          "requiredLevel": 1,
+          "name": "Natural Explorer",
+          "prerequisite": null,
+          "displayOrder": 4,
+          "description": "<p>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&rsquo;re p<span>roficient in.<\/span><\/p>\r\n<p>While traveling for an hour or more in your favored terrain, you gain the following benefits:<\/p>\r\n<ul>\r\n<li>Difficult terrain doesn&rsquo;t slow your group&rsquo;s travel.<\/li>\r\n<li>Your group can&rsquo;t become lost except by magical means.<\/li>\r\n<li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.<\/li>\r\n<li>If you are traveling alone, you can move stealthily at a normal pace.<\/li>\r\n<li>When you forage, you find twice as much food as you normally would.<\/li>\r\n<li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.<\/li>\r\n<\/ul>\r\n<p>You choose additional favored terrain types at 6th an<span>d 10th level.<\/span><\/p>",
+          "id": 295
+        },
+        {
+          "requiredLevel": 2,
+          "name": "Fighting Style",
+          "prerequisite": null,
+          "displayOrder": 5,
+          "description": "<p>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the follow<span>ing options.&nbsp;<\/span><\/p>\r\n<p>You can&rsquo;t take a Fighting Style option more than once, even if you later get to <span>choose again.<\/span><\/p>",
+          "id": 296
+        },
+        {
+          "requiredLevel": 2,
+          "name": "Spellcasting",
+          "prerequisite": null,
+          "displayOrder": 6,
+          "description": "<p>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See <span style=\"color:#9c0\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting\" rel=\"nofollow\">Spells Rules<\/a><\/span> for the general rules of spellcasting and the <span style=\"color:#936\"><a style=\"color:#704cd9\" href=\"https://www.dndbeyond.com/spells?filter-class=5&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content=\" rel=\"nofollow\">Spells Listing<\/a><\/span>&nbsp;for the range<span>r spell list.<\/span><\/p>\r\n<h5>Spell Slots<\/h5>\r\n<p>The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell&rsquo;s level or higher. You regain all expended spell slots when you finish<span> a long rest.<\/span><\/p>\r\n<p>For example, if you know the 1st-level spell <span>animal friendship<\/span> and have a 1st-level and a 2nd-level spell slot available, you can cast <span>animal friendship<\/span> using<span> either slot.<\/span><\/p>\r\n<h5>Spells Known of 1st Level and Higher<\/h5>\r\n<p>You know two 1st-level spells of your choice from the range<span>r spell list.<\/span><\/p>\r\n<p>The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st <span>or 2nd level.<\/span><\/p>\r\n<p>Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have<span> spell slots.<\/span><\/p>\r\n<h5>Spellcasting Ability<\/h5>\r\n<p>Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.<\/p>\r\n<p><strong><span>Spell save DC <\/span><\/strong>= 8 + your proficiency bonus + your Wisdom modifier<\/p>\r\n<p><strong><span>Spell attack modifier <\/span><\/strong>= your proficiency bonus + your Wisdom modifier<\/p>",
+          "id": 297
+        },
+        {
+          "requiredLevel": 3,
+          "name": "Ranger Archetype",
+          "prerequisite": null,
+          "displayOrder": 7,
+          "description": "<p>At 3rd level, you choose an archetype that you strive to emulate: the Hunter that is detailed at the end of the class description or one from another source. Your choice grants you features at 3rd level and again at 7th, 11th, an<span>d 15th level.<\/span><\/p>",
+          "id": 298
+        },
+        {
+          "requiredLevel": 3,
+          "name": "Primeval Awareness",
+          "prerequisite": null,
+          "displayOrder": 8,
+          "description": "<p>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn&rsquo;t reveal the creatures&rsquo; locati<span>on or number.<\/span><\/p>",
+          "id": 299
+        },
+        {
+          "requiredLevel": 4,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 9,
+          "description": "<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "id": 300
+        },
+        {
+          "requiredLevel": 5,
+          "name": "Extra Attack",
+          "prerequisite": null,
+          "displayOrder": 10,
+          "description": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action <span>on your turn.<\/span><\/p>",
+          "id": 301
+        },
+        {
+          "requiredLevel": 6,
+          "name": "Favored Enemy",
+          "prerequisite": null,
+          "displayOrder": 11,
+          "description": "<p>At 6th&nbsp;level, you have significant experience studying, tracking, hunting, and even talking to a certain t<span>ype of enemy.<\/span><\/p>\r\n<p>Choose an additional type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as fav<span>ored enemies.<\/span><\/p>\r\n<p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall informatio<span>n about them.<\/span><\/p>\r\n<p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they spea<span>k one at all.<\/span><\/p>\r\n<p>You choose one additional favored enemy, as well as an associated language, at 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on you<span>r adventures.<\/span><\/p>",
+          "id": 307
+        },
+        {
+          "requiredLevel": 8,
+          "name": "Land\u2019s Stride",
+          "prerequisite": null,
+          "displayOrder": 12,
+          "description": "<p>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a si<span>milar hazard.<\/span><\/p>\r\n<p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the <span>en<\/span><span><span>tangle<\/span><\/span><span> spell.<\/span><\/p>",
+          "id": 302
+        },
+        {
+          "requiredLevel": 8,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 13,
+          "description": "<p>When you reach 8th level, and again at 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "id": 309
+        },
+        {
+          "requiredLevel": 10,
+          "name": "Hide in Plain Sight",
+          "prerequisite": null,
+          "displayOrder": 14,
+          "description": "<p>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create you<span>r camouflage.<\/span><\/p>\r\n<p>Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain <span>this benefit.<\/span><\/p>",
+          "id": 303
+        },
+        {
+          "requiredLevel": 12,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 15,
+          "description": "<p>When you reach 12th level, and again at 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "id": 310
+        },
+        {
+          "requiredLevel": 14,
+          "name": "Vanish",
+          "prerequisite": null,
+          "displayOrder": 16,
+          "description": "<p>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can&rsquo;t be tracked by nonmagical means, unless you choose to l<span>eave a trail.<\/span><\/p>",
+          "id": 304
+        },
+        {
+          "requiredLevel": 14,
+          "name": "Favored Enemy",
+          "prerequisite": null,
+          "displayOrder": 17,
+          "description": "<p>At 14th&nbsp;level, you have significant experience studying, tracking, hunting, and even talking to a certain t<span>ype of enemy.<\/span><\/p>\r\n<p>Choose an additional type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as fav<span>ored enemies.<\/span><\/p>\r\n<p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall informatio<span>n about them.<\/span><\/p>\r\n<p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they spea<span>k one at all.<\/span><\/p>",
+          "id": 308
+        },
+        {
+          "requiredLevel": 16,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 18,
+          "description": "<p>When you reach 16th level, and again at 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "id": 311
+        },
+        {
+          "requiredLevel": 18,
+          "name": "Feral Senses",
+          "prerequisite": null,
+          "displayOrder": 19,
+          "description": "<p>At 18th level, you gain preternatural senses that help you fight creatures you can&rsquo;t see. When you attack a creature you can&rsquo;t see, your inability to see it doesn&rsquo;t impose disadvantage on your attack roll<span>s against it.<\/span><\/p>\r\n<p>You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn&rsquo;t hidden from you and you aren&rsquo;t blinded<span> or deafened.<\/span><\/p>",
+          "id": 305
+        },
+        {
+          "requiredLevel": 19,
+          "name": "Ability Score Improvement",
+          "prerequisite": null,
+          "displayOrder": 20,
+          "description": "<p>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.<\/span><\/p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.<\/span><\/p>",
+          "id": 312
+        },
+        {
+          "requiredLevel": 20,
+          "name": "Foe Slayer",
+          "prerequisite": null,
+          "displayOrder": 21,
+          "description": "<p>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll<span> are applied.<\/span><\/p>",
+          "id": 306
+        }
+      ],
+      "spellPrepareType": null,
+      "parentClassId": null,
+      "wealthDice": {
+        "diceCount": 5,
+        "diceValue": 4,
+        "fixedValue": null,
+        "diceString": "5d4",
+        "diceMultiplier": 10
+      },
+      "name": "Ranger",
+      "id": 5,
+      "portraitAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/10/7/636336417569697438.jpeg",
+      "sourceIds": [1]
+    },
+    "id": 10266150,
+    "subclassDefinition": null
+  }],
+  "skin": null,
+  "faith": "",
+  "activeSourceCategories": [
+    1,
+    7,
+    8
+  ],
+  "inspiration": true,
+  "inventory": [
+    {
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": false,
+      "limitedUse": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "stealthCheck": 1,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.<\/p>",
+        "type": "Light Armor",
+        "baseItemId": 10,
+        "armorClass": 11,
+        "baseTypeId": 701257905,
+        "id": 10,
+        "canAttune": false,
+        "stackable": false,
+        "cost": 10,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "baseArmorName": "Leather",
+        "weight": 10,
+        "sourcePageNumber": null,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Warding"],
+        "strengthRequirement": null,
+        "bundleSize": 1,
+        "name": "Leather",
+        "entityTypeId": 701257905,
+        "filterType": "Armor",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270071
+    },
+    {
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": null,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "damage": {
+          "diceCount": 1,
+          "diceValue": 6,
+          "fixedValue": null,
+          "diceString": "1d6",
+          "diceMultiplier": null
+        },
+        "longRange": 5,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "range": 5,
+        "description": "<p>Proficiency with a shortsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.<\/p>",
+        "type": "Shortsword",
+        "baseItemId": 30,
+        "baseTypeId": 1782728300,
+        "id": 30,
+        "canAttune": false,
+        "stackable": false,
+        "cost": 10,
+        "avatarUrl": null,
+        "fixedDamage": null,
+        "isHomebrew": false,
+        "weight": 2,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "version": null,
+        "isMonkWeapon": true,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "attackType": 1,
+        "bundleSize": 1,
+        "name": "Shortsword",
+        "entityTypeId": 1782728300,
+        "damageType": "Piercing",
+        "filterType": "Weapon",
+        "properties": [
+          {
+            "notes": null,
+            "name": "Finesse",
+            "description": "When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. ",
+            "id": 53
+          },
+          {
+            "notes": null,
+            "name": "Light",
+            "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. ",
+            "id": 54
+          }
+        ],
+        "categoryId": 2,
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270072
+    },
+    {
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": null,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "damage": {
+          "diceCount": 1,
+          "diceValue": 6,
+          "fixedValue": null,
+          "diceString": "1d6",
+          "diceMultiplier": null
+        },
+        "longRange": 5,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "range": 5,
+        "description": "<p>Proficiency with a shortsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.<\/p>",
+        "type": "Shortsword",
+        "baseItemId": 30,
+        "baseTypeId": 1782728300,
+        "id": 30,
+        "canAttune": false,
+        "stackable": false,
+        "cost": 10,
+        "avatarUrl": null,
+        "fixedDamage": null,
+        "isHomebrew": false,
+        "weight": 2,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "version": null,
+        "isMonkWeapon": true,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "attackType": 1,
+        "bundleSize": 1,
+        "name": "Shortsword",
+        "entityTypeId": 1782728300,
+        "damageType": "Piercing",
+        "filterType": "Weapon",
+        "properties": [
+          {
+            "notes": null,
+            "name": "Finesse",
+            "description": "When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. ",
+            "id": 53
+          },
+          {
+            "notes": null,
+            "name": "Light",
+            "description": "A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. ",
+            "id": 54
+          }
+        ],
+        "categoryId": 2,
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270073
+    },
+    {
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": null,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "damage": {
+          "diceCount": 1,
+          "diceValue": 8,
+          "fixedValue": null,
+          "diceString": "1d8",
+          "diceMultiplier": null
+        },
+        "longRange": 600,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "range": 150,
+        "description": "<p>Proficiency with a longbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.<\/p>",
+        "type": "Longbow",
+        "baseItemId": 37,
+        "baseTypeId": 1782728300,
+        "id": 37,
+        "canAttune": false,
+        "stackable": false,
+        "cost": 50,
+        "avatarUrl": null,
+        "fixedDamage": null,
+        "isHomebrew": false,
+        "weight": 2,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "version": null,
+        "isMonkWeapon": false,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "attackType": 2,
+        "bundleSize": 1,
+        "name": "Longbow",
+        "entityTypeId": 1782728300,
+        "damageType": "Piercing",
+        "filterType": "Weapon",
+        "properties": [
+          {
+            "notes": null,
+            "name": "Ammunition",
+            "description": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. \r\nIf you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see \"Improvised Weapons\" later in the section). A sling must be loaded to deal any damage when used in this way. ",
+            "id": 70
+          },
+          {
+            "notes": null,
+            "name": "Heavy",
+            "description": "Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively. ",
+            "id": 71
+          },
+          {
+            "notes": null,
+            "name": "Range",
+            "description": "A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. ",
+            "id": 72
+          },
+          {
+            "notes": null,
+            "name": "Two-Handed",
+            "description": "This weapon requires two hands when you attack with it. ",
+            "id": 73
+          }
+        ],
+        "categoryId": 2,
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270082
+    },
+    {
+      "quantity": 20,
+      "equipped": true,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": true,
+        "description": "<p>Arrows are&nbsp;used with&nbsp;a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 1,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 1,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": true,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "bundleSize": 20,
+        "name": "Arrows",
+        "subType": "Ammunition",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270083
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A backpack is a leather pack carried on the back, typically with straps to secure it. A backpack can hold&nbsp;1 cubic foot/ 30 pounds of gear.<\/p>\r\n<p>You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 20,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Container"],
+        "bundleSize": 1,
+        "name": "Backpack",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270074
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>You never know where you&rsquo;re going to sleep, and a bedroll helps you get better sleep in a hayloft or on the cold ground. A bedroll consists of bedding and a blanket thin enough to be rolled up and tied. In an emergency, it can double as a stretcher.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 24,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 1,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 7,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Utility"],
+        "bundleSize": 1,
+        "name": "Bedroll",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270075
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>This set of clothes could consist of a loose shirt and baggy breeches, or a loose shirt and skirt or overdress. Cloth wrappings are used for shoes.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 38,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 3,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Social",
+          "Outerwear"
+        ],
+        "bundleSize": 1,
+        "name": "Clothes, Common",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270087
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 61,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Social",
+          "Utility"
+        ],
+        "bundleSize": 1,
+        "name": "Mess Kit",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270076
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>An iron pot can hold 1 gallon of liquid.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 70,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 10,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Container"],
+        "bundleSize": 1,
+        "name": "Pot, Iron",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270086
+    },
+    {
+      "quantity": 10,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 75,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 2,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Social",
+          "Utility",
+          "Consumable"
+        ],
+        "bundleSize": 1,
+        "name": "Rations (1 day)",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270079
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>Rope,&nbsp;has 2 hit points and can be burst with a DC 17 Strength check.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 77,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 1,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 10,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Utility",
+          "Exploration"
+        ],
+        "bundleSize": 1,
+        "name": "Rope, Hempen (50 feet)",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270081
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A standard shovel used for digging.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 82,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Utility"],
+        "bundleSize": 1,
+        "name": "Shovel",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270085
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch -- or anything else with abundant, exposed fuel -- takes an action. Lighting any other fire takes 1 minute.<\/p>\r\n<p>&nbsp;<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 90,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.5,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Utility",
+          "Exploration"
+        ],
+        "bundleSize": 1,
+        "name": "Tinderbox",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270077
+    },
+    {
+      "quantity": 10,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 91,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.001,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 1,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": [
+          "Damage",
+          "Utility",
+          "Exploration",
+          "Combat"
+        ],
+        "bundleSize": 1,
+        "name": "Torch",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270078
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>A waterskin can hold&nbsp;4 pints of liquid.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 92,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 0.2,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 5,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Container"],
+        "bundleSize": 1,
+        "name": "Waterskin",
+        "subType": "Adventuring Gear",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270080
+    },
+    {
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "limitedUse": null,
+      "displayAsAttack": null,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "magic": false,
+        "snippet": null,
+        "sourceId": null,
+        "isPack": false,
+        "grantedModifiers": [],
+        "canEquip": false,
+        "description": "<p>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.<\/p>",
+        "type": "Gear",
+        "baseTypeId": 2103445194,
+        "id": 103,
+        "canAttune": false,
+        "stackable": true,
+        "cost": 20,
+        "avatarUrl": null,
+        "isHomebrew": false,
+        "weight": 9,
+        "sourcePageNumber": null,
+        "weaponBehaviors": [],
+        "isConsumable": false,
+        "version": null,
+        "largeAvatarUrl": null,
+        "tags": ["Utility"],
+        "bundleSize": 1,
+        "name": "Brewer's Supplies",
+        "subType": "Tool",
+        "entityTypeId": 2103445194,
+        "filterType": "Other Gear",
+        "attunementDescription": null,
+        "rarity": "Common"
+      },
+      "id": 84270084
+    }
+  ],
+  "modifiers": {
+    "item": [],
+    "condition": [],
+    "race": [
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 11,
+        "dice": null,
+        "entityId": 2,
+        "friendlySubtypeName": "Darkvision",
+        "type": "set-base",
+        "duration": null,
+        "friendlyTypeName": "Set Base",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 668550506,
+        "subType": "darkvision",
+        "id": "racialTrait_11_1346",
+        "value": 60,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 12,
+        "dice": null,
+        "entityId": 14,
+        "friendlySubtypeName": "Perception",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "perception",
+        "id": "racialTrait_12_1347",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 13,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Saving Throws",
+        "type": "advantage",
+        "duration": null,
+        "friendlyTypeName": "Advantage",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "against being charmed, and magic can\u2019t put you to sleep",
+        "entityTypeId": null,
+        "subType": "saving-throws",
+        "id": "racialTrait_13_1348",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 22,
+        "dice": null,
+        "entityId": 4,
+        "friendlySubtypeName": "Longsword",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 1782728300,
+        "subType": "longsword",
+        "id": "racialTrait_22_1354",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 22,
+        "dice": null,
+        "entityId": 37,
+        "friendlySubtypeName": "Longbow",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 1782728300,
+        "subType": "longbow",
+        "id": "racialTrait_22_1355",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 22,
+        "dice": null,
+        "entityId": 17,
+        "friendlySubtypeName": "Shortbow",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 1782728300,
+        "subType": "shortbow",
+        "id": "racialTrait_22_1356",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 22,
+        "dice": null,
+        "entityId": 30,
+        "friendlySubtypeName": "Shortsword",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 1782728300,
+        "subType": "shortsword",
+        "id": "racialTrait_22_1357",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 72,
+        "dice": null,
+        "entityId": 2,
+        "friendlySubtypeName": "Dexterity Score",
+        "type": "bonus",
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 1472902489,
+        "subType": "dexterity-score",
+        "id": "racialTrait_72_1608",
+        "value": 2,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 74,
+        "dice": null,
+        "entityId": 5,
+        "friendlySubtypeName": "Wisdom Score",
+        "type": "bonus",
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 1472902489,
+        "subType": "wisdom-score",
+        "id": "racialTrait_74_1610",
+        "value": 1,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 85,
+        "dice": null,
+        "entityId": 1,
+        "friendlySubtypeName": "Common",
+        "type": "language",
+        "duration": null,
+        "friendlyTypeName": "Language",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 906033267,
+        "subType": "common",
+        "id": "racialTrait_85_1625",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 85,
+        "dice": null,
+        "entityId": 3,
+        "friendlySubtypeName": "Elvish",
+        "type": "language",
+        "duration": null,
+        "friendlyTypeName": "Language",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 906033267,
+        "subType": "elvish",
+        "id": "racialTrait_85_1626",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 23,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Innate Speed (Walking)",
+        "type": "set",
+        "duration": null,
+        "friendlyTypeName": "Set",
+        "componentTypeId": 1960452172,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "innate-speed-walking",
+        "id": "racialTrait_23_5360",
+        "value": 35,
+        "requiresAttunement": false
+      }
+    ],
+    "background": [
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 9,
+        "dice": null,
+        "entityId": 11,
+        "friendlySubtypeName": "Animal Handling",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "animal-handling",
+        "id": "background_9_2102",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 9,
+        "dice": null,
+        "entityId": 15,
+        "friendlySubtypeName": "Survival",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "survival",
+        "id": "background_9_2103",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 9,
+        "dice": null,
+        "entityId": 103,
+        "friendlySubtypeName": "Brewer's Supplies",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 2103445194,
+        "subType": "brewers-supplies",
+        "id": "background_9_2104",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 9,
+        "dice": null,
+        "entityId": 12,
+        "friendlySubtypeName": "Vehicles (Land)",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 1669830167,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1452973421,
+        "subType": "vehicles-land",
+        "id": "background_9_2152",
+        "value": null,
+        "requiresAttunement": false
+      }
+    ],
+    "class": [
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 466,
+        "dice": null,
+        "entityId": 1,
+        "friendlySubtypeName": "Light Armor",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 174869515,
+        "subType": "light-armor",
+        "id": "classFeature_466_1548",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 466,
+        "dice": null,
+        "entityId": 2,
+        "friendlySubtypeName": "Medium Armor",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 174869515,
+        "subType": "medium-armor",
+        "id": "classFeature_466_1549",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 466,
+        "dice": null,
+        "entityId": 4,
+        "friendlySubtypeName": "Shields",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 174869515,
+        "subType": "shields",
+        "id": "classFeature_466_1550",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 466,
+        "dice": null,
+        "entityId": 1,
+        "friendlySubtypeName": "Simple Weapons",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 660121713,
+        "subType": "simple-weapons",
+        "id": "classFeature_466_1551",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 466,
+        "dice": null,
+        "entityId": 2,
+        "friendlySubtypeName": "Martial Weapons",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": 660121713,
+        "subType": "martial-weapons",
+        "id": "classFeature_466_1552",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 466,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Strength Saving Throws",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "strength-saving-throws",
+        "id": "classFeature_466_1554",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 466,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Dexterity Saving Throws",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "dexterity-saving-throws",
+        "id": "classFeature_466_1555",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 466,
+        "dice": null,
+        "entityId": 5,
+        "friendlySubtypeName": "Stealth",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "stealth",
+        "id": "classFeature_466_1556",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 466,
+        "dice": null,
+        "entityId": 9,
+        "friendlySubtypeName": "Nature",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "nature",
+        "id": "classFeature_466_1557",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 466,
+        "dice": null,
+        "entityId": 8,
+        "friendlySubtypeName": "Investigation",
+        "type": "proficiency",
+        "duration": null,
+        "friendlyTypeName": "Proficiency",
+        "componentTypeId": 12168134,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 1958004211,
+        "subType": "investigation",
+        "id": "classFeature_466_1558",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 294,
+        "dice": null,
+        "entityId": 4,
+        "friendlySubtypeName": "Giant",
+        "type": "language",
+        "duration": null,
+        "friendlyTypeName": "Language",
+        "componentTypeId": 12168134,
+        "isGranted": false,
+        "restriction": "",
+        "entityTypeId": 906033267,
+        "subType": "giant",
+        "id": "classFeature_294_2325",
+        "value": null,
+        "requiresAttunement": false
+      },
+      {
+        "statId": null,
+        "bonusTypes": [],
+        "componentId": 57,
+        "dice": null,
+        "entityId": null,
+        "friendlySubtypeName": "Giants",
+        "type": "favored-enemy",
+        "duration": null,
+        "friendlyTypeName": "Favored Enemy",
+        "componentTypeId": 258900837,
+        "isGranted": true,
+        "restriction": "",
+        "entityTypeId": null,
+        "subType": "giants",
+        "id": "classFeatureOption_57_10298",
+        "value": null,
+        "requiresAttunement": false
+      }
+    ],
+    "feat": []
+  },
+  "eyes": null,
+  "feats": [],
+  "customProficiencies": [],
+  "socialName": null,
+  "hair": null,
+  "smallBackdropAvatarUrl": "",
+  "avatarId": 17221,
+  "adjustmentXp": null,
+  "spells": {
+    "item": [],
+    "race": [],
+    "class": [],
+    "feat": []
+  },
+  "temporaryHitPoints": 0,
+  "smallBackdropAvatarId": null,
+  "preferences": {
+    "enforceMulticlassRules": true,
+    "showWildShape": false,
+    "progressionType": 1,
+    "hitPointType": 1,
+    "ignoreCoinWeight": true,
+    "abilityScoreDisplayType": 2,
+    "primarySense": 5,
+    "sharingType": 2,
+    "showCompanions": false,
+    "useHomebrewContent": true,
+    "showUnarmedStrike": true,
+    "primaryMovement": 1,
+    "encumbranceType": 2,
+    "enforceFeatRules": true,
+    "privacyType": 3
+  },
+  "currentXp": 0,
+  "race": {
+    "sizeId": 4,
+    "subRaceShortName": "Wood",
+    "avatarUrl": null,
+    "baseRaceId": 3,
+    "featIds": [],
+    "isHomebrew": false,
+    "fullName": "Wood Elf",
+    "description": "<p>Elves are a magical people of otherworldly grace, living in the world but not entirely part of it.<\/p>\r\n<p class=\"characters-statblock\" style=\"font-family:Roboto Condensed\"><strong>Racial Traits<\/strong><br>+2 Dexterity, Darkvision, Keen Senses, Fey Ancestry, Trance<\/p><p>As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. This category includes the wild elves (grugach) of Greyhawk and the Kagonesti of Dragonlance, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faer&ucirc;n, wood elves (also called wild elves, green elves, or forest elves) are reclusive and distrusting <span>of non-elves.<\/span><\/p>\r\n<p>Wood elves&rsquo; skin tends to be copperish in hue, sometimes with traces of green. Their hair tends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, bro<span>wn, or hazel.<\/span><\/p>",
+    "type": 2,
+    "moreDetailsUrl": "/races/elf#WoodElf",
+    "largeAvatarUrl": null,
+    "entityRaceId": 2,
+    "baseRaceTypeId": 1743923279,
+    "entityRaceTypeId": 1228963568,
+    "size": "Medium",
+    "groupIds": [3],
+    "weightSpeeds": {
+      "normal": {
+        "climb": 0,
+        "fly": 0,
+        "burrow": 0,
+        "walk": 30,
+        "swim": 0
+      },
+      "heavilyEncumbered": null,
+      "override": null,
+      "pushDragLift": null,
+      "encumbered": null
+    },
+    "portraitAvatarUrl": "https://media-waterdeep.cursecdn.com/avatars/9/367/636327456923059326.jpeg",
+    "racialTraits": [
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 1,
+        "name": "Ability Score Increase",
+        "description": "<p>Your Dexterity score in<span>creases by 2.<\/span><\/p>",
+        "sourcePageNumber": 23,
+        "entityTypeId": 1960452172,
+        "id": 72,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 2,
+        "name": "Age",
+        "description": "<p>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.<\/p>",
+        "sourcePageNumber": 23,
+        "entityTypeId": 1960452172,
+        "id": 118,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 3,
+        "name": "Alignment",
+        "description": "<p>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&rsquo; freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not.<\/p>",
+        "sourcePageNumber": 23,
+        "entityTypeId": 1960452172,
+        "id": 119,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 4,
+        "name": "Size",
+        "description": "<p>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.<\/p>",
+        "sourcePageNumber": 23,
+        "entityTypeId": 1960452172,
+        "id": 120,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 5,
+        "name": "Speed",
+        "description": "<p>Your base walking speed is 30 feet.<\/p>",
+        "sourcePageNumber": 23,
+        "entityTypeId": 1960452172,
+        "id": 121,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You can see in darkness (shades of gray) up to 60 ft.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 6,
+        "name": "Darkvision",
+        "description": "<p>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.<\/p>",
+        "sourcePageNumber": 23,
+        "entityTypeId": 1960452172,
+        "id": 11,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You have proficiency in the Perception skill.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 7,
+        "name": "Keen Senses",
+        "description": "<p>You have proficiency in the Perception skill.<\/p>",
+        "sourcePageNumber": 23,
+        "entityTypeId": 1960452172,
+        "id": 12,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You have advantage on saves against being charmed, and magic can\u2019t put you to sleep.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 8,
+        "name": "Fey Ancestry",
+        "description": "<p>You have advantage on saving throws against being charmed, and magic can&rsquo;t put you to sleep.<\/p>",
+        "sourcePageNumber": 23,
+        "entityTypeId": 1960452172,
+        "id": 13,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 9,
+        "name": "Trance",
+        "description": "<p>Elves don&rsquo;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is &ldquo;trance.&rdquo;) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 ho<span>urs of sleep.<\/span><\/p>",
+        "sourcePageNumber": 23,
+        "entityTypeId": 1960452172,
+        "id": 14,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 10,
+        "name": "Languages",
+        "description": "<p>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.<\/p>",
+        "sourcePageNumber": 23,
+        "entityTypeId": 1960452172,
+        "id": 85,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": null,
+        "hideInSheet": true,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 100,
+        "name": "Ability Score Increase",
+        "description": "<p>Your Wisdom score in<span>creases by 1.<\/span><\/p>",
+        "sourcePageNumber": 24,
+        "entityTypeId": 1960452172,
+        "id": 74,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You have proficiency with the longsword, shortsword, shortbow, and longbow.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 200,
+        "name": "Elf Weapon Training",
+        "description": "<p>You have proficiency with the longsword, shortsword, shortbow,<span> and longbow.<\/span><\/p>",
+        "sourcePageNumber": 24,
+        "entityTypeId": 1960452172,
+        "id": 22,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "Your base walking speed increases to 35 feet.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 300,
+        "name": "Fleet of Foot",
+        "description": "<p>Your base walking speed increase<span>s to 35 feet.<\/span><\/p>",
+        "sourcePageNumber": 24,
+        "entityTypeId": 1960452172,
+        "id": 23,
+        "hideInBuilder": true,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }},
+      {"definition": {
+        "snippet": "You can attempt to hide even when you are only lightly obscured.",
+        "hideInSheet": false,
+        "sourceId": 2,
+        "creatureRules": [],
+        "displayOrder": 400,
+        "name": "Mask of the Wild",
+        "description": "<p>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natur<span>al phenomena.<\/span><\/p>",
+        "sourcePageNumber": 24,
+        "entityTypeId": 1960452172,
+        "id": 24,
+        "hideInBuilder": false,
+        "activation": {
+          "activationType": null,
+          "activationTime": null
+        }
+      }}
+    ],
+    "baseName": "Elf",
+    "sourceIds": [
+      1,
+      2
+    ]
+  },
+  "spellDefenses": null,
+  "baseHitPoints": 10,
+  "lifestyle": null,
+  "backdropAvatarUrl": "",
+  "themeColorId": null,
+  "frameAvatarId": null,
+  "age": null,
+  "currencies": {
+    "pp": 0,
+    "gp": 23,
+    "ep": 0,
+    "cp": 0,
+    "sp": 0
+  }
+}

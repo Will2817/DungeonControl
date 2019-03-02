@@ -1,4 +1,5 @@
 import g4p_controls.*;
+import http.requests.*;
 
 GTextField textField;
 GSlider    widthSlider;
@@ -15,12 +16,14 @@ float xPos = 0.0f,yPos = 0.0f, zoom = 1.0f;
 float mX, mWidth, mY, mHeight;
 Map map;
 PImage avatar;
+String[] characters = {"9225877", "9049460", "9059016", "9030942"};
+ArrayList<Player> players = new ArrayList<Player>();
 
 void setup() {
   size(1024,768);
   curHeight = height;
   curWidth = width;
-  
+
   surface.setResizable(true);
   img = loadImage("Cragmaw Hideout.jpg");
   avatar = loadImage("https://media-waterdeep.cursecdn.com/avatars/thumbnails/10/93/150/150/636339382612972808.png", "png");
@@ -36,13 +39,17 @@ void setup() {
   heightSlider.setShowValue(true);
   heightSlider.setShowTicks(true);
   heightSlider.setShowLimits(true);
-  
+
   mX = width*(1-mapWidth)/2;
   mY = 0;
   mWidth = width*mapWidth + mX;
   mHeight = height* mapHeight + mY;
   map = new Map(mX, mY, width*mapWidth, height* mapHeight);
+  for (int i=0; i < characters.length; i++){
+    players.add(new Player(characters[i], true, i*width/characters.length, height* mapHeight, width/characters.length, height * (1-mapHeight)));
+  }
 }
+
 void draw() {
   background(200);
   translate(xPos,yPos);
@@ -68,7 +75,9 @@ void draw() {
   rect(0,0, mX, height* mapHeight);
   rect(mWidth + mX,0, width, height*mapHeight);
   rect(0,height*mapHeight + mY,width, height);
-  image(avatar, 100, 600, 50, 50);
+  for (int i=0; i < characters.length; i++){
+    players.get(i).draw();
+  }
 }
 
 void keyPressed() {
@@ -91,11 +100,11 @@ void mouseWheel(MouseEvent event) {
   zoom = constrain(zoom - e * 0.05, 1, 5);
 }
 
-public void handleSliderEvents(GValueControl slider, GEvent event) { 
+public void handleSliderEvents(GValueControl slider, GEvent event) {
   if (slider == widthSlider) {  // The slider being configured?
     tileWidth = widthSlider.getValueF();
   } else if (slider == heightSlider) {
     tileHeight = heightSlider.getValueF();
   }
-    //println(sdr.getValueS() + "    " + event);    
+    //println(sdr.getValueS() + "    " + event);
 }
