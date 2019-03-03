@@ -19,6 +19,7 @@ Map map;
 PImage avatar;
 String[] characters = {"9225877", "9049460", "9059016", "9030942"};
 ArrayList<Player> players = new ArrayList<Player>();
+ArrayList<PlayerView> playerViews = new ArrayList<PlayerView>();
 
 void setup() {
   size(1024,768);
@@ -46,7 +47,9 @@ void setup() {
   mHeight = height* mapHeight + mY;
   map = new Map(mX, mY, width*mapWidth, height* mapHeight);
   for (int i=0; i < characters.length; i++){
-    players.add(new Player(characters[i], i*width/characters.length, height* mapHeight, width/characters.length, height * (1-mapHeight)));
+    Player p = new Player(characters[i]);
+    players.add(p);
+    playerViews.add(new PlayerView(p, i*width/characters.length, height* mapHeight, width/characters.length, height * (1-mapHeight)));
   }
 }
 
@@ -75,8 +78,8 @@ void draw() {
   rect(0,0, mX, height* mapHeight);
   rect(mWidth + mX,0, width, height*mapHeight);
   rect(0,height*mapHeight + mY,width, height);
-  for (int i=0; i < characters.length; i++){
-    players.get(i).draw();
+  for (int i=0; i < playerViews.size(); i++){
+    playerViews.get(i).draw();
   }
 }
 
