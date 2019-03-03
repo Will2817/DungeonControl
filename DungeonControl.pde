@@ -5,6 +5,7 @@ GTextField textField;
 GSlider    widthSlider;
 GSlider    heightSlider;
 GPanel     mapPanel;
+GButton	   fetchButton;
 
 float mapWidth = 0.75f, mapHeight = 0.8f;
 float tileHeight = 29.2f,  maxHeightValue = 75.0f, minHeightValue = 10.0f;
@@ -27,8 +28,6 @@ void setup() {
   surface.setResizable(true);
   img = loadImage("Cragmaw Hideout.jpg");
   avatar = loadImage("https://media-waterdeep.cursecdn.com/avatars/thumbnails/10/93/150/150/636339382612972808.png", "png");
-  //textField = new GTextField(this, 5, 5, 50, 20);
-  //textField.setText(str(tileWidth));
   widthSlider = new GSlider(this, 15,50,100,60,15);
   widthSlider.setLimits(tileWidth, minWidthValue, maxWidthValue);
   widthSlider.setShowValue(true);
@@ -39,6 +38,7 @@ void setup() {
   heightSlider.setShowValue(true);
   heightSlider.setShowTicks(true);
   heightSlider.setShowLimits(true);
+  fetchButton = new GButton(this, 15, 200, 100, 40, "Fetch Characters");
 
   mX = width*(1-mapWidth)/2;
   mY = 0;
@@ -46,7 +46,7 @@ void setup() {
   mHeight = height* mapHeight + mY;
   map = new Map(mX, mY, width*mapWidth, height* mapHeight);
   for (int i=0; i < characters.length; i++){
-    players.add(new Player(characters[i], true, i*width/characters.length, height* mapHeight, width/characters.length, height * (1-mapHeight)));
+    players.add(new Player(characters[i], i*width/characters.length, height* mapHeight, width/characters.length, height * (1-mapHeight)));
   }
 }
 
@@ -107,4 +107,12 @@ public void handleSliderEvents(GValueControl slider, GEvent event) {
     tileHeight = heightSlider.getValueF();
   }
     //println(sdr.getValueS() + "    " + event);
+}
+
+void handleButtonEvents(GButton button, GEvent event) {
+   if(button == fetchButton && event == GEvent.CLICKED){
+      for (int i=0; i<players.size(); i++){
+        players.get(i).fetchCharacter(true);
+      }
+   }
 }
