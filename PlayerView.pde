@@ -17,11 +17,12 @@ class PlayerView extends PlayerViewSize {
 
   void draw() {
     fill(200);
+    textSize(16);
     rect(0,0,this.width,this.height);
     image(this.player.avatar, 0,0, this.width * 0.4, this.height);
     fill(50);
     text(this.player.name, this.width * 0.42, 20);
-    String healthStr = "Health: "+this.player.curHealth + "/" + this.player.maxHealth;
+    String healthStr = "Hit Points: "+this.player.curHealth + "/" + this.player.maxHealth;
     if (this.player.tempHealth > 0){
       healthStr += " (+" + this.player.tempHealth + ")";
     }
@@ -34,5 +35,9 @@ class PlayerView extends PlayerViewSize {
     fill(200,20,20);
     float healthPercentage = 1.0f * this.player.curHealth / this.player.maxHealth;
     rect(this.width * 0.42, 60, healthPercentage * this.width * 0.50, 30);
+    textSize(32);
+    fill(0);
+    text(this.player.ac, this.width * 0.60, 135);
+
   }
 }
