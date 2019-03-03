@@ -10,6 +10,13 @@ class PlayerView {
     this.height = _height;
   }
 
+  void resize(float _x,float _y, float _width, float _height) {
+    this.x = _x;
+    this.y = _y;
+    this.width = _width;
+    this.height = _height;
+  }
+
   void draw() {
     fill(200);
     rect(this.x,this.y,this.width,this.height);
@@ -22,7 +29,8 @@ class PlayerView {
     }
     text(healthStr, this.x + this.width * 0.42, this.y + 40);
     noFill();
-    stroke(2);
+    strokeWeight(2);
+    stroke(100);
     rect(this.x + this.width * 0.42, this.y + 60, this.width * 0.50, 30);
     noStroke();
     fill(200,20,20);
