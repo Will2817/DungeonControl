@@ -53,10 +53,11 @@ void setup() {
   map = new Map(mX, mY, width*mapWidth, height* mapHeight);
 
   // Setup Players and PlayerViews
+  PlayerView.resize(width/characters.length, height * (1-mapHeight));
   for (int i=0; i < characters.length; i++){
     Player p = new Player(characters[i]);
     players.add(p);
-    playerViews.add(new PlayerView(p, i*width/characters.length, height* mapHeight, width/characters.length, height * (1-mapHeight)));
+    playerViews.add(new PlayerView(p));
   }
 }
 
@@ -78,8 +79,11 @@ void draw() {
   rect(map.width + map.x,0, width, height*map.height);
   rect(0,height*map.height + map.x,width, height);
   for (int i=0; i < playerViews.size(); i++){
+    resetMatrix();
+    translate(i*PlayerView.width, height* mapHeight);
     playerViews.get(i).draw();
   }
+  resetMatrix(); //reset so matrix doesn't get applied to GUI
 }
 
 // Handle resize events
@@ -97,9 +101,7 @@ void resize() {
   float mWidth = width*mapWidth;
   float mHeight = height* mapHeight;
   map.resize(mX,mY,mWidth,mHeight);
-  for (int i=0; i < playerViews.size(); i++){
-    playerViews.get(i).resize(i*width/characters.length, height* mapHeight, width/characters.length, height * (1-mapHeight));
-  }
+  PlayerView.resize(width/playerViews.size(), height * (1-mapHeight));
 }
 
 // Handle key presses (Processing event)
